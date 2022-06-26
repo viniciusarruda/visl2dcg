@@ -4,28 +4,45 @@
 import re
 import json
 
-filename = 'Bosque_CP_8.0.ad.visl.txt'
+filename = 'Bosque_CF_8.0.ad.visl.txt'
 
 with open(filename, 'r', encoding='cp1252') as f:
     data = f.read()
 
 data = data.strip()
 
+# This seems to be an error, need to edit, removing the <s> and </s>
+data = data.replace("\n</s>\n<s>\n&&\nA", "&&\nA")
+
 visl_content = {}
 
-
 def process_s_content(s_content):
-    # tem uns #W #D e #E que eu to ignorando tbm, esta vindo com o titulo da frase.. n sei o que significa
-    s_content = s_content.split('\n')
 
-    s_content = s_content[1:] # removing header
+    def handdle_A(s_content_A):
+        s_content_A = s_content_A.strip()
+        return s_content_A.split('\n')
 
-    sentence = ' '.join(s_content[0].split(' ')[1:]) # removing CP# code
+    sc = {}
 
-    assert s_content[1] == 'A1' # to be ignored, since all sentences have this A1
+    s_content_splited = s_content.split('\n')
+    s_content_splited = s_content_splited[1:] # removing header
+    sentence = ' '.join(s_content_splited[0].split(' ')[1:]) # removing CP# code
+    s_content = '\n'.join(s_content_splited[2:])
 
-    return {sentence: s_content[2:]}
+    i = 1
+    while True:
+        if f'&&\nA{i+1}' in s_content:
+            s_content_splited = s_content.split(f'&&\nA{i+1}')
+            assert len(s_content_splited) == 2
+            sc[f'A{i}'] = handdle_A(s_content_splited[0])
+            s_content = s_content_splited[1]
+        else:
+            sc[f'A{i}'] = handdle_A(s_content)
+            break
 
+        i += 1
+
+    return {sentence: sc}
 
 
 def process_ext_content(ext_content):
@@ -72,5 +89,5 @@ while data != '':
 
     data = data[end_tag:]
 
-with open('out.json', 'w', encoding='utf-8') as f:
+with open('formatted.json', 'w', encoding='utf-8') as f:
     json.dump(visl_content, f, indent=4, ensure_ascii=False)
