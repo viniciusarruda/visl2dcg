@@ -75,5 +75,6 @@ for ext, tree_sentences in visl_content.items():
             tn += 1
 
 
-for tn in os.listdir('output'):
+# for tn in os.listdir('output'):
+for tn in os.listdir('output')[:10]:
     graphviz.render('dot', 'png', f'output/{tn}')

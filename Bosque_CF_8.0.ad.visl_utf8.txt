@@ -179,7 +179,7 @@ ADVL/N<[+1]:pp
 </s>
 <s>
 
-SOURCECETENFolha n=1 cad="Opinião" sec="opi" sem="94a"
+SOURCE: CETENFolha n=1 cad="Opinião" sec="opi" sem="94a"
 CF1-7 Eles se dizem oposição, mas ainda não informaram o que vão combater.
 A1
 STA:cu
@@ -675,7 +675,6 @@ PIV:pp
 <p>
 <s>
 
-
 SOURCE: CETENFolha n=4 cad="Informática" sec="com" sem="94b"
 CF4-1 Na volta de uma viagem ao exterior, vale a pena trazer uma impressora matricial.
 A1
@@ -714,7 +713,6 @@ SUBJ:icl
 </s>
 <s>
 
-
 SOURCE: CETENFolha n=4 cad="Informática" sec="com" sem="94b"
 CF4-2 Free shops dos aeroportos internacionais também vendem o equipamento.
 A1
@@ -736,7 +734,6 @@ ACC:np
 =>N:art('o' <artd> M S)	o
 =H:n('equipamento' <np-def> M S)	equipamento
 .
-
 
 </s>
 </p>
@@ -1049,7 +1046,6 @@ ACC:np
 ==>N:num('334,9' <card> M P)	334,9
 ==H:n('milhão' <np-count?> <np-def?> <card> <num> M P)	milhões
 .
-
 
 </s>
 <s>
@@ -2019,7 +2015,6 @@ PASS:pp
 </p>
 <p>
 <s>
-
 
 SOURCE: CETENFolha n=12 cad="Caderno Especial" sec="nd" sem="94a"
 CF12-2 «Na Vila, quando recebo a bola, tenho que ficar olhando sua trajetória, para não ser surpreendido.
@@ -6205,7 +6200,6 @@ ADVL:fcl
 ==========H:n('terra' <np-def> <prop> F S)	Terra
 .
 
-
 </s>
 </p>
 <p>
@@ -8785,7 +8779,6 @@ SUBJ:np
 =>N:art('o' <artd> M S)	o
 =H:n-adj('alemão' <np-def> M S)	alemão
 .
-
 
 </s>
 </p>
@@ -19251,7 +19244,6 @@ ACC:np
 =====H:n-adj('independente' <np-def> M P)	independentes
 .
 
-
 </s>
 </p>
 <p>
@@ -20356,8 +20348,8 @@ PIV:pp
 ====H:prp('de')	de
 ====P<:np
 =====H:n('estrangeiro' <np-idf> M P)	estrangeiros
-UTT:pp
 (
+UTT:pp
 =H:prp('de')	De
 =P<:np
 ==H:prop('Washington' M S)	Washington
@@ -22495,6 +22487,11 @@ SC:pp
 ====>N:num('3,12' <card> M P)	3,12
 ====H:n('m.' M S)	m.
 .
+
+</s>
+</p>
+<p>
+<s>
 
 SOURCE: CETENFolha n=133 cad="Esporte" sec="des" sem="94a"
 CF133-1b Não por acaso, o técnico Bernardinho diz que o time cubano ataca do terceiro andar.
@@ -24703,6 +24700,10 @@ A1
 UTT:np
 H:prop('El_País' M S)	El_País
 
+</s>
+</p>
+<p>
+<s>
 
 SOURCE: CETENFolha n=146 cad="Mais!" sec="nd" sem="94b"
 CF146-2 Mas o deixaram partir.
@@ -25092,7 +25093,6 @@ ADVL/N<[+2]:pp
 </p>
 <p>
 <s>
-
 
 SOURCE: CETENFolha n=149 cad="Dinheiro" sec="eco" sem="94b"
 CF149-2 Na transição para o real, são mais recomendados os fundos de renda fixa DI (Depósito Interfinanceiro).
@@ -26008,7 +26008,6 @@ ACC:np
 
 </s>
 <s>
-
 
 SOURCE: CETENFolha n=151 cad="Ilustrada" sec="nd" sem="94b"
 CF151-38 Essa é a grande novidade do Carnaval 94: os peladões.
@@ -31558,7 +31557,6 @@ ADVL:pp
 </s>
 <s>
 
-
 SOURCE: CETENFolha n=181 cad="Brasil" sec="pol" sem="94b"
 CF181-4 «Será um programa capaz de unir todas forças que querem levar o Brasil para o Primeiro Mundo.
 A1
@@ -34708,9 +34706,6 @@ ADVL:advp
 =>A:adv('mais' <quant> <KOMP>)	mais
 =H:adv('tarde')	tarde
 .
-
-</s>
-<s>
 &&
 A2
 STA:fcl
@@ -34755,7 +34750,6 @@ ADVL:advp
 
 </s>
 <s>
-
 
 SOURCE: CETENFolha n=197 cad="Caderno Especial" sec="nd" sem="94a"
 CF197-2 Entre eles estavam figuras hoje conhecidas, como o filósofo José Arthur Giannotti, o crítico literário Roberto Schwarz e o economista Paul Singer.
@@ -35787,7 +35781,6 @@ ACC:np
 <ext id=202 cad="Mundo" sec="pol" sem="94b">
 <t>
 <s>
-
 
 SOURCE: CETENFolha n=202 cad="Mundo" sec="pol" sem="94b"
 CF202-1 Papa indica mulher para secretaria
@@ -38808,7 +38801,6 @@ PIV:cu
 
 </s>
 <s>
-
 
 SOURCE: CETENFolha n=217 cad="Caderno Especial" sec="nd" sem="94a"
 CF217-8 Está bem cientes de que vive a era da implantação do SUS (Sistema Unificado de Saúde).»
@@ -43390,7 +43382,6 @@ N<PRED:pp
 ==>N:art('o' <-sam> <artd> M S)	o
 ==H:prop('Conjunto_Nacional' M S)	Conjunto_Nacional
 .
-
 
 </s>
 </p>
@@ -56250,7 +56241,7 @@ ADVL:fcl
 ========P<:np
 =========>N:art('o' <-sam> <artd> F S)	a
 =========H:prop('Folha' F S)	Folha
-,
+=,
 =P:vp
 ==AUX:v-fin('ter' FUT 3S IND)	terá
 ==MV:v-pcp('verificar')	verificado
@@ -93984,7 +93975,6 @@ ADVL:pp
 =======H:n('micro-bac' <np-idf?> <prop> F S)	Micro-bac
 .
 
-
 </s>
 <s>
 
@@ -112192,7 +112182,6 @@ ACC:np
 
 </s>
 <s>
-
 
 SOURCE: CETENFolha n=633 cad="Brasil" sec="pol" sem="94a"
 CF633-3 Ele está me municiando e me dando o instrumental de que careço para imaginar a solução dos problemas do Estado.
@@ -145372,40 +145361,40 @@ CJT:fcl
 =====>N:art('o' <artd> F S)	a
 =====H:n('fome' <np-def> F S)	fome
 ===,
-====ADVL:icl(<ger>)
-=====P:vp
-======MV:v-ger('dar')	dando
-=====ACC:cu
-======CJT:np
-=======H:n('leite' <np-idf> M S)	leite
-=======N<:pp
-========H:prp('a' <sam->)	a
-========P<:np
-=========>N:art('o' <-sam> <artd> F P)	as
-=========H:n('criança' <np-def> F P)	crianças
-=========N<:fcl
-==========SUBJ:np
-===========H:pron-indp('que' <rel> F P)	que
-==========ACC:np
-===========H:pron-pers('se' <refl> F 3P ACC)	se
-==========P:vp
-===========MV:v-fin('alimentar' <fs-rel> PR 3P IND)	alimentam
-==========PIV:pp
-===========H:prp('de')	de
-===========P<:np
-============H:n('lixo' <np-idf> M S)	lixo
-======,
-=====CO:conj-c('e' <co-acc>)	e
-======CJT:np
-=======H:n('estrada' <np-idf> F P)	estradas
-=======N<:pp
-========H:prp('para')	para
-========P<:icl
-=========P:vp
-==========MV:v-inf('desenvolver' <icl-fin>)	desenvolver
+===ADVL:icl(<ger>)
+====P:vp
+=====MV:v-ger('dar')	dando
+====ACC:cu
+=====CJT:np
+======H:n('leite' <np-idf> M S)	leite
+======N<:pp
+=======H:prp('a' <sam->)	a
+=======P<:np
+========>N:art('o' <-sam> <artd> F P)	as
+========H:n('criança' <np-def> F P)	crianças
+========N<:fcl
+=========SUBJ:np
+==========H:pron-indp('que' <rel> F P)	que
 =========ACC:np
-==========>N:art('o' <artd> M S)	o
-==========H:n('país' <np-def> M S)	país
+==========H:pron-pers('se' <refl> F 3P ACC)	se
+=========P:vp
+==========MV:v-fin('alimentar' <fs-rel> PR 3P IND)	alimentam
+=========PIV:pp
+==========H:prp('de')	de
+==========P<:np
+===========H:n('lixo' <np-idf> M S)	lixo
+=====,
+====CO:conj-c('e' <co-acc>)	e
+=====CJT:np
+======H:n('estrada' <np-idf> F P)	estradas
+======N<:pp
+=======H:prp('para')	para
+=======P<:icl
+========P:vp
+=========MV:v-inf('desenvolver' <icl-fin>)	desenvolver
+========ACC:np
+=========>N:art('o' <artd> M S)	o
+=========H:n('país' <np-def> M S)	país
 .
 
 </s>
@@ -154877,13 +154866,13 @@ CJT:fcl
 =ADVL:fcl-
 ==SUB:adv('afinal')	afinal
 =,
-==ADVL:fcl
-===SUB:conj-s('como')	como
-===P:vp
-====MV:v-fin('dizer' <fs-conf> PR 3P IND)	dizem
-===SUBJ:np
-====H:pron-pers('eles' M 3P NOM)	eles
-==,
+=ADVL:fcl
+==SUB:conj-s('como')	como
+==P:vp
+===MV:v-fin('dizer' <fs-conf> PR 3P IND)	dizem
+==SUBJ:np
+===H:pron-pers('eles' M 3P NOM)	eles
+=,
 =-ADVL:fcl
 ==SUBJ:np
 ===>N:art('o' <artd> M S)	o
