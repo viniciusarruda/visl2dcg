@@ -2601,7 +2601,7 @@ SC:np
 ============N<:pp
 =============H:prp('de')	de
 =============N<:np
-==============H:n:('maio' <np-idf> M S)	maio
+==============H:n('maio' <np-idf> M S)	maio
 =========ADVL:pp
 ==========H:prp('em')	em
 ==========N<:np
@@ -19755,68 +19755,6 @@ ADVL:pp
 <s>
 
 SOURCE: CETENFolha n=119 cad="Opinião" sec="opi" sem="94b"
-CF119-1 Não sei se fui claro: seria mais fácil um pinguim cruzar três Saaras do que FHC comer carne de bode espremido a um magote de sertanejos suados.
-A1
-STA:cu
-CJT:fcl
-=ADVL:advp
-==H:adv('não')	Não
-=P:vp
-==MV:v-fin('saber' <nosubj> PR 1S IND)	sei
-=ACC:fcl
-==SUB:conj-s('se')	se
-==P:vp
-===MV:v-fin('ser' <fs-subst> <nosubj> PS 1S IND)	fui
-==SC:adjp
-===H:adj('claro' M S)	claro
-:
-CJT:fcl
-=P:vp
-==MV:v-fin('ser' COND 1/3S)	seria
-=SC:adjp-
-==>A:adv('mais' <quant> <KOMP>)	mais
-==H:adj('fácil' M S)	fácil
-=SUBJ:np
-==>N:art('um' <arti> M S)	um
-==H:n('pinguim' <np-idf> M S)	pinguim
-==N<:icl
-===P:vp
-====MV:v-inf('cruzar')	cruzar
-===ACC:np
-====>N:num('três' <card> M P)	três
-====H:prop('Saaras' M P)	Saaras
-=-SC:adjp
-==KOMP<:acl
-===COM:conj-s('do_que')	do_que
-===SUBJ:np
-====H:prop('FHC' M S)	FHC
-===P:vp
-====MV:v-inf('comer')	comer
-===ACC:np
-====H:n('carne' <np-idf> F S)	carne
-====N<:pp
-=====H:prp('de')	de
-=====P<:np
-======H:n('bode' <np-idf> M S)	bode
-======N<:icl
-=======P:vp
-========MV:v-pcp('espremer' M S)	espremido
-=======ADVL:pp
-========H:prp('a')	a
-========P<:np
-=========>N:art('um' <arti> M S)	um
-=========H:n('magote' <np-idf> M S)	magote
-=========N<ARG:pp
-==========H:prp('de')	de
-==========P<:np
-===========H:n('sertanejo' <np-dequant> <np-idf> M P)	sertanejos
-===========N<:v-pcp('suar' M P)	suados
-.
-
-</s>
-<s>
-
-SOURCE: CETENFolha n=119 cad="Opinião" sec="opi" sem="94b"
 CF119-2 Compreendeste?
 A1
 QUE:fcl
@@ -21497,7 +21435,7 @@ ACC:fcl
 ===N<:fcl
 ====SUBJ:np
 =====H:pron-indp('que' <rel> M S)	que
-====P.vp
+====P:vp
 =====AUX:v-fin('ter' COND 3S)	teria
 =====MV:v-pcp('vir' <fs-rel>)	vindo
 ====ADVL:adjp
@@ -25339,11 +25277,11 @@ ADVL:fcl
 ====N</ADVL[-3]:adv('hoje')	hoje
 ====N<PRED:np
 =====>N:pron-det('todo' <quant> M S)	todo
-======H:n('tipo' <np-idf?> M S)	tipo
-======N<:pp
-=======H:prp('de')	de
-=======P<:np
-========H:n('mercado' <np-idf> M S)	mercado
+=====H:n('tipo' <np-idf?> M S)	tipo
+=====N<:pp
+======H:prp('de')	de
+======P<:np
+=======H:n('mercado' <np-idf> M S)	mercado
 ,
 P:vp
 =MV:v-fin('dizer' <hyfen> PR 3S SUBJ)	diga-
@@ -42996,13 +42934,13 @@ ACC:np
 ===H:prp('a' <sam->)	a
 ===P<:icl
 ====>N:art('o' <-sam> <artd> M S)	o
-=====P:vp
-======MV:v-inf('retornar' <icl-temp>)	retornar
-=====SA:pp
-======H:prp('a' <sam->)	a
-======P<:np
-=======>N:art('o' <-sam> <artd> M S)	o
-=======H:prop('Japão' M S)	Japão
+====P:vp
+=====MV:v-inf('retornar' <icl-temp>)	retornar
+====SA:pp
+=====H:prp('a' <sam->)	a
+=====P<:np
+======>N:art('o' <-sam> <artd> M S)	o
+======H:prop('Japão' M S)	Japão
 .
 
 </s>
@@ -49763,15 +49701,15 @@ ACC:np
 =>N:adv('mais_de' <quant>)	mais_de
 =>N:num('um' <card> M S)	um
 =H:n('tiro' <np-count?> <np-def?> M S)	tiro
-==,
-==N<PRED:np
-===>N:art('o' <artd> F S)	a
-===H:n('maioria' <np-def> F S)	maioria
-===N<:pp
-====H:prp('em' <sam->)	em
-====P<:np
-=====>N:art('o' <-sam> <artd> F S)	a
-=====H:n('cabeça' <np-def> F S)	cabeça
+=,
+=N<PRED:np
+==>N:art('o' <artd> F S)	a
+==H:n('maioria' <np-def> F S)	maioria
+==N<:pp
+===H:prp('em' <sam->)	em
+===P<:np
+====>N:art('o' <-sam> <artd> F S)	a
+====H:n('cabeça' <np-def> F S)	cabeça
 .
 
 </s>
@@ -61383,70 +61321,6 @@ ADVL:pp
 <s>
 
 SOURCE: CETENFolha n=351 cad="Dinheiro" sec="eco" sem="94a"
-CF351-1 Por enquanto, só estão definidos investimentos da ordem de US$ 600 milhões nos próximos três anos na Argentina e mais US$ 500 milhões no México, anunciou Douglas Ivester.
-A1
-STA:fcl
-ACC:fcl
-=ADVL:advp
-==H:adv('por_enquanto')	Por_enquanto
-=,
-=ADVL:advp
-==H:adv('só')	só
-=P:vp
-==MV:v-fin('estar' <fs-subst> PR 3P IND)	estão
-=SC:v-pcp('definir' <n> M P)	definidos
-=SUBJ:np
-==H:n('investimento' <np-idf> M P)	investimentos
-==N<:np
-===H:pp('da_ordem' F S)	da_ordem
-===N<:pp
-====H:prp('de')	de
-====P<:cu
-=====CJT:np
-======H:n('US$' <np-idf> M P)	US$
-======N<:np
-=======>N:num('600' <card> M P)	600
-=======H:n('milhão' <np-count?> <np-def?> <card> <num> M P)	milhões
-=======N<:pp
-========H:prp('em' <sam->)	em
-========P<:np
-=========>N:art('o' <-sam> <artd> M P)	os
-=========>N:adj('próximo' M P)	próximos
-=========>N:num('três' <card> M P)	três
-=========H:n('ano' <np-count?> <np-def?> M P)	anos
-=======N<:pp
-========H:prp('em' <sam->)	em
-========P<:np
-=========>N:art('o' <-sam> <artd> F S)	a
-=========H:prop('Argentina' F S)	Argentina
-=====CO:conj-c('e' <co-prparg>)	e
-=====CJT:np
-======N<:np-
-=======>N:adjp-
-========>A:pron-det('muito' <quant> <KOMP> M P)	mais
-======H:n('US$' <np-idf?> M P)	US$
-======-N<:np
-=======->N:np
-========>N:num('500' <card> M P)	500
-========H:n('milhão' <card> <num> M P)	milhões
-======N<:pp
-=======H:prp('em' <sam->)	em
-=======P<:np
-========>N:art('o' <-sam> <artd> M S)	o
-========H:prop('México' M S)	México
-,
-P:vp
-=MV:v-fin('anunciar' PS 3S IND)	anunciou
-SUBJ:np
-=H:prop('Douglas_Ivester' M S)	Douglas_Ivester
-.
-
-</s>
-</p>
-<p>
-<s>
-
-SOURCE: CETENFolha n=351 cad="Dinheiro" sec="eco" sem="94a"
 CF351-2 Nos últimos cinco anos, só na Argentina, a Coca-Cola investiu US$ 800 milhões na aquisição de novos equipamentos e desenvolvimento de novas tecnologias, lembrou Ivester após encontro com o presidente argentino Carlos Menem.
 A1
 STA:fcl
@@ -62526,7 +62400,7 @@ SC:np
 =>N:adjp
 ==>A:art('o' <artd> M S)	o
 ==H:adj('grande' <KOMP> M S)	maior
-=H:n('assassino' <np-def?> M S)	assassino
+==H:n('assassino' <np-def?> M S)	assassino
 ==KOMP<:pp
 ===H:prp('de')	de
 ===P<:np
@@ -64938,19 +64812,19 @@ SUBJ:np
 ==H:adv('mais')	Mais
 ==A<:pp
 ===H:prp('de' <sam->)	de
-====P<:np
-=====>N:art('o' <-sam> <artd> F S)	a
-=====H:n('metade' <np-def> <numfract> F S)	metade
-=====N<ARG:pp
-======H:prp('de' <sam->)	de
-======P<:np
-=======>N:art('o' <-sam> <artd> M S)	o
-=======H:n('rombo' <np-partitive2> <np-def> M S)	rombo
-=======N<:pp
-========H:prp('em' <sam->)	em
-========P<:np
-=========>N:art('o' <-sam> <artd> F S)	a
-=========H:n('previdência' <np-def> <prop> F S)	Previdência
+===P<:np
+====>N:art('o' <-sam> <artd> F S)	a
+====H:n('metade' <np-def> <numfract> F S)	metade
+====N<ARG:pp
+=====H:prp('de' <sam->)	de
+=====P<:np
+======>N:art('o' <-sam> <artd> M S)	o
+======H:n('rombo' <np-partitive2> <np-def> M S)	rombo
+======N<:pp
+=======H:prp('em' <sam->)	em
+=======P<:np
+========>N:art('o' <-sam> <artd> F S)	a
+========H:n('previdência' <np-def> <prop> F S)	Previdência
 P:vp
 =MV:v-fin('ter' PR 3S IND)	tem
 OC:acl
@@ -66955,10 +66829,10 @@ S<:fcl
 ==H:n('talento' <np-idf> M S)	talento
 ==N<:advp
 ===H:adv('mais' <quant> <KOMP>)	mais
-====KOMP<:acl
-=====COM:conj-s('que')	que
-=====SC:adjp
-======H:adj('incontestável' M S)	incontestável
+===KOMP<:acl
+====COM:conj-s('que')	que
+====SC:adjp
+=====H:adj('incontestável' M S)	incontestável
 .
 
 </s>
@@ -79485,7 +79359,7 @@ SUBJ:np
 ====>N:art('o' <artd> F S)	a
 ====H:n('fita' <np-def> F S)	fita
 ==CO:conj-c('e' <co-vfin> <co-fmc>)	e
-==CJT:x	(<predicate>)
+==CJT:x (<predicate>)
 ===P:vp
 ====MV:v-fin('gravar' <nosubj> IMPF 3S IND)	gravava
 ===ADVL:advp
@@ -105432,7 +105306,7 @@ SUBJ:np
 P:vp
 =AUX:v-fin('poder' PR 3P IND)	podem
 =AUX:v-inf('ser')	ser
-==MV:v-pcp('encontrar' F P)	encontradas
+=MV:v-pcp('encontrar' F P)	encontradas
 ADVL:pp
 =H:prp('em')	em
 =P<:np
@@ -105651,35 +105525,6 @@ SC:np
 =======H:prp('de')	de
 =======P<:np
 ========H:n('agosto' <np-idf> M S)	agosto
-.
-
-</s>
-<s>
-
-SOURCE: CETENFolha n=595 cad="Mundo" sec="pol" sem="94a"
-CF595-3 Foi substituído como candidato por Ernesto Zedillo, que chefiava sua campanha.
-A1
-STA:fcl
-P:vp
-=AUX:v-fin('ser' PS 3S IND)	Foi
-=MV:v-pcp('substituir' <nosubj> <passive> <pass?> M S)	substituído
-ADVL:acl
-=ADVL:advp
-==H:adv('como')	como
-=SUBJ:np('candidato' <np-idf?> M S)	candidato
-PASS:pp
-=H:prp('por')	por
-=P<:np
-==H:prop('Ernesto_Zedillo' M S)	Ernesto_Zedillo
-==,
-==N<PRED:fcl
-===SUBJ:np
-====H:pron-indp('que' <rel> M S)	que
-===P:vp
-====MV:v-fin('chefiar' <fs-rel> IMPF 3S IND)	chefiava
-===ACC:np
-====>N:pron-det('seu' <poss 3S> <si> F S)	sua
-====H:n('campanha' <np-idf?> F S)	campanha
 .
 
 </s>
@@ -110495,7 +110340,7 @@ SUBJ:cu
 =CJT:np
 ==>N:art('o' <artd> M S)	o
 ==>N:adv('politicamente')	politicamente
-===H:n-adj('correto' M S)	correto
+==H:n-adj('correto' M S)	correto
 P:vp
 =MV:v-fin('nascer' PS/MQP 3P IND)	nasceram
 ADVL:advp
@@ -110562,7 +110407,7 @@ CJT:fcl
 =SUBJ:np
 ==>N:art('o' <artd> M S)	O
 ==>N:adv('politicamente')	politicamente
-===H:n-adj('correto' M S)	correto
+==H:n-adj('correto' M S)	correto
 =P:vp
 ==MV:v-fin('institucionalizar' <se-passive> <hyfen> PS 3S IND)	institucionalizou-
 =ACC-PASS:np
@@ -110888,13 +110733,13 @@ X:cu
 =====H:n('economia' <np-idf> F S)	economia
 =====N<:pp
 ======H:prp('em')	em
-=======H:n('inflação' <np-idf?> F S)	inflação
-=======N<:cu
-========CJT:adjp
-=========H:adj('crônico' F S)	crônica
-========CO:conj-c('e' <co-postnom>)	e
-========CJT:adjp
-=========H:adj('alto' F S)	alta
+======H:n('inflação' <np-idf?> F S)	inflação
+======N<:cu
+=======CJT:adjp
+========H:adj('crônico' F S)	crônica
+=======CO:conj-c('e' <co-postnom>)	e
+=======CJT:adjp
+========H:adj('alto' F S)	alta
 .
 
 </s>
@@ -125889,15 +125734,6 @@ H:cu
 <s>
 
 SOURCE: CETENFolha n=708 cad="Cotidiano" sec="soc" sem="94a"
-CF708-5 Socorro!
-A1
-EXC:intj('socorro')	Socorro
-!
-
-</s>
-<s>
-
-SOURCE: CETENFolha n=708 cad="Cotidiano" sec="soc" sem="94a"
 CF708-6 Então é bom a Joyce Pascowitch ir se preparando.
 A1
 STA:fcl
@@ -127610,8 +127446,8 @@ N<:fcl
 ==COM:adv('como')	como
 ==SUBJ:np(<Eg>)
 ===>N:art('o' <artd> M S)	o
-====>A:adv('mais' <quant> <KOMP>)	mais
-====H:adj('bonito' M S)	bonito
+===>A:adv('mais' <quant> <KOMP>)	mais
+===H:adj('bonito' M S)	bonito
 .
 
 </s>
@@ -134293,20 +134129,20 @@ SC:np
 ======H:prp('de')	de
 ======P<:np
 =======>N:art('um' <arti> F S)	uma
-========H:n('geração' <np-idf> F S)	geração
-========N<:fcl
-=========SUBJ:np
-==========H:pron-indp('que' <rel> F S)	que
-=========P:vp
-==========MV:v-fin('sonhar' <fs-rel> IMPF 3S IND)	sonhava
-=========PIV:pp
-==========H:prp('com')	com
-==========P<:cu
-===========CJT:np
-============H:prop('Honolulu' M S)	Honolulu
-===========CO:conj-c('e' <co-prparg>)	e
-===========CJT:np
-============H:n('pracinha' <np-idf> M P)	pracinhas
+=======H:n('geração' <np-idf> F S)	geração
+=======N<:fcl
+========SUBJ:np
+=========H:pron-indp('que' <rel> F S)	que
+========P:vp
+=========MV:v-fin('sonhar' <fs-rel> IMPF 3S IND)	sonhava
+========PIV:pp
+=========H:prp('com')	com
+=========P<:cu
+==========CJT:np
+===========H:prop('Honolulu' M S)	Honolulu
+==========CO:conj-c('e' <co-prparg>)	e
+==========CJT:np
+===========H:n('pracinha' <np-idf> M P)	pracinhas
 .
 
 </s>
@@ -141035,8 +140871,8 @@ CJT:fcl
 =====»
 =====ADVL:acl
 =====COM:adv('como')	como
-======SUBJ:np
-=======H:n('evolução' <np-idf> F S)	evolução
+=====SUBJ:np
+======H:n('evolução' <np-idf> F S)	evolução
 .
 
 </s>
@@ -144315,9 +144151,9 @@ ADVL:pp
 ======CJT:icl(<predicate>)
 =======P:vp
 ========MV:v-inf('ficar')	ficar
-=========ADVL:pp
-==========H:prp('para')	para
-==========P<:adv('trás')	trás
+========ADVL:pp
+=========H:prp('para')	para
+=========P<:adv('trás')	trás
 .
 
 </s>
@@ -145385,16 +145221,16 @@ CJT:fcl
 ===========H:n('lixo' <np-idf> M S)	lixo
 =====,
 ====CO:conj-c('e' <co-acc>)	e
-=====CJT:np
-======H:n('estrada' <np-idf> F P)	estradas
-======N<:pp
-=======H:prp('para')	para
-=======P<:icl
-========P:vp
-=========MV:v-inf('desenvolver' <icl-fin>)	desenvolver
-========ACC:np
-=========>N:art('o' <artd> M S)	o
-=========H:n('país' <np-def> M S)	país
+====CJT:np
+=====H:n('estrada' <np-idf> F P)	estradas
+=====N<:pp
+======H:prp('para')	para
+======P<:icl
+=======P:vp
+========MV:v-inf('desenvolver' <icl-fin>)	desenvolver
+=======ACC:np
+========>N:art('o' <artd> M S)	o
+========H:n('país' <np-def> M S)	país
 .
 
 </s>
@@ -148670,7 +148506,7 @@ N<PRED:fcl
 ======H:prp('de')	de
 ======P<:np
 =======H:n('reajuste' <np-idf> M S)	reajuste
-=======N<ARGOpp
+=======N<ARGO:pp
 ========H:prp('de')	de
 ========P<:np
 =========H:n('valor' <np-idf> M S)	valor
@@ -148742,7 +148578,7 @@ N<PRED:fcl
 ====P<:np
 =====>N:art('o' <artd> F S)	a
 =====H:n('emissão' <np-def> F S)	emissão
-=====N<ARGOpp
+=====N<ARGO:pp
 ======H:prp('de' <sam->)	de
 ======P<:np
 =======>N:art('o' <-sam> <artd> M S)	o
@@ -155079,39 +154915,6 @@ SUBJ:cu
 </ext>
 <ext id=865 cad="Caderno Especial" sec="nd" sem="94a">
 <p>
-<s>
-
-SOURCE: CETENFolha n=865 cad="Caderno Especial" sec="nd" sem="94a"
-CF865-1 Além disso, avaliou como fraca a organização existente até ontem na campanha.
-A1
-STA:fcl
-ADVL:pp
-=H:prp('além_de' <sam->)	Além_de
-=P<:np
-==H:pron-indp('isso' <dem> <-sam> M S)	isso
-,
-P:vp
-=MV:v-fin('avaliar' <nosubj> PS 3S IND)	avaliou
-OC:acl
-=PRD:adv('como')	como
-=SC:adjp
-==H:adj('fraco' F S)	fraca
-ACC:np
-=>N:art('o' <artd> F S)	a
-=H:n('organização' <np-def> F S)	organização
-=N<:icl
-==P:vp('existir' V PCP F S)	existente
-==ADVL:pp
-===H:prp('até')	até
-===P<:adv('ontem')	ontem
-==ADVL:pp
-===H:prp('em' <sam->)	em
-===P<:np
-====>N:art('o' <-sam> <artd> F S)	a
-====H:n('campanha' <np-def> F S)	campanha
-.
-
-</s>
 <s>
 
 SOURCE: CETENFolha n=865 cad="Caderno Especial" sec="nd" sem="94a"
@@ -167648,84 +167451,6 @@ SC:np
 </s>
 </p>
 <p>
-<s>
-
-SOURCE: CETENFolha n=936 cad="Esporte" sec="des" sem="94b"
-CF936-4 O time comandado pelo técnico Miguel Ângelo da Luz ficou com o título ao derrotar anteontem à noite na final a forte seleção de Cuba por 115 a 93 (54 a 44 no primeiro tempo).
-A1
-STA:fcl
-SUBJ:np
-=>N:art('o' <artd> M S)	O
-=H:n('time' <np-def> M S)	time
-=N<:icl
-==P:vp
-===MV:v-pcp('comandar' M S)	comandado
-==PASS:pp
-===H:prp('por' <sam->)	por
-===P<:np
-====>N:art('o' <-sam> <artd> M S)	o
-====H:n('técnico' <np-def> M S)	técnico
-====N<:np
-=====H:prop('Miguel_Ângelo_da_Luz' M S)	Miguel_Ângelo_da_Luz
-P:vp
-=MV:v-fin('ficar' PS 3S IND)	ficou
-PIV:pp
-=H:prp('com')	com
-=P<:np
-==>N:art('o' <artd> M S)	o
-==H:n('título' <np-def> M S)	título
-ADVL:pp
-=H:prp('a' <sam->)	a
-=P<:icl
-==>N:art('o' <-sam> <artd> M S)	o
-==P:vp
-===MV:v-inf('derrotar' <icl-temp>)	derrotar
-==ADVL:advp
-===H:adv('anteontem')	anteontem
-===A<:pp
-====H:prp('a' <sam->)	a
-====P<:np
-=====>N:art('o' <-sam> <artd> F S)	a
-=====H:n('noite' <np-def> F S)	noite
-==ADVL:pp
-===H:prp('em' <sam->)	em
-===P<:np
-====>N:art('o' <-sam> <artd> F S)	a
-====H:n('final' <np-def> F S)	final
-==ACC:np
-===>N:art('o' <artd> F S)	a
-===>N:adj('forte' F S)	forte
-===H:n('seleção' <np-def?> F S)	seleção
-===N<:pp
-====H:prp('de')	de
-====P<:np
-=====H:prop('Cuba' F S)	Cuba
-==ADVL:pp
-===H:prp('por')	por
-===P<:adjp
-====H:adjp
-=====H:num('115' M P)	115
-=====NUM<:pp
-======H:prp('a')	a
-======P<:np
-=======H:num('93' M P)	93
-====(
-====N<PRED:adjp
-=====H:num('54' M P)	54
-=====NUM<:pp
-======H:prp('a')	a
-======P<:adjp
-=======H:num('44' M P)	44
-=====A<:pp
-======H:prp('em' <sam->)	em
-======P<:np
-=======>N:art('o' <-sam> <artd> M S)	o
-=======>N:adj('primeiro' <NUM-ord> M S)	primeiro
-=======H:n('tempo' <np-def?> M S)	tempo
-====)
-.
-
-</s>
 <s>
 
 SOURCE: CETENFolha n=936 cad="Esporte" sec="des" sem="94b"

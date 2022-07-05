@@ -4,7 +4,7 @@
 import re
 import json
 
-original_filename = 'Bosque_CF_8.0.ad.visl.txt'
+# original_filename = 'Bosque_CF_8.0.ad.visl.txt'
 filename = 'Bosque_CF_8.0.ad.visl_utf8.txt'
 
 # This files was loaded and saved as utf-8. Then it was fixed by hand some issues

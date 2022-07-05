@@ -14,3 +14,10 @@ anotacao 473 esta com o parenteses no lugar errado
 3649
 3422
 56244
+
+arvore 1484_A1 tem algum bug que n consegui identificar, corrigi de uma forma que ache mais adequada
+
+
+rodar o script para gerar o utf de novo
+fazer o diff com o utf que eu tenho (que é o corrigido)
+e para as arvores que deu diferença, analisar e ver se eu corrigi a anotação certo e caso contrário ver como corrigir
