@@ -218,7 +218,12 @@ def rules2dcg():
         elif token in puncts:
             formatted_token = 'punct'
         else:
-            token = token.split(':')[-1]
+            if token[0] == '-':
+                return None
+            token = token.split(':')[-1] # consider only the constituent
+            # token = token.replace(':', '_').lower() # also consider the functional part as a rule part
+            if token[-1] == '-':
+                return None
             xs = re.findall(r"[\w]+|[^\s\w]", token)
 
             formatted = [] #['rule']
@@ -255,30 +260,38 @@ def rules2dcg():
     print(f'Number of rules in the treebank_rules.json file: {len(data)}')
 
     formatted_terminals, formatted_puncts, formatted_rules = [], [], []
-    for k in data.keys():
-        ks = k.split(' -> ')
-        assert len(ks) == 2
-        left, right = ks[0], ks[1]
-        right = right.split(' ')
+    for k, count in data.items():
+        if True:
+            ks = k.split(' -> ')
+            assert len(ks) == 2
+            left, right = ks[0], ks[1]
+            right = right.split(' ')
 
-        tokens = [left, *right]
+            tokens = [left, *right]
 
-        formatted_rule = []
-        for token in tokens:
+            formatted_rule = []
+            for token in tokens:
+                    
+                if token in terminals:
+                    formatted_terminals.append(token)
+                elif token in puncts:
+                    formatted_puncts.append(token)
                 
-            if token in terminals:
-                formatted_terminals.append(token)
-            elif token in puncts:
-                formatted_puncts.append(token)
-            
-            formatted_token = format_token(token)
-            if formatted_token not in ['terminal', 'punct']:
-                formatted_rule.append(formatted_token)
-        
-        if len(formatted_rule) > 0:
-            assert len(formatted_rule) >= 2
-            formatted_rule = f"{formatted_rule[0]} --> {', '.join(formatted_rule[1:])}."
-            formatted_rules.append(formatted_rule)
+                formatted_token = format_token(token)
+
+                if formatted_token is None: 
+                    break
+
+                if formatted_token not in ['terminal', 'punct']:
+                    formatted_rule.append(formatted_token)
+
+            if formatted_token is None: 
+                continue
+
+            if len(formatted_rule) > 0:
+                assert len(formatted_rule) >= 2
+                formatted_rule = f"{formatted_rule[0]} --> {', '.join(formatted_rule[1:])}."
+                formatted_rules.append(formatted_rule)
 
 
     ## lexicon
@@ -369,8 +382,8 @@ for k, (ext, tree_sentences) in enumerate(visl_content.items()):
         # break
     # break
     k += 1
-    # if k == 150:
-        # break
+    # if k == 1:
+    #     break
 
 # treebank_rules = dict(sorted(treebank_rules.items(), key=lambda item: item[1], reverse=True))
 with open('treebank_rules.json', 'w', encoding='utf-8') as f:

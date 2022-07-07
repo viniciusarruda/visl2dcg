@@ -21,3 +21,15 @@ arvore 1484_A1 tem algum bug que n consegui identificar, corrigi de uma forma qu
 rodar o script para gerar o utf de novo
 fazer o diff com o utf que eu tenho (que é o corrigido)
 e para as arvores que deu diferença, analisar e ver se eu corrigi a anotação certo e caso contrário ver como corrigir
+
+
+pontuaçao de acordo com o que o finger colocou inicia com $, tipo $(, $:, etc
+
+
+- posso jogar fora as setas de dependencia?
+- o que eu posso jogar fora e ignorar nessas regras?
+FUNCAO:forma ?
+
+- como identificar quem tem loop para colocar por ultimo?
+- ainda sim se não estiver na gramática vai entrar em loop
+    - como faço esse cut para retornar falso?

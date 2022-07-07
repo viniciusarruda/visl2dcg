@@ -41,7 +41,6 @@ acl --> conj_hyphen_s, v_hyphen_pcp.
 acl --> conj_hyphen_s, vp, pp.
 acl --> conj_hyphen_s.
 acl --> cu.
-acl --> fcl_hyphen, np, fcl.
 acl --> np, advp, np.
 acl --> np, np, pp.
 acl --> np, np.
@@ -68,7 +67,6 @@ adjp --> adj.
 adjp --> adv, adj, acl.
 adjp --> adv, adj, fcl.
 adjp --> adv, adj, np.
-adjp --> adv, adj, pp, np, np, np.
 adjp --> adv, adj, pp.
 adjp --> adv, adj.
 adjp --> adv, adjp.
@@ -117,7 +115,6 @@ adjp --> v_hyphen_pcp, adv.
 adjp --> v_hyphen_pcp, pp.
 adjp --> v_hyphen_pcp.
 adjp --> x, adv, adj, acl.
-advp --> acl.
 advp --> adjp, acl.
 advp --> adv, acl.
 advp --> adv, adjp.
@@ -137,7 +134,6 @@ advp --> adv, pron_hyphen_det.
 advp --> adv, pron_hyphen_indp.
 advp --> adv.
 advp --> advp, adv, fcl.
-advp --> fcl.
 advp --> intj.
 advp --> n, adv.
 advp --> np, adv, adv, acl.
@@ -149,13 +145,10 @@ advp --> pron_hyphen_indp.
 advp --> prp, adv, pp.
 advp --> prp, adv.
 advp --> prp, pp.
-advp_hyphen --> adv, adv.
-advp_hyphen --> adv.
 cu --> acl, acl, np.
 cu --> acl, conj_hyphen_c, acl.
 cu --> acl, conj_hyphen_c, fcl.
 cu --> acl, cu.
-cu --> acl.
 cu --> adjp, adjp, adjp, adjp, adjp.
 cu --> adjp, adjp, adjp, advp.
 cu --> adjp, adjp, adjp, conj_hyphen_c, adjp.
@@ -188,7 +181,6 @@ cu --> conj_hyphen_c, fcl, conj_hyphen_c, fcl.
 cu --> conj_hyphen_c, fcl, fcl, conj_hyphen_c, fcl.
 cu --> conj_hyphen_c, np, conj_hyphen_c, np.
 cu --> conj_hyphen_c, pp, conj_hyphen_c, pp.
-cu --> conj_hyphen_c, pp.
 cu --> cu, conj_hyphen_c, cu.
 cu --> cu, fcl.
 cu --> cu.
@@ -208,7 +200,6 @@ cu --> fcl, fcl, fcl.
 cu --> fcl, fcl.
 cu --> fcl, np.
 cu --> fcl.
-cu --> fcl_hyphen, fcl, fcl.
 cu --> icl, conj_hyphen_c, icl, icl, icl, icl.
 cu --> icl, conj_hyphen_c, icl.
 cu --> icl, icl, conj_hyphen_c, fcl.
@@ -287,7 +278,6 @@ cu --> pp, pp, pp, pp, pp, pp.
 cu --> pp, pp, pp.
 cu --> pp, pp.
 cu --> pp.
-cu --> pp_hyphen, advp.
 cu --> v_hyphen_ger, conj_hyphen_c, v_hyphen_ger.
 cu --> v_hyphen_pcp, conj_hyphen_c, adjp, conj_hyphen_c, advp.
 cu --> v_hyphen_pcp, conj_hyphen_c, adjp.
@@ -303,7 +293,6 @@ cu --> x, conj_hyphen_c, np.
 cu --> x, conj_hyphen_c, x, conj_hyphen_c, x.
 cu --> x, conj_hyphen_c, x, icl.
 cu --> x, conj_hyphen_c, x.
-cu --> x, conj_hyphen_c, x_hyphen.
 cu --> x, prp, x.
 cu --> x, x, conj_hyphen_c, x.
 cu --> x, x, x, conj_hyphen_c, x.
@@ -311,10 +300,6 @@ cu --> x, x, x, x.
 cu --> x, x, x.
 cu --> x, x.
 cu --> x.
-cu_hyphen --> acl.
-cu_hyphen --> fcl.
-cu_hyphen --> icl, conj_hyphen_c.
-cu_hyphen --> pp.
 fcl --> acl, advp, np, vp, advp, cu.
 fcl --> acl, cu.
 fcl --> acl, np, vp, advp, pp.
@@ -346,7 +331,6 @@ fcl --> adv, np, vp.
 fcl --> adv, vp, np.
 fcl --> advp, adjp, vp, adjp.
 fcl --> advp, adjp, vp, advp, np, fcl.
-fcl --> advp, adjp, vp_hyphen, adjp, vp, np.
 fcl --> advp, adv.
 fcl --> advp, advp, advp, np, vp, icl.
 fcl --> advp, advp, advp, np, vp.
@@ -383,7 +367,6 @@ fcl --> advp, fcl, adjp, np.
 fcl --> advp, fcl, cu.
 fcl --> advp, fcl, np, advp, vp, cu, fcl.
 fcl --> advp, fcl, np, vp, fcl.
-fcl --> advp, fcl, np, vp_hyphen, advp, vp, pp, pp.
 fcl --> advp, fcl, vp, np, adjp, icl.
 fcl --> advp, fcl, vp, np, np.
 fcl --> advp, np, advp, acl, vp, np.
@@ -434,17 +417,13 @@ fcl --> advp, np, vp, np, pp, fcl, np, vp, pp.
 fcl --> advp, np, vp, np, pp, icl.
 fcl --> advp, np, vp, np, pp.
 fcl --> advp, np, vp, np.
-fcl --> advp, np, vp, np_hyphen, pp, np.
 fcl --> advp, np, vp, pp, icl, fcl.
 fcl --> advp, np, vp, pp, np.
-fcl --> advp, np, vp, pp, np_hyphen, pp, np.
 fcl --> advp, np, vp, pp, pp.
 fcl --> advp, np, vp, pp.
 fcl --> advp, np, vp, v_hyphen_pcp.
 fcl --> advp, np, vp.
-fcl --> advp, np, vp_hyphen, advp, vp.
 fcl --> advp, np.
-fcl --> advp, np_hyphen, vp, np.
 fcl --> advp, pp, advp, np, cu.
 fcl --> advp, pp, advp, np, vp, np.
 fcl --> advp, pp, conj_hyphen_c, icl.
@@ -479,7 +458,6 @@ fcl --> advp, vp, advp, np.
 fcl --> advp, vp, advp, pp.
 fcl --> advp, vp, advp.
 fcl --> advp, vp, cu, fcl.
-fcl --> advp, vp, cu, pp, cu_hyphen.
 fcl --> advp, vp, cu.
 fcl --> advp, vp, fcl, icl.
 fcl --> advp, vp, fcl.
@@ -506,7 +484,6 @@ fcl --> advp, vp, pp, pp.
 fcl --> advp, vp, pp.
 fcl --> advp, vp, v_hyphen_pcp, np.
 fcl --> advp, vp.
-fcl --> advp, vp_hyphen, np, vp, pp.
 fcl --> advp.
 fcl --> conj_hyphen_c, acl, np, vp, np, v_hyphen_pcp.
 fcl --> conj_hyphen_c, advp, np, advp, vp, pp.
@@ -550,7 +527,6 @@ fcl --> conj_hyphen_c, np, vp, pp, pp, fcl.
 fcl --> conj_hyphen_c, np, vp, pp, pp.
 fcl --> conj_hyphen_c, np, vp, pp.
 fcl --> conj_hyphen_c, np, vp.
-fcl --> conj_hyphen_c, np, vp_hyphen, np, vp, pp.
 fcl --> conj_hyphen_c, np.
 fcl --> conj_hyphen_c, pp, fcl, advp, vp, adjp, np.
 fcl --> conj_hyphen_c, pp, np, np, vp, pp.
@@ -576,7 +552,6 @@ fcl --> conj_hyphen_c, vp, np, fcl.
 fcl --> conj_hyphen_c, vp, np, icl.
 fcl --> conj_hyphen_c, vp, np.
 fcl --> conj_hyphen_c, vp, pp, fcl.
-fcl --> conj_hyphen_c, vp_hyphen, np, vp, np.
 fcl --> conj_hyphen_s, acl, np, vp, np.
 fcl --> conj_hyphen_s, acl, vp, np.
 fcl --> conj_hyphen_s, adjp, pp.
@@ -615,13 +590,11 @@ fcl --> conj_hyphen_s, advp, vp, pp, pp.
 fcl --> conj_hyphen_s, advp, vp, pp.
 fcl --> conj_hyphen_s, advp, vp, v_hyphen_pcp.
 fcl --> conj_hyphen_s, advp, vp.
-fcl --> conj_hyphen_s, advp, vp_hyphen, advp, vp.
 fcl --> conj_hyphen_s, advp.
 fcl --> conj_hyphen_s, conj_hyphen_c, cu, vp, pp, np.
 fcl --> conj_hyphen_s, conj_hyphen_s, vp, np, cu.
 fcl --> conj_hyphen_s, cu, np, vp, pp.
 fcl --> conj_hyphen_s, cu, vp, np.
-fcl --> conj_hyphen_s, cu, vp_hyphen, np, vp.
 fcl --> conj_hyphen_s, cu.
 fcl --> conj_hyphen_s, fcl, advp, vp, cu.
 fcl --> conj_hyphen_s, fcl, fcl.
@@ -660,8 +633,6 @@ fcl --> conj_hyphen_s, np, advp, vp, pp, np.
 fcl --> conj_hyphen_s, np, advp, vp, pp, pp.
 fcl --> conj_hyphen_s, np, advp, vp, pp.
 fcl --> conj_hyphen_s, np, advp, vp.
-fcl --> conj_hyphen_s, np, advp, vp_hyphen, advp, vp, icl.
-fcl --> conj_hyphen_s, np, advp, vp_hyphen, np, vp, pp.
 fcl --> conj_hyphen_s, np, cu, vp, np.
 fcl --> conj_hyphen_s, np, cu.
 fcl --> conj_hyphen_s, np, fcl, vp, np, pp.
@@ -707,14 +678,12 @@ fcl --> conj_hyphen_s, np, vp, np, pp, icl.
 fcl --> conj_hyphen_s, np, vp, np, pp, pp.
 fcl --> conj_hyphen_s, np, vp, np, pp.
 fcl --> conj_hyphen_s, np, vp, np.
-fcl --> conj_hyphen_s, np, vp, np_hyphen, pp, np.
 fcl --> conj_hyphen_s, np, vp, pp, adjp.
 fcl --> conj_hyphen_s, np, vp, pp, fcl.
 fcl --> conj_hyphen_s, np, vp, pp, icl.
 fcl --> conj_hyphen_s, np, vp, pp, np.
 fcl --> conj_hyphen_s, np, vp, pp, pp, np.
 fcl --> conj_hyphen_s, np, vp, pp, pp.
-fcl --> conj_hyphen_s, np, vp, pp, pp_hyphen, advp, pp.
 fcl --> conj_hyphen_s, np, vp, pp.
 fcl --> conj_hyphen_s, np, vp, v_hyphen_pcp, pp.
 fcl --> conj_hyphen_s, np, vp, v_hyphen_pcp.
@@ -722,11 +691,6 @@ fcl --> conj_hyphen_s, np, vp, x, np, pp.
 fcl --> conj_hyphen_s, np, vp, x, pp.
 fcl --> conj_hyphen_s, np, vp, x.
 fcl --> conj_hyphen_s, np, vp.
-fcl --> conj_hyphen_s, np, vp_hyphen, advp, vp, np.
-fcl --> conj_hyphen_s, np, vp_hyphen, advp, vp.
-fcl --> conj_hyphen_s, np, vp_hyphen, np, vp, pp.
-fcl --> conj_hyphen_s, np, vp_hyphen, np, vp.
-fcl --> conj_hyphen_s, np, vp_hyphen, vp, pp, pp.
 fcl --> conj_hyphen_s, np.
 fcl --> conj_hyphen_s, pp, advp, np, vp, advp.
 fcl --> conj_hyphen_s, pp, advp, np, vp, np, pp.
@@ -785,10 +749,6 @@ fcl --> conj_hyphen_s, vp, pp, pp, pp.
 fcl --> conj_hyphen_s, vp, pp, pp.
 fcl --> conj_hyphen_s, vp, pp.
 fcl --> conj_hyphen_s, vp.
-fcl --> conj_hyphen_s, vp_hyphen, advp, vp.
-fcl --> conj_hyphen_s, vp_hyphen, np, vp, np, pp.
-fcl --> conj_hyphen_s, vp_hyphen, np, vp, pp.
-fcl --> conj_hyphen_s, vp_hyphen, vp, adjp, np.
 fcl --> cu, advp, advp, vp, icl.
 fcl --> cu, advp, np, vp.
 fcl --> cu, advp, vp, advp, np.
@@ -803,13 +763,11 @@ fcl --> cu, np, cu.
 fcl --> cu, np, vp, acl, np.
 fcl --> cu, np, vp, adjp.
 fcl --> cu, np, vp, advp, pp, fcl.
-fcl --> cu, np, vp, cu, pp.
 fcl --> cu, np, vp, fcl.
 fcl --> cu, np, vp, np.
 fcl --> cu, np, vp, pp, cu.
 fcl --> cu, np, vp, pp, pp, pp.
 fcl --> cu, np, vp.
-fcl --> cu, np, vp_hyphen, advp, vp, pp.
 fcl --> cu, vp, adjp.
 fcl --> cu, vp, advp, np, pp, pp, pp.
 fcl --> cu, vp, advp, np.
@@ -834,9 +792,7 @@ fcl --> cu, vp, pp, pp.
 fcl --> cu, vp, pp.
 fcl --> cu, vp, v_hyphen_pcp.
 fcl --> cu, vp.
-fcl --> cu, vp_hyphen, advp, vp.
 fcl --> cu.
-fcl --> cu_hyphen, vp, np, cu.
 fcl --> fcl, advp, cu.
 fcl --> fcl, advp, np, advp, vp, np.
 fcl --> fcl, advp, vp, advp.
@@ -891,7 +847,6 @@ fcl --> fcl, vp, icl.
 fcl --> fcl, vp, np, acl, np, vp, pp.
 fcl --> fcl, vp, np, acl.
 fcl --> fcl, vp, np, fcl.
-fcl --> fcl, vp, np, fcl_hyphen.
 fcl --> fcl, vp, np, icl.
 fcl --> fcl, vp, np, np.
 fcl --> fcl, vp, np, pp, advp, pp.
@@ -900,7 +855,6 @@ fcl --> fcl, vp, np, pp, pp.
 fcl --> fcl, vp, np, pp.
 fcl --> fcl, vp, np, vp, np.
 fcl --> fcl, vp, np.
-fcl --> fcl, vp, np_hyphen, acl, np.
 fcl --> fcl, vp, pp, fcl.
 fcl --> fcl, vp, pp, icl.
 fcl --> fcl, vp, pp, np.
@@ -910,8 +864,6 @@ fcl --> fcl, vp, v_hyphen_ger.
 fcl --> fcl, vp, v_hyphen_pcp, np.
 fcl --> fcl, vp.
 fcl --> fcl.
-fcl --> fcl_hyphen, vp, fcl.
-fcl --> fcl_hyphen, vp, np, fcl.
 fcl --> icl, advp, np, vp, adjp.
 fcl --> icl, advp, np, vp, fcl.
 fcl --> icl, advp, vp, np.
@@ -1002,7 +954,6 @@ fcl --> np, advp, vp, np, pp, pp, pp.
 fcl --> np, advp, vp, np, pp, pp.
 fcl --> np, advp, vp, np, pp.
 fcl --> np, advp, vp, np.
-fcl --> np, advp, vp, np_hyphen, np.
 fcl --> np, advp, vp, pp, advp.
 fcl --> np, advp, vp, pp, fcl.
 fcl --> np, advp, vp, pp, icl.
@@ -1013,8 +964,6 @@ fcl --> np, advp, vp, pp.
 fcl --> np, advp, vp, v_hyphen_ger, fcl.
 fcl --> np, advp, vp, v_hyphen_pcp, pp.
 fcl --> np, advp, vp.
-fcl --> np, advp, vp_hyphen, np, vp, adjp, pp.
-fcl --> np, advp, vp_hyphen, np, vp, fcl.
 fcl --> np, cu, fcl.
 fcl --> np, cu, np.
 fcl --> np, cu, pp.
@@ -1070,10 +1019,8 @@ fcl --> np, np, vp, pp, pp, icl.
 fcl --> np, np, vp, pp, pp, pp.
 fcl --> np, np, vp, pp, pp.
 fcl --> np, np, vp, pp.
-fcl --> np, np, vp, pp_hyphen, fcl, pp.
 fcl --> np, np, vp, prp, pp.
 fcl --> np, np, vp.
-fcl --> np, np, vp_hyphen, np, vp, pp.
 fcl --> np, np.
 fcl --> np, pp, advp, vp, advp, pp.
 fcl --> np, pp, advp, vp, cu.
@@ -1084,7 +1031,6 @@ fcl --> np, pp, np, vp, np, pp.
 fcl --> np, pp, np, vp, np.
 fcl --> np, pp, np, vp, pp.
 fcl --> np, pp, np, vp.
-fcl --> np, pp, np_hyphen, vp, np, pp.
 fcl --> np, pp, pp, cu.
 fcl --> np, pp, vp, adjp.
 fcl --> np, pp, vp, advp, np.
@@ -1149,7 +1095,6 @@ fcl --> np, vp, advp, pp, pp.
 fcl --> np, vp, advp, pp.
 fcl --> np, vp, advp, v_hyphen_pcp.
 fcl --> np, vp, advp.
-fcl --> np, vp, advp_hyphen, np, advp.
 fcl --> np, vp, cu, conj_hyphen_c, fcl.
 fcl --> np, vp, cu, fcl.
 fcl --> np, vp, cu, icl.
@@ -1203,9 +1148,6 @@ fcl --> np, vp, np, vp, pp.
 fcl --> np, vp, np, vp.
 fcl --> np, vp, np, x.
 fcl --> np, vp, np.
-fcl --> np, vp, np_hyphen, np, icl.
-fcl --> np, vp, np_hyphen, np, np.
-fcl --> np, vp, np_hyphen, pp, np.
 fcl --> np, vp, pp, acl, fcl.
 fcl --> np, vp, pp, acl, pp.
 fcl --> np, vp, pp, acl.
@@ -1238,7 +1180,6 @@ fcl --> np, vp, pp, vp, np.
 fcl --> np, vp, pp, x, x.
 fcl --> np, vp, pp, x.
 fcl --> np, vp, pp.
-fcl --> np, vp, pp_hyphen, pp, pp.
 fcl --> np, vp, v_hyphen_ger.
 fcl --> np, vp, v_hyphen_pcp, conj_hyphen_c, fcl.
 fcl --> np, vp, v_hyphen_pcp, pp.
@@ -1251,23 +1192,7 @@ fcl --> np, vp, x, pp, advp, pp, pp.
 fcl --> np, vp, x, pp.
 fcl --> np, vp, x.
 fcl --> np, vp.
-fcl --> np, vp_hyphen, advp, vp, np.
-fcl --> np, vp_hyphen, advp, vp, pp.
-fcl --> np, vp_hyphen, advp, vp.
-fcl --> np, vp_hyphen, np, vp, advp.
-fcl --> np, vp_hyphen, np, vp, icl.
-fcl --> np, vp_hyphen, np, vp, np.
-fcl --> np, vp_hyphen, np, vp, pp, pp, fcl.
-fcl --> np, vp_hyphen, np, vp, pp, pp.
-fcl --> np, vp_hyphen, np, vp, pp.
-fcl --> np, vp_hyphen, np, vp.
-fcl --> np, vp_hyphen, pp, vp, fcl.
 fcl --> np.
-fcl --> np_hyphen, advp, np, vp, np.
-fcl --> np_hyphen, np, vp, adjp.
-fcl --> np_hyphen, np, vp, np.
-fcl --> np_hyphen, vp, np, pp.
-fcl --> np_hyphen, vp, np.
 fcl --> pp, adjp, vp, np.
 fcl --> pp, adjp, vp, pp.
 fcl --> pp, adjp, vp.
@@ -1294,7 +1219,6 @@ fcl --> pp, advp, vp, np.
 fcl --> pp, advp, vp, pp, np.
 fcl --> pp, advp, vp, pp, pp.
 fcl --> pp, advp, vp.
-fcl --> pp, advp, vp_hyphen, np, vp, pp.
 fcl --> pp, advp.
 fcl --> pp, conj_hyphen_s, np, vp, adjp.
 fcl --> pp, cu, advp, vp, fcl.
@@ -1315,7 +1239,6 @@ fcl --> pp, fcl, vp.
 fcl --> pp, fcl.
 fcl --> pp, icl, vp, adjp, icl.
 fcl --> pp, icl, vp, adjp.
-fcl --> pp, np, advp, np, vp, np_hyphen, pp, np.
 fcl --> pp, np, advp, np, vp, pp.
 fcl --> pp, np, advp, vp, adjp.
 fcl --> pp, np, advp, vp, advp, fcl.
@@ -1329,8 +1252,6 @@ fcl --> pp, np, advp, vp, np.
 fcl --> pp, np, advp, vp, pp, pp.
 fcl --> pp, np, advp, vp, pp.
 fcl --> pp, np, advp, vp.
-fcl --> pp, np, advp, vp_hyphen, np, vp, pp.
-fcl --> pp, np, advp, vp_hyphen, np, vp.
 fcl --> pp, np, cu.
 fcl --> pp, np, np, vp, fcl, pp.
 fcl --> pp, np, np, vp, icl.
@@ -1371,7 +1292,6 @@ fcl --> pp, np, vp, pp, advp, pp.
 fcl --> pp, np, vp, pp, fcl.
 fcl --> pp, np, vp, pp, icl.
 fcl --> pp, np, vp, pp, np.
-fcl --> pp, np, vp, pp, np_hyphen.
 fcl --> pp, np, vp, pp, pp, fcl.
 fcl --> pp, np, vp, pp, pp, pp.
 fcl --> pp, np, vp, pp, pp.
@@ -1381,13 +1301,7 @@ fcl --> pp, np, vp, v_hyphen_pcp.
 fcl --> pp, np, vp, x, pp.
 fcl --> pp, np, vp, x.
 fcl --> pp, np, vp.
-fcl --> pp, np, vp_hyphen, advp, vp, np.
-fcl --> pp, np, vp_hyphen, advp, vp.
-fcl --> pp, np, vp_hyphen, np, vp, np, advp.
-fcl --> pp, np, vp_hyphen, np, vp, pp, pp.
-fcl --> pp, np, vp_hyphen, np, vp, pp.
 fcl --> pp, np.
-fcl --> pp, np_hyphen, advp, vp, adjp.
 fcl --> pp, pp, advp, np, vp, np, pp.
 fcl --> pp, pp, advp.
 fcl --> pp, pp, cu.
@@ -1417,7 +1331,6 @@ fcl --> pp, vp, adjp, x.
 fcl --> pp, vp, adjp.
 fcl --> pp, vp, advp, cu, v_hyphen_ger.
 fcl --> pp, vp, advp, np.
-fcl --> pp, vp, advp, np_hyphen, pp, np.
 fcl --> pp, vp, advp, pp.
 fcl --> pp, vp, cu, pp.
 fcl --> pp, vp, cu.
@@ -1438,11 +1351,7 @@ fcl --> pp, vp, pp, np.
 fcl --> pp, vp, pp, pp.
 fcl --> pp, vp, pp.
 fcl --> pp, vp.
-fcl --> pp, vp_hyphen, advp, vp, np, icl.
-fcl --> pp, vp_hyphen, np, vp, np, pp.
-fcl --> pp, vp_hyphen, np, vp, np.
 fcl --> pp.
-fcl --> pp_hyphen, np, pp.
 fcl --> pron_hyphen_indp, cu, vp, np.
 fcl --> pron_hyphen_indp, np, advp, vp, np.
 fcl --> pron_hyphen_indp, np, cu.
@@ -1483,7 +1392,6 @@ fcl --> vp, advp, pp, pp, np.
 fcl --> vp, advp, pp, pp.
 fcl --> vp, advp, pp.
 fcl --> vp, advp.
-fcl --> vp, advp_hyphen, np, advp, fcl_hyphen, fcl, fcl.
 fcl --> vp, conj_hyphen_s, np.
 fcl --> vp, cu, fcl.
 fcl --> vp, cu, icl.
@@ -1509,7 +1417,6 @@ fcl --> vp, np, icl.
 fcl --> vp, np, np, advp, pp.
 fcl --> vp, np, np, pp.
 fcl --> vp, np, np.
-fcl --> vp, np, np_hyphen, np.
 fcl --> vp, np, pp, advp.
 fcl --> vp, np, pp, cu.
 fcl --> vp, np, pp, np, vp.
@@ -1521,8 +1428,6 @@ fcl --> vp, np, prp, v_hyphen_inf.
 fcl --> vp, np, vp, icl, fcl.
 fcl --> vp, np, vp, np.
 fcl --> vp, np.
-fcl --> vp, np_hyphen, advp, np.
-fcl --> vp, np_hyphen, pp, np.
 fcl --> vp, pp, acl.
 fcl --> vp, pp, advp, advp, pp.
 fcl --> vp, pp, advp, advp.
@@ -1544,24 +1449,7 @@ fcl --> vp, vp.
 fcl --> vp, x, pp.
 fcl --> vp, x.
 fcl --> vp.
-fcl --> vp_hyphen, advp, vp, np, pp.
-fcl --> vp_hyphen, advp, vp, pp, cu.
-fcl --> vp_hyphen, advp, vp, pp.
-fcl --> vp_hyphen, np, advp, vp, np, pp.
-fcl --> vp_hyphen, np, np, vp.
-fcl --> vp_hyphen, np, vp, advp, fcl.
-fcl --> vp_hyphen, np, vp, cu, fcl.
-fcl --> vp_hyphen, np, vp, cu.
-fcl --> vp_hyphen, np, vp, pp, pp.
-fcl --> vp_hyphen, pp, vp, np.
 fcl --> x, np, cu.
-fcl_hyphen --> acl.
-fcl_hyphen --> adv.
-fcl_hyphen --> advp.
-fcl_hyphen --> icl, vp, advp, pp_hyphen.
-fcl_hyphen --> np.
-fcl_hyphen --> pp.
-fcl_hyphen --> vp, np, pp, pp.
 icl --> advp, advp, vp, icl.
 icl --> advp, advp, vp, pp.
 icl --> advp, conj_hyphen_s, vp, pp.
@@ -1584,7 +1472,6 @@ icl --> advp, vp, pp, pp.
 icl --> advp, vp, pp.
 icl --> advp, vp.
 icl --> advp.
-icl --> advp_hyphen, vp, pp, advp.
 icl --> art, adjp, pp.
 icl --> art, vp, np, pp.
 icl --> art, vp, np, x, pp.
@@ -1616,8 +1503,6 @@ icl --> np, vp, np.
 icl --> np, vp, pp, pp.
 icl --> np, vp, pp.
 icl --> np, vp.
-icl --> np, vp_hyphen, np, vp, pp, pp.
-icl --> np, vp_hyphen, np, vp.
 icl --> np.
 icl --> pp, cu, pp.
 icl --> pp, np, vp, pp.
@@ -1667,15 +1552,12 @@ icl --> vp, np, advp, pp.
 icl --> vp, np, advp.
 icl --> vp, np, cu.
 icl --> vp, np, fcl.
-icl --> vp, np, icl, pp_hyphen, advp, pp.
 icl --> vp, np, icl.
 icl --> vp, np, np, fcl.
 icl --> vp, np, np.
 icl --> vp, np, pp, advp, pp.
 icl --> vp, np, pp, advp.
 icl --> vp, np, pp, icl.
-icl --> vp, np, pp, np_hyphen, pp.
-icl --> vp, np, pp, np_hyphen.
 icl --> vp, np, pp, pp, pp.
 icl --> vp, np, pp, pp.
 icl --> vp, np, pp, v_hyphen_ger, conj_hyphen_c, icl.
@@ -1685,7 +1567,6 @@ icl --> vp, np, v_hyphen_pcp, pp.
 icl --> vp, np, v_hyphen_pcp.
 icl --> vp, np, x.
 icl --> vp, np.
-icl --> vp, np_hyphen, pp, np.
 icl --> vp, pp, acl, pp, pp.
 icl --> vp, pp, acl, pp.
 icl --> vp, pp, acl.
@@ -1708,7 +1589,6 @@ icl --> vp, v_hyphen_pcp.
 icl --> vp, x, np.
 icl --> vp, x.
 icl --> vp.
-icl --> vp_hyphen, np, vp, pp.
 np --> adj, adj, n, adjp.
 np --> adj, adj, n, pp.
 np --> adj, cu.
@@ -1914,7 +1794,6 @@ np --> art, n, adjp, np, np, np.
 np --> art, n, adjp, np, pp.
 np --> art, n, adjp, np.
 np --> art, n, adjp, pp, adjp.
-np --> art, n, adjp, pp, cu, pp, fcl.
 np --> art, n, adjp, pp, cu, pp.
 np --> art, n, adjp, pp, cu.
 np --> art, n, adjp, pp, fcl.
@@ -2140,7 +2019,6 @@ np --> conj_hyphen_c, art, n.
 np --> conj_hyphen_c, art, prop.
 np --> conj_hyphen_c, n, pp, pp.
 np --> conj_hyphen_c, n.
-np --> conj_hyphen_c, np_hyphen, pp, np.
 np --> cu, acl.
 np --> cu, adjp.
 np --> cu, cu.
@@ -2168,8 +2046,6 @@ np --> ec, n, pp.
 np --> ec, n.
 np --> ec, n_hyphen_adj, pp.
 np --> ec, n_hyphen_adj.
-np --> fcl.
-np --> icl.
 np --> n, acl, adjp, fcl.
 np --> n, acl, adv, np.
 np --> n, acl, fcl.
@@ -2275,7 +2151,6 @@ np --> np, acl.
 np --> np, advp, np, vp, icl.
 np --> np, n, pp.
 np --> np, n.
-np --> np.
 np --> num, adj.
 np --> num, adv.
 np --> num, cu.
@@ -2325,8 +2200,6 @@ np --> pp, art, n, pp, pp.
 np --> pp, n, adjp.
 np --> pp, n, np.
 np --> pp, n.
-np --> pp, pp.
-np --> pp.
 np --> pron_hyphen_det, acl.
 np --> pron_hyphen_det, adj, n, acl.
 np --> pron_hyphen_det, adj, n, adjp, cu.
@@ -2468,7 +2341,6 @@ np --> prop, fcl, advp, vp, np, fcl.
 np --> prop, fcl, advp, vp, np, pp.
 np --> prop, fcl, np, advp, vp, np.
 np --> prop, fcl, np, vp, np.
-np --> prop, fcl, np, vp_hyphen, np, vp, pp.
 np --> prop, fcl, pp, np, vp, acl.
 np --> prop, fcl.
 np --> prop, icl, fcl.
@@ -2496,23 +2368,6 @@ np --> v_hyphen_pcp, n.
 np --> v_hyphen_pcp, num, n.
 np --> v_hyphen_pcp, pp.
 np --> x, x.
-np_hyphen --> adj.
-np_hyphen --> art, adj, n.
-np_hyphen --> art, n, adjp.
-np_hyphen --> art, n, fcl.
-np_hyphen --> art, n, pp, fcl.
-np_hyphen --> art, n, pp, pp.
-np_hyphen --> art, n, pp.
-np_hyphen --> art, n.
-np_hyphen --> cu.
-np_hyphen --> icl.
-np_hyphen --> n, adjp.
-np_hyphen --> n, pp.
-np_hyphen --> n.
-np_hyphen --> pp.
-np_hyphen --> pron_hyphen_det, pp, np, np.
-np_hyphen --> pron_hyphen_indp.
-np_hyphen --> prp, np.
 pp --> adjp, prp, cu.
 pp --> adv, adjp.
 pp --> adv, cu.
@@ -2525,13 +2380,8 @@ pp --> adv, prp, fcl.
 pp --> adv, prp, icl.
 pp --> adv, prp, np.
 pp --> advp, np.
-pp --> cu.
-pp --> icl, advp, pp.
-pp --> icl.
-pp --> np.
 pp --> num.
 pp --> pp, np.
-pp --> pp.
 pp --> prp, adjp.
 pp --> prp, adv.
 pp --> prp, cu, conj_hyphen_c, np.
@@ -2556,25 +2406,18 @@ pp --> prp, np, cu.
 pp --> prp, np, fcl.
 pp --> prp, np, np, pp.
 pp --> prp, np, np.
-pp --> prp, np, np_hyphen, pp, np.
 pp --> prp, np, pp.
 pp --> prp, np, pron_hyphen_indp.
 pp --> prp, np, vp, adjp, cu.
 pp --> prp, np, vp, icl.
 pp --> prp, np, vp, np.
 pp --> prp, np.
-pp --> prp, np_hyphen, np, np.
-pp --> prp, np_hyphen, np.
-pp --> prp, np_hyphen.
 pp --> prp, pp, np.
 pp --> prp, pp.
 pp --> prp, prp.
 pp --> prp, v_hyphen_inf.
 pp --> prp, v_hyphen_pcp.
 pp --> prp.
-pp_hyphen --> prp, cu_hyphen.
-pp_hyphen --> prp, np.
-pp_hyphen --> prp.
 sentence --> acl.
 sentence --> adjp.
 sentence --> cu.
@@ -2590,7 +2433,6 @@ sq --> np, advp.
 sq --> np, cu.
 sq --> np, fcl.
 sq --> np, np.
-vp --> cu.
 vp --> v_hyphen_fin, adjp.
 vp --> v_hyphen_fin, advp.
 vp --> v_hyphen_fin, conj_hyphen_s, v_hyphen_inf, v_hyphen_ger.
@@ -2627,19 +2469,11 @@ vp --> v_hyphen_inf, v_hyphen_pcp.
 vp --> v_hyphen_inf.
 vp --> v_hyphen_pcp, np.
 vp --> v_hyphen_pcp.
-vp_hyphen --> v_hyphen_fin, conj_hyphen_s.
-vp_hyphen --> v_hyphen_fin, np.
-vp_hyphen --> v_hyphen_fin, prp, v_hyphen_inf.
-vp_hyphen --> v_hyphen_fin, prp.
-vp_hyphen --> v_hyphen_fin, v_hyphen_inf.
-vp_hyphen --> v_hyphen_fin.
-vp_hyphen --> v_hyphen_inf.
 x --> adj.
 x --> adv, pp.
 x --> advp, advp, vp, adjp.
 x --> advp, advp, vp, cu.
 x --> advp, advp, vp, icl.
-x --> advp, advp, vp_hyphen, advp, vp, pp.
 x --> advp, np, vp, acl.
 x --> advp, np, vp, advp, adjp.
 x --> advp, np, vp.
@@ -2720,7 +2554,6 @@ x --> vp, np, icl.
 x --> vp, np, np.
 x --> vp, np, pp, pp, pp.
 x --> vp, np, pp, pp.
-x --> vp, np, pp, pp_hyphen, advp, pp.
 x --> vp, np, pp.
 x --> vp, np.
 x --> vp, pp, advp, fcl.
@@ -2736,9 +2569,6 @@ x --> vp, pp.
 x --> vp, v_hyphen_pcp.
 x --> vp, x, conj_hyphen_c, x.
 x --> vp.
-x --> vp_hyphen, np, vp, np.
-x --> vp_hyphen, np, vp.
-x_hyphen --> v_hyphen_pcp, cu_hyphen.
 
 
 %%%%%LEXICON%%%%
