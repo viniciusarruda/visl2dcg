@@ -1,0 +1,32 @@
+punct_open_curly_bracket --> prp, np.	1.0
+acl --> np, pp.	1.0
+s --> fcl.	0.8
+advp --> adv.	0.6666666666666666
+icl --> vp, pp.	0.6666666666666666
+pp --> prp, np.	0.6153846153846154
+vp --> v_fin.	0.5714285714285714
+adjp --> adj.	0.5
+adjp --> num.	0.5
+fcl --> icl, punct_comma, np, pp, advp, vp, advp, punct_dot.	0.5
+advp --> np, adv, adv.	0.3333333333333333
+icl --> advp, vp, np.	0.3333333333333333
+vp --> v_pcp.	0.2857142857142857
+fcl --> np, vp, np, pp, punct_open_curly_bracket, punct_close_curly_bracket.	0.25
+fcl --> vp, np, punct_double_dash, advp, punct_comma, np, punct_dot.	0.25
+s --> acl.	0.2
+np --> art, n.	0.18181818181818182
+np --> prop.	0.18181818181818182
+pp --> prp, adjp.	0.15384615384615385
+pp --> prp, punct_ltlt, np, punct_gtgt.	0.15384615384615385
+vp --> v_inf.	0.14285714285714285
+np --> n, pp.	0.09090909090909091
+np --> n.	0.09090909090909091
+np --> art, n, pp.	0.09090909090909091
+np --> num, n.	0.09090909090909091
+pp --> prp, icl.	0.07692307692307693
+np --> art, prop.	0.045454545454545456
+np --> n, adjp, pp.	0.045454545454545456
+np --> np.	0.045454545454545456
+np --> pron_det, n.	0.045454545454545456
+np --> n_adj, adjp, pp.	0.045454545454545456
+np --> adj, n_adj, pp.	0.045454545454545456

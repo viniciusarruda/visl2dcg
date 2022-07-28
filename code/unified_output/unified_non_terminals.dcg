@@ -1,0 +1,32 @@
+pp --> prp, np.	8
+advp --> adv.	4
+np --> art, n.	4
+np --> prop.	4
+s --> fcl.	4
+vp --> v_fin.	4
+adjp --> adj.	2
+np --> n, pp.	2
+np --> n.	2
+adjp --> num.	2
+advp --> np, adv, adv.	2
+fcl --> icl, punct_comma, np, pp, advp, vp, advp, punct_dot.	2
+icl --> vp, pp.	2
+np --> art, n, pp.	2
+np --> num, n.	2
+pp --> prp, adjp.	2
+pp --> prp, punct_ltlt, np, punct_gtgt.	2
+vp --> v_pcp.	2
+fcl --> np, vp, np, pp, punct_open_curly_bracket, punct_close_curly_bracket.	1
+icl --> advp, vp, np.	1
+np --> art, prop.	1
+np --> n, adjp, pp.	1
+pp --> prp, icl.	1
+punct_open_curly_bracket --> prp, np.	1
+vp --> v_inf.	1
+fcl --> vp, np, punct_double_dash, advp, punct_comma, np, punct_dot.	1
+np --> np.	1
+np --> pron_det, n.	1
+np --> n_adj, adjp, pp.	1
+np --> adj, n_adj, pp.	1
+acl --> np, pp.	1
+s --> acl.	1

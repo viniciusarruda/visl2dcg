@@ -1,0 +1,19 @@
+n --> [anos] | [entrada] | [estado] | [estrangeiros] | [estudo] | [governador] | [governo] | [sentido] | [usp].
+prp --> [de] | [em] | [por].
+art --> [a] | [o] | [os].
+v_fin --> [acusa] | [tem] | [terminaria].
+adj --> [federal] | [intelectuais] | [jovens].
+prop --> [eua] | [o_capital] | [pt] | [washington].
+adv --> [alias] | [mais] | [nao] | [so] | [tarde].
+v_inf --> [impedir].
+punct_open_curly_bracket --> [open_curly_bracket].
+punct_close_curly_bracket --> [close_curly_bracket].
+pron_det --> [muitissimo].
+punct_double_dash --> [double_dash].
+punct_comma --> [comma].
+punct_dot --> [dot].
+v_pcp --> [iniciado].
+num --> [cinco] | [n1958].
+n_adj --> [intelectuais] | [jovens].
+punct_ltlt --> [ltlt].
+punct_gtgt --> [gtgt].

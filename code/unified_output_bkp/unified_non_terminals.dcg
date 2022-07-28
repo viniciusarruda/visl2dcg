@@ -1,0 +1,4329 @@
+pp --> prp, np.	10436
+vp --> v_fin.	5307
+s --> fcl.	3562
+np --> art, n.	3275
+np --> prop.	2508
+adjp --> adj.	2461
+np --> n.	2459
+np --> art, n, pp.	2246
+advp --> adv.	2017
+np --> art, prop.	1259
+vp --> v_inf.	1106
+np --> n, pp.	1105
+np --> pron_indp.	976
+np --> pron_pers.	894
+np --> art, n, adjp.	687
+pp --> prp, icl.	611
+vp --> v_pcp.	607
+np --> pron_det, n.	552
+np --> num, n.	543
+np --> n, adjp.	541
+cu --> np, conj_c, np.	517
+icl --> vp, pp.	501
+adjp --> num.	500
+icl --> vp, np.	464
+vp --> v_fin, v_pcp.	406
+vp --> v_fin, v_inf.	316
+fcl --> np, vp, np.	306
+pp --> prp, cu.	277
+np --> art, n, np.	262
+s --> np.	255
+fcl --> np, vp, np, punct_dot.	250
+s --> cu.	244
+pp --> prp, adjp.	236
+np --> art, n, adjp, pp.	233
+np --> art, adj, n.	202
+vp --> v_ger.	192
+cu --> x, conj_c, x.	189
+fcl --> np, vp, pp, punct_dot.	168
+np --> art, adj, n, pp.	167
+fcl --> np, vp, pp.	162
+advp --> adv, pp.	160
+np --> art, n, fcl.	155
+np --> art, n, pp, pp.	155
+np --> n, np.	149
+np --> num, n, pp.	149
+np --> pron_det.	145
+fcl --> np, vp, fcl, punct_dot.	136
+icl --> vp, np, pp.	133
+adjp --> adv, adj.	131
+acl --> adv, np.	126
+cu --> pp, conj_c, pp.	118
+np --> pron_det, n, pp.	116
+pp --> prp, fcl.	110
+adjp --> adj, pp.	109
+cu --> np, punct_comma, np, conj_c, np.	108
+x --> vp, np.	106
+fcl --> conj_s, np, vp, np.	105
+fcl --> np, vp, np, pp.	103
+vp --> v_fin, v_ger.	103
+np --> n, adjp, pp.	103
+np --> art, n, icl.	100
+fcl --> np, vp, np, pp, punct_dot.	94
+np --> art, prop, pp.	91
+np --> prop, punct_open_curly_bracket, np, punct_close_curly_bracket.	87
+np --> art, pron_det, n.	85
+np --> adj, n.	84
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket.	84
+cu --> adjp, conj_c, adjp.	83
+cu --> fcl, conj_c, fcl, punct_dot.	83
+np --> pron_det, pp.	79
+np --> art, n, cu.	77
+np --> num.	77
+x --> pp, pp.	76
+np --> n, fcl.	75
+fcl --> vp, np.	72
+np --> n, icl.	72
+adjp --> num, pp.	72
+advp --> adv, adv.	71
+np --> n, pp, pp.	71
+icl --> vp, pp, pp.	69
+fcl --> np, cu, punct_dot.	69
+s --> acl.	68
+np --> art, n, v_pcp.	67
+np --> art, n_adj.	66
+pp --> adv, prp, np.	64
+vp --> v_fin, prp, v_inf.	64
+fcl --> vp, np, punct_dot.	63
+pp --> prp, adv.	63
+fcl --> np, vp.	62
+np --> n, v_pcp.	60
+icl --> vp.	58
+fcl --> conj_s, vp, np.	58
+fcl --> fcl, punct_comma, vp, np, punct_dot.	57
+fcl --> advp, vp, np.	57
+vp --> v_fin, v_inf, v_pcp.	56
+icl --> vp, fcl.	56
+s --> sq.	56
+fcl --> np, vp, icl, punct_dot.	54
+x --> vp, pp.	54
+np --> n, cu.	53
+vp --> v_inf, v_pcp.	53
+np --> pron_det, n, adjp.	52
+np --> pron_det, fcl.	51
+fcl --> conj_s, np, vp, pp.	49
+fcl --> pp, punct_comma, np, vp, np, punct_dot.	49
+fcl --> np, vp, icl.	49
+fcl --> np, vp, cu, punct_dot.	48
+np --> prop, punct_comma, np.	48
+x --> vp, np, pp.	47
+sq --> np, punct_double_dash, fcl.	46
+cu --> icl, conj_c, icl.	44
+cu --> fcl, punct_comma, conj_c, fcl, punct_dot.	43
+x --> vp.	42
+np --> prop, punct_comma, np, punct_comma.	42
+fcl --> np, vp, pp, pp, punct_dot.	41
+cu --> np, punct_comma, np, punct_comma, np, conj_c, np.	40
+np --> pron_det, art, n.	38
+fcl --> np, np, vp.	36
+np --> art, num, n.	36
+fcl --> np, advp, vp, np, punct_dot.	35
+np --> adj, n, pp.	35
+adjp --> adv, v_pcp.	35
+icl --> vp, cu.	34
+np --> prop, punct_comma, fcl.	34
+cu --> fcl, conj_c, fcl.	34
+acl --> conj_s, np.	34
+fcl --> np, vp, cu.	33
+np --> art, adj, n, adjp.	33
+fcl --> np, np, vp, pp.	33
+fcl --> np, vp, pp, pp.	31
+icl --> advp, vp, pp.	30
+fcl --> np, vp, fcl.	30
+np --> art, n, punct_comma, fcl.	29
+adjp --> adv, num.	29
+fcl --> np, advp, vp, np.	28
+fcl --> conj_s, np, vp, np, pp.	27
+fcl --> conj_s, advp, vp, np.	26
+np --> art, pron_det, n, pp.	26
+pp --> prp, punct_ltlt, np, punct_gtgt.	26
+fcl --> vp, fcl, punct_dot.	26
+np --> art, punct_ltlt, n, punct_gtgt.	26
+fcl --> pp, punct_comma, np, vp, np, pp, punct_dot.	26
+fcl --> fcl, punct_gtgt, punct_comma, vp, np, punct_dot.	25
+fcl --> np, vp, adjp, punct_dot.	25
+fcl --> vp, pp.	25
+pp --> prp, v_inf.	24
+np --> art, punct_ltlt, prop, punct_gtgt.	24
+np --> art, n, pp, punct_comma, np, punct_comma.	24
+np --> art, prop, punct_comma, np, punct_comma.	23
+np --> num, pp.	23
+icl --> vp, advp.	23
+icl --> vp, icl.	23
+np --> num, n, adjp.	23
+fcl --> pp, punct_comma, np, vp, pp, punct_dot.	23
+fcl --> np, vp, pp, np, punct_dot.	23
+np --> adv, num, n.	22
+np --> art, prop, punct_comma, fcl.	22
+np --> art, num, n, pp.	22
+np --> art, prop, punct_comma, np.	22
+fcl --> pp, punct_comma, np, vp, icl, punct_dot.	22
+fcl --> np, advp, vp, pp.	21
+np --> art, n, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	21
+advp --> intj.	21
+np --> art, n, adjp, np.	21
+fcl --> advp, np, vp, pp.	21
+np --> art, n, adjp, adjp.	21
+fcl --> np, cu.	21
+fcl --> conj_s, vp, pp.	20
+np --> prop, punct_comma, pp.	20
+fcl --> np, vp, advp.	20
+fcl --> advp, np, vp, np.	20
+np --> art, n, adjp, fcl.	20
+np --> pron_det, adj, n.	20
+np --> art, cu.	20
+np --> pron_det, num, n.	20
+np --> n, punct_open_curly_bracket, np, punct_close_curly_bracket.	20
+np --> pp.	19
+s --> icl.	19
+fcl --> pp, punct_comma, vp, np, punct_dot.	19
+np --> art, n_adj, pp.	19
+np --> adjp, n.	19
+fcl --> conj_s, np, vp, adjp.	19
+fcl --> vp, np, pp, punct_dot.	19
+icl --> vp, pp, np.	19
+np --> art, n, punct_ltlt, np, punct_gtgt.	19
+vp --> v_fin, v_ger, v_pcp.	18
+np --> art, n, pp, fcl.	18
+fcl --> np, vp, adjp.	18
+icl --> vp, advp, np.	18
+vp --> v_fin, conj_s, v_inf.	18
+icl --> np, vp, pp.	18
+np --> cu, pp.	18
+icl --> np, vp.	18
+np --> n, np, pp.	18
+fcl --> np, vp, advp, np, punct_dot.	17
+icl --> vp, adjp.	17
+icl --> np, vp, np.	17
+fcl --> conj_s, np, advp, vp, np.	17
+fcl --> vp, fcl.	17
+acl --> adv, cu.	17
+fcl --> vp, np, pp.	17
+cu --> fcl, punct_comma, conj_c, fcl.	17
+icl --> vp, advp, pp.	17
+fcl --> pp.	17
+fcl --> pp, vp, np, punct_dot.	17
+fcl --> np, vp, pp, punct_comma, pp, punct_dot.	16
+cu --> pp, punct_comma, pp, conj_c, pp.	16
+np --> pron_det, n, fcl.	16
+np --> prop, pp.	16
+np --> art, icl.	16
+acl --> advp, np.	16
+cu --> np, punct_comma, np.	15
+fcl --> np.	15
+fcl --> np, vp, advp, pp, punct_dot.	15
+pp --> prp, np, pp.	15
+fcl --> conj_s, np, vp, icl.	15
+fcl --> conj_s, np, vp.	15
+np --> art, ec, n.	15
+cu --> x, punct_comma, conj_c, x.	15
+np --> punct_ltlt, prop, punct_gtgt, pp.	15
+fcl --> np, np, vp, np.	14
+fcl --> np, advp, vp, pp, punct_dot.	14
+fcl --> advp, vp, np, punct_dot.	14
+np --> art, prop, adjp.	14
+np --> art, pron_det.	14
+np --> art, n, punct_comma, np, punct_comma.	14
+np --> prop, adjp.	14
+np --> n, adjp, fcl.	14
+np --> art, adj, n, fcl.	14
+np --> art, n, adjp, punct_comma, fcl.	14
+np --> art, adj, n, adjp, pp.	13
+fcl --> fcl, punct_comma, vp, punct_dot.	13
+np --> n, acl.	13
+fcl --> vp, icl.	13
+icl --> advp, vp.	13
+fcl --> pp, punct_comma, np, vp, fcl, punct_dot.	13
+fcl --> cu, vp, np, punct_dot.	13
+fcl --> np, vp, advp, fcl, punct_dot.	13
+np --> art, adj.	13
+advp --> prp, adv.	13
+cu --> np, conj_c, adjp.	13
+icl --> advp, vp, np.	13
+np --> pron_det, num, n, pp.	13
+np --> adv, num, n, pp.	13
+np --> art, v_pcp.	12
+np --> art, n, adjp, icl.	12
+cu --> fcl, punct_semicolon, fcl, punct_dot.	12
+np --> punct_ltlt, n, pp, punct_gtgt.	12
+fcl --> pp, punct_comma, np, cu, punct_dot.	12
+fcl --> np, vp, np, pp, pp.	12
+np --> art, n, pp, punct_comma, np.	12
+x --> vp, adjp.	12
+fcl --> advp, vp, pp.	12
+np --> pron_det, n, np.	12
+fcl --> conj_s, vp, icl.	12
+x --> vp, pp, pp.	12
+adjp --> art, num.	12
+x --> np, vp, pp.	11
+np --> n_adj.	11
+fcl --> vp, adjp.	11
+fcl --> fcl, punct_comma, vp, np, pp, punct_dot.	11
+np --> n, punct_comma, fcl.	11
+pp --> prp.	11
+np --> pron_det, n, adjp, pp.	11
+cu --> fcl, punct_comma, fcl, punct_dot.	11
+x --> vp, cu.	11
+acl --> pp.	11
+fcl --> fcl, punct_gtgt, punct_comma, vp, punct_dot.	11
+np --> adv, n, np.	11
+pp --> prp, v_pcp.	11
+np --> ec, n, pp.	11
+np --> n, adjp, adjp.	11
+cu --> np, punct_comma, np, punct_comma, np.	11
+np --> num, n, adjp, pp.	11
+np --> art, n, np, punct_comma, np, punct_comma.	11
+fcl --> vp.	11
+np --> art, cu, pp.	11
+np --> art, adj, prop.	11
+advp --> np, adv.	11
+fcl --> advp, punct_comma, np, vp, np, punct_dot.	11
+x --> advp, vp, np.	11
+np --> pron_det, art, n, pp.	11
+np --> art, n, cu, pp.	11
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	10
+fcl --> vp, pp, punct_dot.	10
+np --> art, prop, punct_comma, fcl, punct_comma.	10
+cu --> x, punct_comma, x.	10
+fcl --> pp, np, vp, pp, punct_dot.	10
+np --> art, n, punct_comma, np.	10
+cu --> adjp, punct_comma, adjp, conj_c, adjp.	10
+fcl --> advp, np, vp, np, punct_dot.	10
+np --> pron_det, cu.	10
+adjp --> adv, adj, pp.	10
+fcl --> conj_s, vp, np, pp.	10
+np --> art, n, v_pcp, pp.	10
+fcl --> np, np, vp, pp, punct_dot.	10
+fcl --> pp, punct_comma, np, advp, vp, np, punct_dot.	10
+np --> pron_indp, fcl.	10
+fcl --> pp, np, vp, np, punct_dot.	10
+fcl --> advp, np, vp.	10
+np --> art, adj, n, np.	10
+fcl --> np, np, vp, pp, pp.	10
+fcl --> conj_s, np, cu.	10
+np --> prop, punct_comma, adjp.	10
+advp --> adv, acl.	10
+adjp --> adv, cu.	10
+icl --> vp, acl.	10
+fcl --> pp, punct_comma, np, vp, cu, punct_dot.	10
+fcl --> advp, vp.	10
+np --> prop, punct_comma, adjp, punct_comma.	10
+fcl --> advp, vp, icl.	10
+np --> art, adj, num, n.	10
+np --> art, adj, n, pp, pp.	10
+np --> n_adj, pp.	10
+fcl --> np, advp, vp, icl.	9
+fcl --> np, advp, vp, icl, punct_dot.	9
+np --> art, prop, punct_comma, pp.	9
+x --> v_pcp, pp.	9
+np --> n, x.	9
+np --> art, n, adjp, pp, pp.	9
+np --> n, v_pcp, pp.	9
+np --> art, n, punct_comma, icl.	9
+fcl --> np, advp, vp, fcl, punct_dot.	9
+vp --> v_fin, v_pcp, v_pcp.	9
+cu --> pp, pp.	9
+adjp --> adj, adv.	9
+np --> art, n, pp, icl.	9
+np --> art, n, pp, punct_comma, fcl.	9
+fcl --> np, vp, advp, np.	9
+fcl --> np, advp, vp, np, pp.	9
+np --> art, n, np, pp.	9
+np --> art, n, punct_open_curly_bracket, np, punct_close_curly_bracket.	9
+icl --> np, vp, np, pp.	9
+fcl --> icl, punct_comma, np, vp, np, punct_dot.	9
+np --> adj, n, adjp.	9
+np --> art, n, np, punct_comma, np.	9
+fcl --> vp, cu, punct_dot.	9
+np --> art, prop, fcl.	8
+np --> ec, n.	8
+fcl --> pp, vp, cu, punct_dot.	8
+icl --> vp, np, pp, pp.	8
+fcl --> np, vp, pp, fcl, punct_dot.	8
+np --> num, n, punct_semicolon, cu.	8
+np --> art, n, pp, pp, pp.	8
+adjp --> advp, adj.	8
+fcl --> conj_s, vp, adjp.	8
+np --> num, prop.	8
+np --> art, n, np, punct_comma, adjp.	8
+fcl --> np, vp, punct_dot.	8
+vp --> v_fin, prp, v_inf, v_pcp.	8
+np --> art, n, punct_comma, fcl, punct_comma.	8
+np --> prop, punct_comma, icl.	8
+np --> np, n.	8
+fcl --> np, vp, advp, pp.	8
+np --> n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket.	8
+np --> art, adj, n, icl.	8
+np --> art, n, pp, punct_comma, pp.	8
+fcl --> conj_c, vp, np, punct_dot.	8
+fcl --> conj_s, np, vp, fcl.	8
+fcl --> np, advp, vp.	8
+np --> adjp, n, pp.	8
+cu --> advp, conj_c, advp.	8
+fcl --> np, vp, np, pp, pp, punct_dot.	8
+np --> adv, art, n, pp.	8
+fcl --> conj_s, np, np, vp, pp.	8
+np --> pron_pers, np.	8
+x --> vp, icl.	8
+fcl --> conj_s, np, advp, vp, pp.	8
+fcl --> punct_ltlt, np, punct_gtgt, vp, np, punct_dot.	8
+fcl --> punct_ltlt, np, vp, np, punct_dot.	8
+np --> art, ec, n, np.	8
+fcl --> fcl, punct_comma, vp, np.	8
+fcl --> np, vp, pp, np.	8
+np --> pron_det, n, icl.	8
+np --> n, punct_semicolon, np, punct_dot.	7
+np --> adv, art, n.	7
+fcl --> pp, vp.	7
+np --> art, pron_det, n, fcl.	7
+fcl --> pp, punct_dot.	7
+fcl --> np, advp, vp, np, pp, punct_dot.	7
+np --> art, n, np, punct_comma, adjp, punct_comma.	7
+fcl --> pp, punct_comma, vp, np, pp, punct_dot.	7
+x --> vp, fcl.	7
+cu --> np.	7
+fcl --> advp, vp, np, pp.	7
+fcl --> conj_s, vp.	7
+fcl --> np, vp, adjp, pp.	7
+np --> pron_det, prop.	7
+np --> pron_det, art, n, adjp.	7
+np --> cu, icl.	7
+np --> prop, fcl.	7
+fcl --> pp, punct_comma, np, vp, pp, pp, punct_dot.	7
+np --> prop, punct_comma, pp, punct_comma.	7
+cu --> adjp, conj_c, v_pcp.	7
+np --> art, prop, np.	7
+icl --> vp, np, advp.	7
+np --> pron_det, pron_det, n.	7
+fcl --> advp, np, vp, pp, punct_dot.	7
+np --> art, n, adjp, punct_comma, pp.	7
+np --> art, n, punct_comma, cu.	7
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np.	7
+np --> art, pron_det, n, adjp.	7
+fcl --> np, advp, vp, punct_dot.	7
+fcl --> vp, pp, np, punct_dot.	7
+np --> prop, punct_comma, adjp, punct_comma, np, punct_comma.	7
+np --> pron_det, icl.	7
+icl --> art, vp, np.	7
+np --> n, adjp, icl.	7
+np --> art, pron_det, prop.	7
+x --> advp, vp, pp.	7
+adjp --> adv, adj, acl.	7
+np --> art, n, pp, punct_comma, icl.	7
+adjp --> adj, acl.	7
+np --> art, prop, punct_comma, pp, punct_comma.	7
+icl --> vp, np, np.	7
+x --> vp, advp.	7
+fcl --> punct_ltlt, fcl, punct_gtgt, punct_comma, vp, np, punct_dot.	7
+fcl --> np, vp, np, pp, punct_comma, pp, punct_dot.	7
+fcl --> punct_ltlt, vp, np, punct_dot.	7
+np --> art, adjp.	7
+fcl --> advp, vp, np, pp, punct_dot.	7
+fcl --> vp, cu.	7
+x --> np, vp.	7
+fcl --> conj_s, np, vp, advp.	7
+x --> v_pcp.	7
+np --> art, punct_ltlt, n, pp, punct_gtgt.	7
+np --> art, n, adjp, punct_comma, np.	6
+fcl --> pp, punct_comma, vp, pp, np, punct_dot.	6
+np --> pron_det, n, cu.	6
+fcl --> conj_s, np.	6
+fcl --> vp, pp, pp.	6
+fcl --> fcl, punct_dot.	6
+np --> art, num, n, icl.	6
+np --> art, ec, n, pp.	6
+fcl --> advp, vp, fcl.	6
+adjp --> adv, adj, fcl.	6
+icl --> vp, pp, punct_comma, icl.	6
+np --> num, n, punct_comma, fcl.	6
+np --> pron_det, n, v_pcp.	6
+fcl --> np, np, vp, advp.	6
+fcl --> advp, np, vp, np, pp.	6
+np --> art, n, advp.	6
+icl --> vp, cu, pp.	6
+np --> art, n, pp, pp, punct_comma, np, punct_comma.	6
+fcl --> conj_s, advp, vp, np, pp.	6
+fcl --> np, vp, np, acl, punct_dot.	6
+fcl --> pp, vp, np.	6
+np --> prop, punct_open_curly_bracket, pp, punct_close_curly_bracket.	6
+fcl --> np, vp, advp, punct_dot.	6
+np --> art, n, punct_comma, pp.	6
+np --> cu, fcl.	6
+np --> prop, punct_comma, fcl, punct_comma.	6
+fcl --> np, vp, np, punct_comma, pp, punct_dot.	6
+fcl --> vp, advp, np, punct_dot.	6
+adjp --> pron_det, num.	6
+fcl --> conj_c, np, vp, np, punct_dot.	6
+np --> pron_det, n, punct_comma, fcl.	6
+vp --> v_fin, prp.	6
+fcl --> pp, punct_comma, vp, cu, punct_dot.	6
+icl --> vp, pp, punct_comma, pp.	6
+fcl --> np, np, advp, vp.	6
+advp --> adv, adv, pp.	6
+adjp --> v_pcp.	6
+fcl --> np, punct_comma, pp, punct_comma, vp, np, punct_dot.	6
+fcl --> conj_s, vp, fcl.	6
+np --> art, prop, punct_comma, icl.	6
+fcl --> np, advp, np, vp, pp, punct_dot.	6
+np --> num, n, fcl.	6
+fcl --> cu, punct_comma, vp, punct_dot.	6
+np --> art, n, adjp, cu.	6
+cu --> n_adj, conj_c, n_adj.	6
+cu --> np, punct_comma, prp, np.	6
+pp --> prp, pp.	6
+np --> art, punct_ltlt, n, punct_gtgt, pp.	6
+np --> n, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	6
+fcl --> conj_s, np, vp, cu.	6
+fcl --> icl, punct_comma, np, cu, punct_dot.	5
+np --> n, punct_comma, pp, punct_comma.	5
+fcl --> conj_s, np, vp, pp, np.	5
+fcl --> advp, vp, pp, punct_dot.	5
+np --> art, adjp, n, pp.	5
+np --> n, punct_comma, pp.	5
+np --> art, adj, pp.	5
+cu --> x, x.	5
+np --> num, n, n.	5
+s --> pp.	5
+vp --> v_fin, conj_s.	5
+np --> adv, n.	5
+fcl --> pp, punct_comma, vp, np.	5
+fcl --> cu, vp, pp, punct_dot.	5
+fcl --> punct_ltlt, fcl, punct_gtgt, punct_comma, vp, punct_dot.	5
+fcl --> conj_s, np, vp, pp, pp.	5
+fcl --> advp, punct_comma, np, vp, pp, punct_dot.	5
+fcl --> vp, pp, pp, punct_dot.	5
+np --> art, pron_det, adj, n.	5
+np --> art, cu, n.	5
+np --> art, n_adj, fcl.	5
+fcl --> np, punct_dot.	5
+fcl --> pp, vp, pp.	5
+fcl --> np, vp, punct_comma, advp, punct_comma, fcl, punct_dot.	5
+np --> art, n, pp, cu.	5
+icl --> icl.	5
+cu --> fcl, punct_semicolon, fcl.	5
+fcl --> vp, np, cu, punct_dot.	5
+fcl --> adjp, vp, np, punct_dot.	5
+fcl --> vp, np, punct_exclamation.	5
+np --> adv, prop.	5
+np --> pron_det, adjp.	5
+x --> vp, advp, pp.	5
+np --> art, n, punct_comma, icl, punct_comma.	5
+np --> art, n, np, punct_comma, pp, punct_comma.	5
+fcl --> advp, punct_comma, np, vp, fcl, punct_dot.	5
+np --> prop, punct_comma, adjp, punct_comma, np.	5
+np --> ec, n, adjp, pp.	5
+cu --> v_pcp, conj_c, adjp.	5
+advp --> np, adv, pp.	5
+fcl --> np, vp, advp, cu, punct_dot.	5
+np --> art, n, pp, adjp.	5
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, fcl.	5
+fcl --> vp, adjp, icl, punct_dot.	5
+np --> art, cu, np.	5
+fcl --> advp, punct_comma, np, cu, punct_dot.	5
+fcl --> punct_ltlt, np, vp, pp, punct_gtgt.	5
+np --> pron_det, n, punct_comma, np, punct_comma.	5
+acl --> advp, punct_exclamation.	5
+fcl --> np, vp, np, advp.	5
+fcl --> vp, icl, punct_dot.	5
+vp --> v_inf, prp, v_inf.	5
+acl --> pp, punct_dot.	5
+np --> n, adjp, punct_double_dash, fcl, punct_dot.	5
+np --> art, n, adjp, punct_ltlt, np, punct_gtgt.	5
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, pp.	5
+fcl --> advp, punct_comma, vp, np, punct_dot.	5
+cu --> punct_ltlt, np, punct_gtgt, conj_c, punct_ltlt, np, punct_gtgt.	5
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	5
+cu --> np, punct_comma, conj_c, np.	5
+np --> prp, np.	5
+cu --> pp, punct_comma, pp, punct_comma, pp.	5
+fcl --> np, vp, adjp, pp, punct_dot.	5
+cu --> adjp, conj_c, pp.	5
+cu --> pp, punct_comma, pp.	5
+np --> pron_indp, pp.	5
+np --> n, pp, punct_comma, icl.	5
+np --> art, n, np, punct_comma, pp.	5
+fcl --> pp, punct_comma, np, advp, vp, pp, punct_dot.	5
+fcl --> fcl.	5
+pp --> prp, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	5
+np --> fcl.	4
+fcl --> punct_ltlt, advp, vp, np, punct_dot.	4
+np --> art, n, punct_semicolon, np.	4
+np --> pron_det, n, punct_comma, np.	4
+pp --> adv, prp, icl.	4
+np --> n, cu, pp.	4
+fcl --> np, np, vp, np, punct_dot.	4
+np --> art, v_pcp, n, pp.	4
+np --> art, num.	4
+fcl --> np, vp, np, np, punct_dot.	4
+fcl --> np, vp, acl, punct_dot.	4
+advp --> adv, cu.	4
+np --> n, pp, punct_dot.	4
+np --> cu, n.	4
+fcl --> np, vp, advp, pp, pp, punct_dot.	4
+fcl --> np, vp, punct_comma, pp, punct_comma, np, punct_dot.	4
+adjp --> n_adj.	4
+fcl --> np, punct_comma, pp, punct_comma, vp, pp, punct_dot.	4
+np --> n, adjp, punct_comma, np.	4
+fcl --> np, vp, np, fcl, punct_dot.	4
+vp --> v_inf, v_pcp, v_pcp.	4
+fcl --> np, np, vp, adjp.	4
+np --> art, n, np, icl.	4
+np --> cu, adjp.	4
+icl --> vp, adjp, pp.	4
+fcl --> pp, punct_comma, np, vp, adjp, punct_dot.	4
+acl --> adv, adjp.	4
+fcl --> np, punct_comma, vp, np, punct_dot.	4
+icl --> vp, pp, pp, pp.	4
+np --> art, n, acl.	4
+cu --> np, np, conj_c, np.	4
+fcl --> pron_indp, vp, np.	4
+fcl --> np, np, vp, cu.	4
+np --> art, prop, punct_comma, adjp, punct_comma.	4
+fcl --> cu, vp, np.	4
+vp --> v_fin, v_inf, prp, v_inf.	4
+icl --> vp, np, pp, advp.	4
+fcl --> advp, np.	4
+np --> pron_det, n, punct_comma, icl.	4
+fcl --> icl, punct_comma, np, vp, pp, punct_dot.	4
+fcl --> cu, punct_gtgt, punct_comma, vp, np, punct_dot.	4
+np --> cu.	4
+fcl --> punct_ltlt, np, vp, icl, punct_gtgt.	4
+fcl --> np, vp, cu, punct_comma, pp, punct_dot.	4
+np --> adv, pron_indp.	4
+cu --> fcl, punct_comma, fcl, conj_c, fcl, punct_dot.	4
+np --> art, pron_det, n, np.	4
+cu --> fcl, punct_comma, fcl.	4
+cu --> x, punct_comma, x, conj_c, x.	4
+icl --> art, vp, pp.	4
+fcl --> pp, punct_comma, np, vp, np.	4
+fcl --> fcl, vp, np, punct_dot.	4
+np --> art, adj, n, punct_open_curly_bracket, np, punct_close_curly_bracket.	4
+sq --> np, punct_double_dash, cu.	4
+acl --> advp, pp.	4
+fcl --> np, advp, vp, fcl.	4
+fcl --> vp, adjp, fcl, punct_dot.	4
+pp --> prp, np, punct_comma, np, punct_comma.	4
+np --> art, num, adj, n.	4
+cu --> x.	4
+fcl --> conj_s, np, vp, v_pcp.	4
+cu --> icl.	4
+fcl --> np, vp, advp, np, pp, punct_dot.	4
+fcl --> fcl, punct_comma, np, vp, np, punct_dot.	4
+fcl --> np, vp, pp, pp, punct_comma, pp, punct_dot.	4
+np --> art, pron_det, n, adjp, pp.	4
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, np.	4
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	4
+np --> n, adjp, pp, pp.	4
+np --> cu, punct_comma, np.	4
+fcl --> advp, np, vp, pp, np.	4
+np --> art, n, adjp, punct_comma, fcl, punct_comma.	4
+np --> n, punct_comma, np.	4
+x --> advp, vp.	4
+fcl --> np, punct_comma, advp, punct_comma, vp, np, punct_dot.	4
+np --> art, n, pp, pp, punct_comma, np.	4
+np --> n, punct_comma, np, punct_comma.	4
+adjp --> ec, adj.	4
+np --> num, n, icl.	4
+acl --> advp.	4
+fcl --> np, advp, vp, adjp, punct_dot.	4
+np --> art, v_pcp, pp.	4
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np.	4
+icl --> advp, vp, icl.	4
+pp --> icl.	4
+np --> n, punct_semicolon, np.	4
+fcl --> vp, advp, pp.	4
+icl --> vp, np, punct_comma, pp.	4
+pp --> prp, np, punct_comma, fcl.	4
+np --> pron_det, n, pp, pp.	4
+pp --> prp, np, fcl.	4
+np --> art, n, pp, punct_comma, pp, punct_comma.	4
+advp --> adv, np.	4
+np --> adj.	4
+np --> n, num, n.	4
+fcl --> conj_s, np, advp, vp.	4
+vp --> v_fin, conj_s, v_inf, v_pcp.	4
+np --> num, n, np.	4
+icl --> vp, np, acl.	4
+cu --> punct_ltlt, fcl, punct_comma, conj_c, fcl, punct_gtgt.	4
+fcl --> advp, vp, cu.	4
+fcl --> cu, vp, pp, pp, punct_dot.	4
+fcl --> pp, punct_comma, adjp, vp, np, punct_dot.	4
+cu --> np, conj_c, pp.	4
+np --> art, adj, num, n, pp.	4
+fcl --> np, vp, pp, punct_comma, fcl, punct_dot.	4
+np --> pron_det, n_adj.	4
+np --> n, pp, fcl.	4
+fcl --> punct_ltlt, vp, icl, punct_dot.	4
+fcl --> pp, punct_comma, vp, adjp, np, punct_dot.	4
+icl --> vp, pp, fcl.	4
+fcl --> conj_s, advp, vp, pp.	4
+fcl --> pp, punct_comma, np, vp, pp.	4
+np --> pron_det, art, pron_det, n.	4
+fcl --> advp, punct_comma, np, vp, np, pp, punct_dot.	4
+fcl --> advp, vp, fcl, punct_dot.	4
+np --> prop, punct_open_curly_bracket, adjp, punct_comma, np, punct_close_curly_bracket.	4
+np --> prop, punct_comma, adjp, punct_comma, np, punct_semicolon.	4
+fcl --> pp, punct_comma, np, vp, advp, np, punct_dot.	4
+fcl --> np, vp, cu, pp, punct_dot.	4
+cu --> np, punct_comma, np, punct_comma, conj_c, np.	4
+fcl --> punct_ltlt, vp, pp, punct_dot.	4
+icl --> vp, pp, advp.	4
+vp --> v_inf, np.	4
+fcl --> pp, punct_comma, np, vp, np, pp, pp, punct_dot.	4
+fcl --> fcl, punct_comma, vp, np, punct_comma, fcl, punct_dot.	3
+fcl --> icl, vp, np, punct_dot.	3
+np --> pron_det, pron_det, fcl.	3
+fcl --> np, vp, punct_comma, pp, punct_dot.	3
+fcl --> conj_s, np, advp, vp, icl.	3
+fcl --> vp, np, cu.	3
+icl --> vp, np, pp, punct_comma, pp, punct_comma, pp.	3
+np --> art, adj, n_adj.	3
+np --> n, n.	3
+cu --> adjp, conj_c, fcl.	3
+np --> prop, punct_comma, cu, punct_comma.	3
+fcl --> np, vp, advp, vp, pp, punct_dot.	3
+fcl --> np, advp, advp, vp, icl.	3
+fcl --> conj_c, np, vp, fcl, punct_dot.	3
+fcl --> advp, np, vp, pp, punct_comma, pp.	3
+np --> pron_det, adj, n, pp.	3
+np --> punct_ltlt, prop, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket.	3
+fcl --> advp, punct_comma, np, advp, vp, pp, punct_dot.	3
+fcl --> np, vp, np, punct_comma, icl, punct_dot.	3
+fcl --> np, vp, np, punct_comma, pp, punct_comma, pp, punct_dot.	3
+fcl --> adjp, vp, np.	3
+fcl --> advp, np, advp, vp, np, punct_dot.	3
+icl --> np, vp, pp, pp.	3
+fcl --> np, advp, vp, advp, np, punct_dot.	3
+fcl --> np, vp, np, punct_comma.	3
+fcl --> cu, punct_comma, vp, np, punct_dot.	3
+fcl --> np, pp, vp, np, pp.	3
+np --> pron_det, n, adjp, punct_comma, np.	3
+np --> n, adjp, punct_comma, pp.	3
+np --> num, n, v_pcp.	3
+pp --> prp, np, vp, np.	3
+np --> n, pp, punct_comma, icl, punct_comma.	3
+np --> num, cu.	3
+cu --> conj_c, np, conj_c, np.	3
+fcl --> np, np, advp, vp, pp.	3
+fcl --> np, vp, np, punct_question_mark.	3
+np --> pron_det, n, acl.	3
+fcl --> cu, vp, pp.	3
+x --> v_inf, pp.	3
+fcl --> np, vp, advp, icl, punct_dot.	3
+np --> art, cu, adjp.	3
+np --> n, adjp, punct_comma, fcl.	3
+fcl --> pp, punct_comma, np, vp, pp, punct_comma, icl, punct_dot.	3
+icl --> np, vp, advp.	3
+fcl --> conj_s, np, vp, adjp, pp.	3
+fcl --> advp, vp, icl, punct_dot.	3
+x --> pp.	3
+cu --> fcl, fcl, punct_dot.	3
+fcl --> np, vp, advp, pp, pp.	3
+x --> advp, vp, icl.	3
+fcl --> punct_ltlt, vp, np, pp, punct_dot.	3
+np --> pron_det, pron_det, pp.	3
+icl --> vp, advp, advp.	3
+np --> num, n, punct_open_curly_bracket, np, punct_close_curly_bracket.	3
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	3
+np --> n, pp, icl.	3
+fcl --> vp, punct_dot.	3
+np --> art, n, adjp, punct_comma, cu.	3
+fcl --> punct_ltlt, vp, np, punct_gtgt.	3
+fcl --> advp, cu.	3
+np --> icl.	3
+np --> n, pp, punct_exclamation.	3
+fcl --> np, vp, advp, punct_comma, pp.	3
+pp --> prp, np, punct_comma, pp.	3
+pp --> punct_ltlt, prp, np, punct_gtgt.	3
+fcl --> pp, punct_comma, np, vp, v_pcp, punct_dot.	3
+pp --> adv, np.	3
+fcl --> conj_s, icl.	3
+s --> adjp.	3
+fcl --> conj_s, np, vp, advp, vp, np.	3
+sq --> np, punct_double_dash, acl.	3
+acl --> advp, punct_dot.	3
+fcl --> punct_ltlt, np, vp, np, punct_gtgt, punct_dot.	3
+fcl --> advp, punct_comma, np, vp, icl, punct_dot.	3
+np --> pron_det, pron_det, n, pp.	3
+np --> art, n, punct_semicolon, fcl.	3
+np --> art, punct_ltlt, n, punct_gtgt, adjp.	3
+icl --> vp, np, x.	3
+cu --> pp, punct_comma, conj_c, pp.	3
+fcl --> conj_s, np, advp, vp, advp.	3
+fcl --> np, vp, pp, punct_comma, icl, punct_dot.	3
+fcl --> vp, advp.	3
+np --> art, prop, cu.	3
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_comma, icl.	3
+np --> art, num, n_adj.	3
+np --> art, n, punct_semicolon, cu.	3
+cu --> np, conj_c, np, conj_c, np.	3
+np --> art, punct_ltlt, n, adjp, punct_gtgt.	3
+fcl --> np, vp, v_pcp.	3
+fcl --> pp, np, advp, vp, pp, punct_dot.	3
+fcl --> cu, vp, fcl, punct_dot.	3
+acl --> conj_s, pp.	3
+fcl --> vp, adjp, punct_dot.	3
+np --> art, n, pp, punct_comma, fcl, punct_comma.	3
+icl --> vp, pp, acl.	3
+np --> art, n, adjp, punct_comma, np, punct_comma.	3
+fcl --> conj_c, vp, fcl, punct_dot.	3
+np --> np.	3
+np --> art, n, adv.	3
+np --> num, n, punct_comma, adjp.	3
+cu --> icl, punct_comma, conj_c, icl.	3
+np --> n, pp, pp, pp.	3
+fcl --> np, vp, x, punct_dot.	3
+fcl --> conj_s, vp, pp, pp.	3
+fcl --> advp, np, vp, cu.	3
+fcl --> cu, punct_dot.	3
+fcl --> icl, punct_comma, np, vp, icl, punct_dot.	3
+np --> pron_det, art, n, fcl.	3
+fcl --> np, vp, pp, np, punct_comma, pp, punct_dot.	3
+np --> n, advp.	3
+cu --> punct_ltlt, fcl, conj_c, fcl, punct_dot, punct_gtgt.	3
+fcl --> fcl, punct_comma, cu, punct_dot.	3
+np --> n, adjp, cu.	3
+cu --> fcl.	3
+x --> v_inf, np.	3
+fcl --> vp, adjp, icl.	3
+fcl --> np, vp, np, advp, pp, punct_dot.	3
+fcl --> conj_s, advp, vp, icl.	3
+fcl --> advp.	3
+np --> prop, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	3
+fcl --> advp, np, cu.	3
+np --> pron_det, cu, pp.	3
+np --> art, adj, n, adjp, adjp.	3
+np --> art, n, punct_comma, pp, punct_comma.	3
+fcl --> adjp.	3
+fcl --> fcl, punct_comma, vp, pp, np, punct_dot.	3
+fcl --> conj_s, np, vp, np, pp, pp.	3
+fcl --> pp, punct_comma, np, vp, advp, pp, punct_dot.	3
+s --> x.	3
+x --> np, pp.	3
+np --> art, adj, n, v_pcp.	3
+icl --> vp, advp, fcl.	3
+np --> v_pcp, n.	3
+np --> num, v_pcp.	3
+np --> art, adj, punct_ltlt, n, punct_gtgt.	3
+np --> art, adj, n, pp, punct_open_curly_bracket, np, punct_close_curly_bracket.	3
+fcl --> vp, np, np, punct_dot.	3
+vp --> v_fin, v_inf, v_ger.	3
+fcl --> conj_s, cu.	3
+fcl --> conj_s, vp, cu.	3
+np --> art, num, adj, n, pp.	3
+fcl --> conj_s, np, advp, vp, cu.	3
+fcl --> advp, punct_comma, np, vp, np.	3
+cu --> advp, conj_c, pp.	3
+fcl --> punct_ltlt, np, vp, fcl, punct_gtgt.	3
+x --> v_pcp, np.	3
+np --> art, n_adj, np.	3
+fcl --> cu, vp, np, pp, punct_dot.	3
+np --> n, pp, punct_comma, pp.	3
+vp --> v_inf, v_ger.	3
+np --> art, n, pp, punct_open_curly_bracket, np, punct_close_curly_bracket.	3
+x --> v_inf, advp.	3
+fcl --> conj_s, vp, np, advp.	3
+cu --> punct_ltlt, fcl, conj_c, fcl, punct_gtgt.	3
+np --> art, n, pp, punct_comma, np, punct_comma, adjp, punct_comma.	3
+fcl --> np, advp, vp, adjp, pp.	3
+fcl --> pp, punct_comma, np, vp, pp, punct_comma, pp, punct_dot.	3
+np --> art, adv, n.	3
+cu --> adjp, punct_comma, adjp, punct_comma, adjp.	3
+icl --> vp, np, pp, np.	3
+fcl --> pp, punct_comma, np, vp, pp, pp, punct_comma, pp, punct_dot.	3
+icl --> advp, vp, pp, pp.	3
+fcl --> pp, punct_comma, vp, np, np, punct_dot.	3
+fcl --> np, advp, vp, adjp.	3
+fcl --> pp, punct_comma, cu, punct_dot.	3
+np --> art, adj, n, pp, punct_comma, icl.	3
+np --> n, cu, acl.	3
+acl --> np, pp.	3
+np --> n, adjp, np.	3
+np --> art, adj, n, pp, icl.	3
+fcl --> np, vp, icl, punct_comma, fcl, punct_dot.	3
+fcl --> punct_ltlt, np, vp, np, punct_gtgt.	3
+fcl --> np, vp, pp, punct_comma, pp.	3
+fcl --> pp, punct_comma, advp, vp, np, punct_dot.	3
+acl --> conj_s, adjp.	3
+icl --> vp, punct_comma, pp, punct_comma, np.	3
+np --> adv, n, pp.	3
+fcl --> vp, adjp, np, punct_dot.	3
+np --> art, n, np, punct_comma, fcl, punct_comma.	3
+x --> vp, adjp, pp.	3
+fcl --> np, advp, vp, cu, punct_dot.	3
+fcl --> pp, vp, adjp, icl, punct_dot.	3
+fcl --> vp, np, fcl, punct_dot.	3
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	3
+x --> vp, np, advp.	3
+fcl --> np, vp, pp, icl, punct_dot.	3
+np --> num, n, pp, punct_open_curly_bracket, np, punct_close_curly_bracket.	3
+fcl --> pp, punct_comma, cu, vp, pp, punct_dot.	3
+fcl --> conj_s, advp, np, vp, np.	3
+cu --> icl, punct_comma, icl, conj_c, icl.	3
+cu --> pp.	3
+np --> art, pron_det, num, n.	3
+fcl --> np, vp, advp, np, punct_comma, pp, punct_dot.	3
+fcl --> conj_s, np, vp, pp, punct_comma, icl.	3
+fcl --> np, vp, np, pp, punct_comma, icl, punct_dot.	3
+fcl --> conj_s, vp, pp, np.	3
+fcl --> np, vp, x.	3
+np --> v_pcp, n, pp.	3
+fcl --> np, vp, np, advp, punct_dot.	3
+fcl --> punct_ltlt, np, vp, icl, punct_dot.	3
+np --> art, prop, punct_comma, icl, punct_comma.	3
+icl --> vp, np, punct_comma.	3
+cu --> punct_ltlt, fcl, conj_c, fcl, punct_dot.	3
+np --> n, punct_open_curly_bracket, cu, punct_close_curly_bracket.	2
+fcl --> np, np, vp, acl.	2
+np --> art, n, v_pcp, punct_comma, np, punct_comma.	2
+fcl --> np, advp, vp, np, np, punct_dot.	2
+fcl --> cu, vp, advp, np, punct_dot.	2
+np --> punct_open_curly_bracket, prop, punct_comma, np, punct_close_curly_bracket.	2
+fcl --> advp, vp, pp, pp.	2
+fcl --> np, advp, vp, pp, fcl.	2
+np --> adv, art, adj, n, pp.	2
+cu --> punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt, conj_c, punct_ltlt, np, punct_gtgt.	2
+np --> art, n, adjp, x.	2
+icl --> punct_ltlt, vp, punct_gtgt, np, pp.	2
+np --> pron_det, art, n, adjp, pp.	2
+adv --> n_adj.	2
+np --> art, adv.	2
+fcl --> icl, punct_comma, vp, np, punct_dot.	2
+cu --> pp, conj_c, np.	2
+np --> art, punct_ltlt, n, adjp, punct_gtgt, pp.	2
+pp --> prp, np, punct_dot.	2
+fcl --> np, vp, advp, v_pcp.	2
+fcl --> advp, np, np, vp, pp.	2
+fcl --> np, vp, adjp, punct_comma.	2
+x --> vp, np, np.	2
+fcl --> punct_ltlt, np, vp, punct_question_mark, punct_gtgt.	2
+fcl --> pp, np, vp, pp.	2
+cu --> np, punct_open_curly_bracket, conj_c, np, punct_close_curly_bracket.	2
+np --> adv, art, prop.	2
+icl --> vp, pp, punct_comma.	2
+np --> cu, punct_comma, icl.	2
+np --> art, prop, punct_comma, np, punct_comma, adjp, punct_comma.	2
+fcl --> conj_s, advp, vp.	2
+fcl --> conj_s, advp.	2
+np --> art, cu, icl.	2
+np --> art, adj, n, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	2
+fcl --> vp, punct_question_mark.	2
+fcl --> np, vp, np, fcl.	2
+icl --> vp, np, v_pcp.	2
+fcl --> np, punct_comma, advp, punct_comma, vp, np, pp, punct_dot.	2
+fcl --> np, vp, np, punct_comma, advp, punct_comma, pp, punct_dot.	2
+fcl --> punct_ltlt, np, advp, vp, np, punct_gtgt.	2
+np --> art, adj, n, punct_comma, fcl.	2
+fcl --> punct_ltlt, vp, adjp, pp, punct_dot.	2
+np --> num, n, punct_comma, np.	2
+fcl --> advp, vp, adjp, icl, punct_dot.	2
+acl --> conj_c, fcl, punct_semicolon.	2
+fcl --> conj_s, np, advp, vp, np, fcl.	2
+pp --> prp, np, punct_comma, np.	2
+advp --> adv, adv, icl.	2
+fcl --> np, np, vp, pp, pp, punct_comma, icl.	2
+np --> art, n, v_pcp, punct_comma, fcl.	2
+icl --> np, vp, fcl.	2
+np --> art, v_pcp, n.	2
+fcl --> punct_ltlt, np, vp, adjp, punct_gtgt.	2
+fcl --> advp, vp, pp, np, punct_dot.	2
+cu --> adjp, punct_comma, adjp, punct_comma, adjp, conj_c, adjp.	2
+cu --> np, advp, np.	2
+np --> art, n_adj, cu.	2
+fcl --> pp, punct_comma, punct_ltlt, np, punct_gtgt, vp, pp, punct_dot.	2
+np --> art, adj, cu.	2
+fcl --> np, vp, pp, fcl.	2
+fcl --> conj_c, fcl, punct_dot.	2
+fcl --> icl, punct_comma, vp, np, pp, punct_dot.	2
+fcl --> advp, advp, vp, np.	2
+np --> art, prop, punct_comma, np, punct_comma, pp.	2
+np --> n, x, pp.	2
+np --> n, adjp, punct_dot.	2
+fcl --> conj_c, vp, adjp, np, punct_dot.	2
+fcl --> np, punct_comma, pp, punct_comma, vp, pp.	2
+fcl --> advp, np, vp, np, fcl, punct_dot.	2
+fcl --> conj_s, vp, acl.	2
+fcl --> pp, punct_comma, np, vp, fcl.	2
+fcl --> conj_s, np, vp, cu, pp.	2
+fcl --> np, vp, np, icl, punct_dot.	2
+fcl --> fcl, punct_comma, vp, punct_comma, fcl, punct_dot.	2
+fcl --> pp, advp, vp, np, punct_dot.	2
+fcl --> pp, np, vp, cu.	2
+acl --> advp, adjp.	2
+x --> vp, v_pcp.	2
+np --> art, n, pp, pp, punct_comma, fcl.	2
+pp --> prp, np, punct_comma.	2
+fcl --> np, vp, punct_question_mark.	2
+fcl --> cu, advp, vp, np, pp, punct_dot.	2
+pp --> prp, punct_prime, np, punct_prime.	2
+np --> art, adj, n, pp, cu.	2
+fcl --> advp, np, vp, adjp, pp.	2
+fcl --> np, vp, np, pp, punct_comma, pp.	2
+np --> ec, n, icl.	2
+np --> art, n, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	2
+fcl --> np, vp, np, adjp.	2
+fcl --> punct_ltlt, np, vp, np, punct_comma, fcl, punct_dot.	2
+adjp --> adj, cu.	2
+fcl --> np, advp, vp, adjp, pp, punct_dot.	2
+np --> art, num, n, fcl.	2
+acl --> advp, pp, punct_dot.	2
+np --> pron_det, n, adjp, adjp.	2
+np --> art, n, np, punct_comma, fcl.	2
+np --> art, punct_ltlt, n, punct_gtgt, adjp, pp.	2
+np --> art.	2
+fcl --> np, vp, np, punct_semicolon.	2
+fcl --> pp, punct_comma, np, np, vp, pp, punct_dot.	2
+np --> pron_det, n, cu, fcl.	2
+pp --> prp, punct_ltlt, adjp, punct_gtgt.	2
+fcl --> pp, punct_comma, vp, advp, np, punct_dot.	2
+fcl --> np, vp, advp, punct_comma, pp, punct_dot.	2
+np --> art, n, adjp, pp, punct_comma, fcl, punct_comma.	2
+adjp --> adv, cu, pp.	2
+fcl --> np, vp, advp, advp.	2
+fcl --> np, vp, adjp, np, punct_dot.	2
+adjp --> adj, punct_dot.	2
+fcl --> pp, punct_comma, np, vp.	2
+np --> punct_ltlt, adj, n, punct_gtgt.	2
+fcl --> np, vp, punct_comma, advp, punct_comma, np.	2
+advp --> adv, fcl.	2
+np --> art, adj, n, punct_comma, np, punct_comma.	2
+np --> n, pp, punct_comma, advp.	2
+fcl --> np, vp, advp, pp, np.	2
+fcl --> advp, np, vp, advp, vp.	2
+np --> pron_det, n, pp, icl.	2
+fcl --> cu, advp, vp, pp, punct_dot.	2
+fcl --> vp, np, punct_comma, pp.	2
+fcl --> advp, vp, cu, punct_dot.	2
+np --> prop, punct_comma, icl, punct_comma.	2
+fcl --> acl, punct_comma, cu, punct_dot.	2
+icl --> vp, pp, punct_comma, acl.	2
+fcl --> np, vp, v_pcp, pp.	2
+np --> prop, np, punct_comma, np, punct_dot.	2
+fcl --> pp, np, vp.	2
+x --> punct_comma, advp, punct_comma, vp, np, pp.	2
+np --> pron_det, punct_ltlt, prop, punct_gtgt.	2
+x --> vp, punct_comma, x, conj_c, x.	2
+fcl --> fcl, punct_comma, advp, vp, pp, punct_dot.	2
+fcl --> pp, np, cu, punct_dot.	2
+fcl --> advp, punct_comma, vp, pp, punct_dot.	2
+fcl --> conj_s, np, vp, advp, pp.	2
+pp --> adjp, punct_double_dash, prp, cu, punct_semicolon.	2
+fcl --> fcl, punct_comma, np, vp, punct_dot.	2
+fcl --> vp, adjp, pp.	2
+fcl --> np, punct_comma, icl, punct_comma, vp, fcl, punct_dot.	2
+np --> adj, n, pp, pp.	2
+np --> art, prop, punct_comma, adjp.	2
+fcl --> np, np.	2
+adjp --> adv, v_pcp, acl.	2
+icl --> vp, np, pp, punct_comma, pp.	2
+icl --> vp, pp, cu.	2
+np --> pron_det, n, punct_semicolon, np.	2
+fcl --> vp, v_pcp.	2
+cu --> np, conj_c, fcl.	2
+fcl --> np, pp, vp, np.	2
+fcl --> np, vp, np, advp, pp.	2
+np --> art, num, adj, n, adjp.	2
+np --> art, n, adjp, cu, pp.	2
+acl --> adjp.	2
+fcl --> advp, vp, adjp.	2
+np --> cu, n, adjp.	2
+x --> vp, punct_open_curly_bracket, np, punct_close_curly_bracket, np.	2
+np --> art, adj, n, pp, punct_comma, fcl.	2
+np --> art, n, adjp, punct_comma, icl, punct_comma.	2
+x --> vp, advp, np.	2
+fcl --> conj_s, np, np, vp, advp.	2
+acl --> advp, vp.	2
+fcl --> np, vp, pp, pp, punct_comma, fcl, punct_dot.	2
+cu --> np, conj_c.	2
+acl --> np, np, punct_question_mark.	2
+np --> art, np.	2
+icl --> vp, cu, punct_comma, fcl.	2
+vp --> v_fin, np.	2
+fcl --> punct_ltlt, np, cu, punct_gtgt.	2
+fcl --> conj_c, np, vp, pp, punct_dot.	2
+np --> num, n, n, pp.	2
+fcl --> vp, adjp, advp.	2
+fcl --> vp, np, punct_comma, pp, punct_comma, np, punct_dot.	2
+fcl --> conj_s, punct_comma, pp, punct_comma, np, vp, pp.	2
+x --> np, vp, np.	2
+np --> art, num, n, pp, punct_comma, icl.	2
+np --> pron_det, n, punct_semicolon, np, punct_dot.	2
+fcl --> advp, np, vp, fcl.	2
+fcl --> pp, punct_comma, np, vp, pp, fcl, punct_dot.	2
+fcl --> pp, vp, np, punct_comma, pp, punct_dot.	2
+np --> art, n, pp, pp, icl.	2
+np --> art, adj, n, punct_comma, adjp.	2
+icl --> vp, acl, pp.	2
+fcl --> advp, vp, advp.	2
+np --> art, pron_det, n, punct_semicolon, np.	2
+np --> art, n, punct_comma, adjp, punct_comma, pp.	2
+fcl --> pp, punct_comma, vp, np, fcl, punct_dot.	2
+icl --> vp, pp, punct_comma, pp, punct_comma, pp.	2
+fcl --> pp, punct_comma, np, vp, advp, np, pp, punct_dot.	2
+np --> adjp, n, adjp.	2
+icl --> vp, np, cu.	2
+np --> art, n, punct_comma, pp, punct_comma, pp.	2
+np --> art, pron_det, n, adjp, fcl.	2
+fcl --> np, vp, v_pcp, punct_dot.	2
+np --> art, n, punct_open_curly_bracket, cu, punct_close_curly_bracket.	2
+np --> n, adjp, v_pcp.	2
+np --> cu, np.	2
+fcl --> advp, punct_comma, advp, vp, np, punct_dot.	2
+cu --> acl.	2
+fcl --> vp, np, punct_comma, pp, punct_dot.	2
+acl --> advp, fcl, punct_dot.	2
+fcl --> np, vp, fcl, punct_comma, fcl, punct_dot.	2
+fcl --> pp, vp, np, pp.	2
+icl --> vp, np, vp, pp.	2
+fcl --> np, vp, punct_comma, advp, punct_comma, pp, punct_dot.	2
+acl --> adv, punct_ltlt, np, punct_gtgt.	2
+np --> adv, pron_det.	2
+np --> adv, num, n, pp, pp.	2
+np --> num, n, pp, pp.	2
+fcl --> conj_s, np, vp, adjp, punct_comma, pp.	2
+fcl --> pp, np, vp, fcl, punct_dot.	2
+fcl --> punct_ltlt, vp, np, pp, punct_gtgt.	2
+acl --> adv, pp.	2
+fcl --> cu, punct_comma, np, vp, np, punct_dot.	2
+np --> art, n, x.	2
+fcl --> pp, punct_comma, np, vp, x, punct_dot.	2
+fcl --> vp, pp, pp, np, punct_dot.	2
+icl --> vp, np, punct_comma, pp, punct_comma, pp.	2
+np --> punct_ltlt, n, adjp, punct_gtgt.	2
+np --> adv, np, n.	2
+fcl --> pp, vp, np, punct_comma, icl, punct_dot.	2
+fcl --> pp, vp, np, pp, punct_dot.	2
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_comma, np.	2
+np --> n, pp, punct_comma, np.	2
+np --> art, prop, icl.	2
+np --> art, n, punct_comma, icl, punct_comma, fcl.	2
+fcl --> pp, punct_comma, np, advp, vp, np, pp, punct_dot.	2
+cu --> v_pcp, conj_c, v_pcp.	2
+fcl --> pp, punct_comma, np, vp, np, fcl, punct_dot.	2
+fcl --> vp, np, icl, punct_dot.	2
+fcl --> conj_s, np, vp, punct_ltlt, adjp, punct_gtgt.	2
+cu --> conj_c, fcl, conj_c, fcl, punct_dot.	2
+fcl --> vp, advp, punct_dot.	2
+np --> prop, punct_comma, np, punct_comma, fcl.	2
+fcl --> np, vp, np, pp, punct_semicolon.	2
+np --> art, n, icl, pp.	2
+np --> art, n, v_pcp, np.	2
+np --> v_pcp, num, n.	2
+x --> advp, vp, np, pp.	2
+fcl --> conj_s, np, np, vp.	2
+fcl --> np, vp, punct_comma, advp, punct_comma, cu.	2
+np --> num, n, prop.	2
+x --> advp, np.	2
+fcl --> conj_s, advp, advp, vp, np.	2
+np --> art, prop, pp, punct_comma, fcl.	2
+fcl --> fcl, punct_comma, np, vp, icl, punct_dot.	2
+fcl --> np, advp, vp, np, punct_comma, icl, punct_dot.	2
+fcl --> np, vp, np, punct_comma, pp.	2
+icl --> vp, x.	2
+fcl --> pp, np, vp, np.	2
+fcl --> punct_ltlt, vp, advp, icl, punct_gtgt.	2
+fcl --> np, vp, pp, punct_comma, acl, punct_dot.	2
+x --> vp, np, cu.	2
+acl --> np, pp, punct_dot.	2
+cu --> punct_ltlt, fcl, punct_comma, fcl, punct_gtgt.	2
+np --> art, adj, v_pcp.	2
+pp --> prp, np, punct_gtgt.	2
+np --> art, n, np, adjp.	2
+np --> num, n, adjp, punct_semicolon, cu.	2
+fcl --> np, vp, advp, pp, np, punct_dot.	2
+np --> art, adj, punct_ltlt, prop, punct_gtgt.	2
+fcl --> np, vp, np, pp, icl.	2
+fcl --> pp, np, vp, np, pp, punct_dot.	2
+fcl --> vp, np, advp, punct_dot.	2
+fcl --> np, vp, np, punct_comma, fcl.	2
+np --> adj, n, cu.	2
+fcl --> conj_c, vp, adjp, icl, punct_dot.	2
+vp --> v_pcp, np.	2
+fcl --> np, vp, np, cu.	2
+np --> punct_ltlt, n, adjp, punct_gtgt, pp.	2
+fcl --> advp, np, advp, vp, pp.	2
+fcl --> np, vp, np, np, punct_comma, pp, punct_dot.	2
+fcl --> vp, np, punct_semicolon.	2
+np --> art, n, punct_comma, pp, punct_comma, fcl, punct_comma.	2
+fcl --> np, vp, np, punct_comma, fcl, punct_dot.	2
+cu --> advp, pp, advp, pp.	2
+fcl --> vp, adjp, punct_comma.	2
+advp --> adv, adv, acl.	2
+np --> adj, n, punct_semicolon, fcl, punct_dot.	2
+adjp --> adj, pp, pp.	2
+fcl --> advp, punct_comma, advp, vp, punct_dot.	2
+np --> art, pron_det, n, icl.	2
+fcl --> conj_s, np, vp, np, advp.	2
+icl --> cu, np.	2
+fcl --> np, vp, np, pp, punct_comma, advp, punct_dot.	2
+cu --> punct_ltlt, fcl, punct_comma, conj_c, fcl, punct_dot, punct_gtgt.	2
+fcl --> np, vp, acl, np, punct_dot.	2
+pp --> prp, icl, pp.	2
+pp --> prp, np, punct_open_curly_bracket, pp, punct_close_curly_bracket.	2
+cu --> fcl, conj_c, fcl, conj_c, fcl, punct_dot.	2
+fcl --> pp, punct_comma, np, vp, cu.	2
+np --> n, punct_semicolon, fcl.	2
+fcl --> np, vp, np, punct_exclamation.	2
+np --> pron_det, art, n_adj.	2
+np --> art, punct_ltlt, prop, punct_gtgt, pp.	2
+np --> art, num, n, adjp, fcl.	2
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, fcl.	2
+fcl --> np, vp, icl, pp, punct_dot.	2
+fcl --> np, vp, pp, np, pp, punct_dot.	2
+fcl --> conj_c, punct_comma, pp, punct_comma, vp, np, punct_dot.	2
+advp --> adv, adjp.	2
+cu --> fcl, punct_comma, conj_c, cu, punct_dot.	2
+cu --> pp, conj_c, fcl.	2
+fcl --> np, vp, np, np.	2
+fcl --> advp, punct_comma, np, vp, punct_dot.	2
+np --> art, punct_ltlt, prop, punct_gtgt, punct_comma, np.	2
+np --> art, n, pp, punct_open_curly_bracket, pp, punct_close_curly_bracket.	2
+np --> prop, np.	2
+x --> punct_comma, advp, punct_comma, np.	2
+np --> adj, n, icl.	2
+x --> vp, pp, advp.	2
+np --> adv, cu.	2
+fcl --> punct_ltlt, np, punct_gtgt, vp, np.	2
+fcl --> np, vp, punct_comma, pp, punct_comma, pp, punct_dot.	2
+fcl --> np, np, vp, pp, pp, punct_dot.	2
+np --> adv, num, n, adjp.	2
+cu --> np, punct_double_dash, np.	2
+np --> art, n, np, punct_comma, icl, punct_comma.	2
+np --> prop, punct_comma, np, punct_dot.	2
+fcl --> np, punct_comma, vp, icl, punct_dot.	2
+cu --> fcl, punct_comma, np.	2
+icl --> vp, pp, pp, punct_comma, pp.	2
+np --> adj, n, adjp, pp.	2
+fcl --> np, punct_comma, vp, punct_dot.	2
+fcl --> pp, punct_comma, np, vp, advp, punct_dot.	2
+np --> n, pp, punct_semicolon, np, punct_dot.	2
+np --> pron_det, n, punct_open_curly_bracket, icl, punct_close_curly_bracket.	2
+fcl --> pp, np, advp, vp, np, punct_dot.	2
+np --> pron_det, n, v_pcp, pp.	2
+np --> n, punct_open_curly_bracket, pp, punct_close_curly_bracket.	2
+fcl --> pp, np, cu.	2
+icl --> vp, cu, punct_comma, pp.	2
+fcl --> advp, np, vp, advp, pp.	2
+fcl --> advp, pp.	2
+np --> art, n, pp, punct_semicolon, cu.	2
+cu --> pp, conj_c, punct_comma, advp, punct_comma, pp.	2
+np --> art, n, np, punct_open_curly_bracket, cu, punct_close_curly_bracket.	2
+fcl --> advp, np, vp, fcl, punct_dot.	2
+fcl --> conj_s, pp, np, vp.	2
+fcl --> vp, x, punct_dot.	2
+fcl --> np, vp, adjp, punct_comma, pp, punct_dot.	2
+np --> pron_indp, np.	2
+fcl --> vp, np, punct_comma, pp, punct_comma, pp, punct_dot.	2
+np --> art, adj, n, adjp, punct_comma, fcl.	2
+fcl --> cu, punct_comma, np, vp, adjp, punct_dot.	2
+np --> art, adj, n, cu.	2
+fcl --> pp, punct_comma, np, vp, np, pp, punct_comma, pp, punct_dot.	2
+cu --> np, prp, np.	2
+icl --> vp, pp, np, pp.	2
+advp --> acl.	2
+fcl --> pp, punct_comma, pp, punct_comma, vp, np, pp, punct_dot.	2
+fcl --> conj_s, adjp, vp, np.	2
+np --> art, n, pp, acl.	2
+fcl --> fcl, punct_comma, np, vp, adjp, punct_dot.	2
+np --> art, n, adjp, punct_comma, adjp.	2
+np --> n, np, punct_comma, adjp.	2
+np --> pron_det, acl.	2
+fcl --> punct_ltlt, cu, punct_gtgt, punct_comma, vp, np, punct_dot.	2
+advp --> n, adv.	2
+acl --> conj_c, pp, punct_dot.	2
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, np, punct_comma.	2
+fcl --> advp, vp, np, np.	2
+fcl --> icl, punct_comma, np, vp, advp, np, punct_dot.	2
+fcl --> np, vp, icl, punct_question_mark.	2
+fcl --> pp, np, vp, fcl.	2
+fcl --> vp, np, punct_question_mark.	2
+np --> n, punct_semicolon.	2
+np --> pron_det, n, punct_comma, fcl, punct_comma.	2
+icl --> advp, vp, advp, np.	2
+fcl --> advp, punct_comma, cu, punct_dot.	2
+np --> num, n, punct_comma, icl.	2
+advp --> np, adv, adv.	2
+fcl --> icl, punct_comma, np, pp, advp, vp, advp, punct_dot.	2
+fcl --> icl, vp, np.	2
+fcl --> advp, punct_comma, vp, pp, fcl, punct_dot.	2
+np --> art, adj, n, adjp, pp, pp.	2
+icl --> vp, np, icl.	2
+x --> advp, vp, adjp.	2
+fcl --> conj_c, punct_comma, pp, punct_comma, np, vp, np, punct_dot.	2
+np --> art, adj, n, adjp, fcl.	2
+fcl --> vp, np, advp.	2
+x --> v_inf, np, pp.	2
+fcl --> fcl, punct_comma, np, vp, pp, fcl, punct_dot.	2
+np --> n, pp, cu.	2
+np --> prop, punct_semicolon, np.	2
+np --> n, pp, punct_open_curly_bracket, np, punct_close_curly_bracket.	2
+fcl --> punct_ltlt, cu, punct_gtgt, punct_comma, vp, punct_dot.	2
+np --> art, n, adjp, adjp, fcl.	2
+cu --> fcl, punct_comma, fcl, conj_c, fcl.	2
+fcl --> advp, np, advp, vp, np.	2
+np --> art, n, np, adjp, punct_comma, pp, punct_comma.	2
+fcl --> np, vp, pp, punct_comma, fcl.	2
+icl --> vp, v_pcp.	2
+fcl --> punct_ltlt, vp, fcl, punct_dot.	2
+np --> art, n, adjp, pp, punct_comma, np.	2
+np --> np, n, pp.	2
+fcl --> punct_ltlt, advp, vp, pp, punct_dot.	2
+np --> art, v_pcp, adjp.	2
+icl --> advp, vp, np, pp.	2
+fcl --> np, vp, advp, punct_comma, pp, punct_comma, fcl, punct_dot.	2
+np --> punct_ltlt, n, punct_gtgt, pp.	2
+fcl --> vp, np, np.	2
+fcl --> np, vp, advp, pp, fcl, punct_dot.	2
+fcl --> np, vp, punct_comma, pp, punct_comma, np, pp, punct_dot.	2
+np --> art, n, fcl, punct_comma, fcl.	2
+icl --> vp, punct_comma, pp, punct_comma, pp.	2
+icl --> vp, advp, icl.	2
+fcl --> np, vp, pp, advp, punct_dot.	2
+np --> art, ec, n, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	2
+np --> adjp, n, punct_comma, pp.	2
+icl --> vp, pp, punct_comma, advp.	2
+np --> art, n_adj, pp, pp.	2
+fcl --> np, vp, np, cu, punct_dot.	2
+np --> art, pron_det, n, punct_comma, icl.	2
+fcl --> np, vp, fcl, fcl, punct_dot.	2
+fcl --> np, punct_comma, vp, pp, punct_dot.	2
+np --> pron_det, art, n, v_pcp.	2
+cu --> fcl, punct_dot.	2
+np --> cu, n, pp.	2
+fcl --> np, vp, advp, vp, np.	2
+fcl --> advp, vp, np, punct_comma, fcl, punct_comma, fcl, punct_dot.	2
+fcl --> fcl, punct_comma, np, vp, fcl, punct_dot.	2
+fcl --> conj_s, cu, vp, np.	2
+fcl --> conj_c, vp, advp, pp, punct_dot.	2
+np --> n, adv.	2
+np --> art, adj, n, pp, fcl.	2
+fcl --> punct_ltlt, vp, cu, punct_gtgt.	2
+fcl --> vp, pp, pp, pp, punct_dot.	2
+np --> num, n_adj.	2
+icl --> vp, punct_comma, pp.	2
+np --> cu, cu.	2
+fcl --> vp, pp, fcl.	2
+fcl --> advp, vp, advp, np.	2
+fcl --> vp, np, acl, punct_dot.	2
+np --> pron_det, adv, num, n, pp.	2
+fcl --> np, punct_comma, vp, np, pp, punct_dot.	2
+fcl --> conj_s, advp, vp, adjp.	2
+np --> n, adjp, acl.	2
+np --> pron_det, n, punct_semicolon, fcl.	2
+np --> art, punct_ltlt, adj, n, punct_gtgt.	2
+pp --> adv, prp, cu.	2
+acl --> advp, punct_comma, pp, punct_dot.	2
+fcl --> np, punct_comma, advp, punct_comma, vp, fcl, punct_dot.	2
+np --> n, adjp, punct_comma, cu.	2
+cu --> x, punct_comma, x, punct_comma, x, conj_c, x.	2
+x --> vp, pp, np.	2
+fcl --> pp, punct_comma, np, vp, adjp.	2
+np --> art, n, adjp, pp, cu.	2
+cu --> np, fcl, punct_dot.	2
+adjp --> adv, v_pcp, pp.	2
+icl --> vp, advp, np, pp.	2
+fcl --> np, punct_comma, advp, punct_comma, cu, punct_dot.	2
+pp --> adv, prp, fcl.	2
+fcl --> np, vp, np, pp, punct_comma, fcl, punct_dot.	2
+np --> n, pp, punct_comma, fcl.	2
+np --> num, n, cu.	2
+fcl --> conj_c, cu, vp, pp, punct_dot.	2
+np --> n, np, pp, pp.	2
+cu --> punct_ltlt, np, punct_gtgt, conj_c, np.	2
+fcl --> pp, punct_comma, np, vp, icl, punct_semicolon.	2
+np --> n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np.	2
+N<ARGOpp --> prp, np.	2
+np --> art, n, x, pp.	2
+np --> n, np, icl.	2
+fcl --> punct_ltlt, np, cu, punct_dot.	2
+np --> pron_det, n, pp, fcl.	2
+fcl --> np, vp, np, pp, np.	1
+fcl --> advp, punct_comma, fcl, punct_comma, vp, np, np, punct_dot.	1
+np --> n, pp, pp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, punct_gtgt.	1
+fcl --> vp, np, vp, cu, punct_dot.	1
+np --> n, adjp, punct_open_curly_bracket, fcl, punct_close_curly_bracket, conj_c, np.	1
+cu --> fcl, conj_c, fcl, punct_gtgt.	1
+fcl --> fcl, punct_comma, vp, pp, pp, punct_dot.	1
+adjp --> punct_ltlt, adj, punct_gtgt, punct_comma, icl.	1
+fcl --> icl, punct_comma, advp, np, vp, adjp, punct_dot.	1
+icl --> advp, vp, np, fcl.	1
+fcl --> advp, np, vp, np, punct_comma, icl, punct_dot.	1
+fcl --> np, vp, advp, pp, punct_comma, pp, pp, punct_dot.	1
+np --> art, n, adjp, punct_open_curly_bracket, np, pp, punct_close_curly_bracket.	1
+fcl --> pp, punct_comma, np, advp, np, vp, np, pp, np, punct_dot.	1
+icl --> punct_ltlt, vp, pp, punct_gtgt, punct_dot.	1
+np --> pron_det, pron_det, punct_comma, pp.	1
+np --> n, adjp, pp, punct_dot.	1
+fcl --> punct_comma, advp, punct_comma, np, vp, icl.	1
+np --> punct_ltlt, n, v_pcp, punct_comma, icl, punct_gtgt.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, advp.	1
+np --> n, pp, punct_open_curly_bracket, x, punct_close_curly_bracket.	1
+np --> n, punct_comma, acl, punct_comma.	1
+np --> n, punct_open_curly_bracket, icl, punct_close_curly_bracket.	1
+fcl --> np, vp, advp, np, punct_comma, icl, punct_dot.	1
+fcl --> np, vp, np, pp, pp, pp, punct_dot.	1
+np --> art, n, np, punct_comma, adjp, pp, punct_comma.	1
+np --> punct_ltlt, art, n, punct_gtgt, fcl.	1
+fcl --> pp, punct_comma, advp, vp, np, punct_question_mark.	1
+intj --> punct_exclamation.	1
+s --> intj.	1
+cu --> adjp, punct_comma, adjp, punct_comma, v_pcp, conj_c, adjp.	1
+acl --> punct_ltlt, advp, punct_comma, pp, punct_comma, pp, punct_dot, punct_gtgt.	1
+np --> art, n, adjp, v_pcp.	1
+fcl --> np, vp, advp, fcl, vp, np, punct_dot.	1
+np --> pron_det, n, adjp, np.	1
+fcl --> np, advp, vp, advp, np, pp, punct_comma, pp, punct_dot.	1
+np --> art, n, v_pcp, punct_ltlt, np, punct_gtgt.	1
+np --> art, pron_det, punct_comma, cu, punct_comma.	1
+fcl --> np, np, vp, punct_comma, pp, punct_comma, fcl, punct_comma, pp.	1
+pp --> np.	1
+cu --> pp, punct_comma, adjp, conj_c, pp.	1
+np --> art, n, np, punct_semicolon, fcl.	1
+acl --> conj_s, vp, pp.	1
+fcl --> np, np, cu.	1
+fcl --> np, punct_comma, acl, vp, np.	1
+np --> art, pron_det, n, adjp, punct_comma, np, punct_comma.	1
+x --> vp, conj_c.	1
+fcl --> np, vp, np, punct_comma, acl, punct_dot.	1
+np --> art, n, np, punct_comma, adjp, punct_comma, pp, punct_comma.	1
+fcl --> pp, vp, adjp, cu, punct_dot.	1
+fcl --> pp, np, vp, advp.	1
+fcl --> np, np, vp, np, cu.	1
+fcl --> fcl, punct_comma, vp, np, icl, punct_dot.	1
+np --> adv, num, n, n.	1
+np --> art, n, adjp, pp, punct_comma, pp, punct_comma.	1
+pp --> prp, pp, np.	1
+cu --> np, punct_semicolon, fcl.	1
+fcl --> advp, punct_comma, np, advp, np, vp, np.	1
+np --> adv, punct_comma, art, n, pp.	1
+fcl --> punct_ltlt, vp, pp, punct_comma, advp, punct_comma, advp, pp, punct_gtgt, punct_dot.	1
+fcl --> punct_ltlt, np, vp, adjp, punct_exclamation, punct_gtgt.	1
+fcl --> np, advp, vp, pp, advp, punct_dot.	1
+fcl --> np, advp, pp, np, vp, punct_dot.	1
+np --> pron_det, punct_ltlt, n, adjp, punct_gtgt.	1
+cu --> cu.	1
+fcl --> np, vp, cu, icl.	1
+np --> art, n, adjp, adjp, np.	1
+np --> pron_det, art, n, adjp, punct_comma, cu.	1
+x --> pp, pp, punct_comma.	1
+fcl --> np, punct_comma, advp, punct_comma, np, vp, v_pcp, punct_question_mark.	1
+fcl --> vp, np, vp, advp, fcl, punct_dot.	1
+np --> prop, punct_double_dash, np.	1
+fcl --> advp, punct_comma, vp, np, punct_comma, pp.	1
+fcl --> advp, punct_comma, np, punct_comma, cu, punct_dot.	1
+fcl --> np, vp, advp, pp, punct_semicolon.	1
+fcl --> vp, np, icl.	1
+fcl --> conj_c, fcl, pp, np, vp, pp, punct_dot.	1
+fcl --> conj_s, pp, cu, vp, np.	1
+fcl --> conj_s, np, np, vp, advp, pp, punct_comma, icl.	1
+np --> art, n, v_pcp, punct_comma, np, punct_comma, pp.	1
+icl --> vp, np, punct_comma, advp, punct_comma, icl.	1
+np --> punct_ltlt, n, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, punct_ltlt, np, punct_gtgt.	1
+fcl --> punct_ltlt, fcl, punct_comma, np, advp, vp, np, punct_gtgt.	1
+np --> n_adj, v_pcp.	1
+fcl --> advp, vp, pp, punct_question_mark.	1
+fcl --> punct_ltlt, np, vp, np.	1
+fcl --> punct_open_curly_bracket, punct_three_dots, punct_close_curly_bracket, vp, np, pp.	1
+np --> n, n, adjp, pp, pp.	1
+fcl --> advp, punct_comma, fcl, cu, punct_dot.	1
+fcl --> conj_s, np, vp, np, punct_comma, advp, punct_comma.	1
+fcl --> advp, punct_comma, np, vp, adjp, punct_semicolon, fcl, punct_dot.	1
+fcl --> punct_ltlt, pp, punct_comma, vp, np, punct_gtgt.	1
+acl --> conj_s, np, vp, np.	1
+adjp --> acl.	1
+fcl --> vp, adjp, np, adjp.	1
+np --> art, n, v_pcp, punct_comma, pp, np.	1
+np --> adv, num, n, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	1
+advp --> advp, adv, fcl.	1
+fcl --> advp, advp, pp, advp, np, vp, advp, punct_dot.	1
+cu --> icl, punct_comma, icl, conj_c, fcl.	1
+fcl --> conj_s, vp, pp, punct_comma, pp, punct_comma.	1
+fcl --> np, punct_comma, vp, fcl.	1
+fcl --> conj_s, advp, vp, adjp, np.	1
+fcl --> conj_s, punct_comma, icl, punct_comma, np, advp, advp, vp, advp, fcl.	1
+fcl --> np, advp, vp, pp, fcl, punct_dot.	1
+fcl --> np, vp, np, np, pp, pp, punct_dot.	1
+fcl --> vp, acl, punct_exclamation.	1
+fcl --> advp, punct_comma, advp, punct_comma, conj_c, advp, advp, advp, np, vp, pp, punct_dot.	1
+fcl --> np, np, vp, fcl.	1
+adjp --> prp, num.	1
+icl --> vp, punct_comma, advp, punct_comma, cu.	1
+fcl --> conj_c, punct_comma, fcl, advp, vp, icl, punct_dot.	1
+np --> pron_indp, punct_ltlt, adjp, punct_gtgt.	1
+pp --> prp, np, punct_semicolon, np.	1
+fcl --> np, punct_comma, np, advp, vp, pp, pp, punct_comma, pp, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, pp, vp, np, punct_dot.	1
+icl --> vp, punct_comma, advp.	1
+adjp --> adj, pp, fcl.	1
+cu --> fcl, punct_comma, fcl, punct_question_mark.	1
+np --> art, n, punct_comma, np, punct_comma, fcl.	1
+np --> pron_pers, punct_comma, np.	1
+fcl --> conj_c, punct_comma, pp, punct_comma, np, vp, np, advp, punct_dot.	1
+cu --> np, conj_c, icl.	1
+np --> pron_det, n, punct_comma, cu, punct_comma.	1
+fcl --> conj_c, punct_comma, advp, punct_comma, np, vp, pp, punct_dot.	1
+np --> prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, pp.	1
+advp --> pp, pp.	1
+fcl --> advp, punct_comma, vp, np, pp, punct_comma, advp, punct_dot.	1
+fcl --> np, vp, punct_comma, advp, punct_comma, icl, punct_dot.	1
+fcl --> pp, punct_comma, adjp, vp, pp, punct_dot.	1
+fcl --> icl, np, vp, np, pp, punct_dot.	1
+fcl --> np, punct_comma, vp, np, punct_comma, pp, punct_dot.	1
+np --> art, n, pp, pp, pp, punct_comma, icl.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, vp, np, pp.	1
+fcl --> punct_ltlt, pp, punct_comma, np, vp, np, vp, np, advp, punct_dot.	1
+cu --> pp, punct_comma, conj_c, np.	1
+fcl --> cu, punct_comma, np, vp, advp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+np --> art, adj, v_pcp, punct_comma, np, punct_comma.	1
+fcl --> pp, punct_comma, np, vp, np, advp, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, cu, punct_dot.	1
+np --> adv, n, adjp, pp.	1
+np --> adv, n, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+icl --> vp, pp, advp, pp.	1
+np --> art, n, punct_open_curly_bracket, np, punct_close_curly_bracket, icl.	1
+np --> art, n, adjp, adjp, np, punct_comma, fcl.	1
+np --> art, pron_det, icl.	1
+fcl --> advp, punct_comma, np, advp, np, vp, pp, punct_dot.	1
+fcl --> advp, punct_comma, cu, vp, advp, pp, punct_dot.	1
+fcl --> conj_s, np, vp, acl, np.	1
+fcl --> np, cu, vp.	1
+np --> art, ec, n, pp, np, punct_comma, adjp, punct_comma, icl, punct_comma.	1
+cu --> adjp, punct_comma, advp.	1
+cu --> np, punct_comma, np, punct_comma, np, conj_c, advp, punct_three_dots, np.	1
+fcl --> advp, punct_comma, vp, np, np, punct_dot.	1
+fcl --> pron_indp, vp, np, cu.	1
+np --> art, n, adjp, punct_ltlt, v_pcp, punct_gtgt.	1
+np --> art, n, punct_ltlt, adjp, punct_gtgt.	1
+np --> punct_ltlt, n, cu, punct_gtgt.	1
+fcl --> conj_c, advp, np, vp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+fcl --> punct_ltlt, conj_s, advp, vp, np, punct_gtgt.	1
+x --> punct_comma, advp, punct_comma, vp, np, pp, punct_comma, icl.	1
+np --> cu, prop.	1
+fcl --> adjp, pp, punct_comma, np, vp, np, pp, punct_dot.	1
+fcl --> vp, pp, punct_comma, pp, punct_comma, np, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_comma, adjp, punct_close_curly_bracket.	1
+np --> punct_ltlt, n_adj, punct_gtgt, punct_comma, pp.	1
+np --> adj, n, punct_semicolon, fcl, punct_exclamation.	1
+fcl --> advp, vp, np, fcl.	1
+fcl --> conj_s, fcl.	1
+fcl --> conj_s, np, advp, np, vp, pp.	1
+cu --> pp, conj_c, icl.	1
+fcl --> cu, punct_comma, np, vp, advp, vp, pp, punct_dot.	1
+fcl --> conj_c, fcl, conj_c, fcl, punct_dot.	1
+fcl --> np, vp, np, vp.	1
+np --> art, adjp, n, adjp, pp, punct_semicolon, np.	1
+np --> prop, punct_comma, adjp, punct_comma, icl.	1
+icl --> vp, advp, punct_comma, advp, icl.	1
+fcl --> cu, vp, cu, punct_dot.	1
+fcl --> conj_s, np, vp, punct_comma, advp, punct_comma, np.	1
+fcl --> np, punct_double_dash, vp, np, pp, punct_dot.	1
+fcl --> np, advp, vp, np, advp.	1
+x --> punct_comma, advp, punct_comma, vp, np.	1
+np --> art, n, icl, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, np, punct_gtgt, vp, cu.	1
+cu --> np, punct_comma, pp.	1
+fcl --> adv, advp, np, vp, pp.	1
+np --> n, adjp, fcl, punct_dot.	1
+fcl --> np, punct_comma, np, vp, fcl, punct_dot.	1
+fcl --> pp, punct_comma, pp, np, vp, np, pp, punct_comma, advp, punct_dot.	1
+fcl --> np, vp, adjp, punct_comma, vp, punct_dot.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, pp, pp, punct_dot.	1
+fcl --> advp, punct_comma, np, advp, vp, advp, pp, punct_dot.	1
+np --> pron_det, v_pcp.	1
+fcl --> np, vp, fcl, punct_question_mark.	1
+fcl --> pp, punct_comma, adjp, vp, punct_dot.	1
+np --> art, num, cu, fcl.	1
+fcl --> punct_ltlt, advp, np, vp, np, punct_dot.	1
+fcl --> np, advp, vp, np, punct_comma, fcl, punct_dot.	1
+acl --> adv, v_pcp.	1
+fcl --> np, np, vp, acl, pp, punct_comma, pp.	1
+icl --> vp, punct_comma, advp, punct_comma, fcl.	1
+fcl --> fcl, punct_comma, vp, np, np.	1
+np --> n, icl, punct_comma, pp, punct_comma.	1
+cu --> np, conj_c, advp.	1
+fcl --> pp, punct_comma, advp, punct_comma, vp, np, vp, pp.	1
+fcl --> icl, punct_comma, np, vp, pp, cu, punct_dot.	1
+np --> pron_indp, acl, punct_dot.	1
+fcl --> conj_s, punct_ltlt, advp, vp, icl, punct_gtgt, pp.	1
+np --> art, adj, n, adjp, icl.	1
+fcl --> advp, punct_semicolon, np, vp, cu, pp, punct_dot.	1
+np --> art, n, punct_open_curly_bracket, adjp, punct_close_curly_bracket, fcl.	1
+np --> art, n, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+fcl --> np, vp, advp, punct_comma, advp, punct_dot.	1
+fcl --> punct_ltlt, pp, punct_comma, np, vp, adjp, punct_dot, punct_gtgt.	1
+fcl --> conj_s, vp, punct_prime, np, punct_prime, icl.	1
+fcl --> fcl, punct_comma, vp, np, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, advp, vp, np, punct_gtgt.	1
+np --> conj_c, adv, prop, punct_semicolon, cu, punct_dot.	1
+fcl --> advp, punct_comma, np, pp, punct_comma, np, vp, np, punct_dot.	1
+np --> num, n, v_pcp, pp, punct_semicolon, pp.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, vp, pp.	1
+icl --> vp, punct_comma, advp, punct_comma, pp.	1
+np --> n, adjp, pp, punct_open_curly_bracket, icl, punct_close_curly_bracket.	1
+fcl --> pp, punct_comma, np, vp, advp, np, advp, punct_dot.	1
+icl --> np, vp, cu.	1
+fcl --> fcl, punct_comma, np, vp, pp, acl, punct_comma, icl, punct_dot.	1
+fcl --> advp, punct_comma, pp, punct_comma, np, vp, v_ger, punct_comma, fcl, punct_dot.	1
+fcl --> np, punct_ltlt, vp, pp, punct_gtgt, punct_dot.	1
+np --> pron_det, n, adjp, punct_comma, np, punct_comma.	1
+fcl --> conj_s, vp, acl, pp.	1
+np --> art, pron_det, n, adjp, icl.	1
+fcl --> conj_c, np, vp, pp, pp, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, advp, np, vp.	1
+fcl --> pp, punct_comma, np, vp, advp, pp, punct_semicolon.	1
+fcl --> punct_ltlt, vp, icl, punct_gtgt.	1
+np --> art, num, n, adjp, pp, cu.	1
+fcl --> punct_ltlt, advp, vp, cu, punct_dot, punct_gtgt.	1
+fcl --> conj_c, np, advp, vp, np, pp, punct_dot.	1
+np --> art, n, pp, pp, punct_comma, icl.	1
+np --> pron_det, pron_pers.	1
+fcl --> cu, cu, punct_dot.	1
+fcl --> cu, vp, np, advp, punct_dot.	1
+advp --> punct_ltlt, adv, adv, punct_gtgt, pp.	1
+fcl --> pp, np, punct_comma, vp, advp, pp, punct_dot.	1
+np --> art, n, pp, fcl, punct_comma, np, punct_comma.	1
+np --> pron_det, np, adjp.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, pp, punct_comma.	1
+cu --> pp, punct_comma, pp, conj_c, punct_ltlt, adjp, punct_gtgt.	1
+fcl --> v_ger, punct_semicolon, np, vp, np, pp, punct_dot.	1
+np --> art, n, pp, punct_dot.	1
+fcl --> pp, np, vp, np, v_pcp.	1
+fcl --> fcl, punct_comma, vp, np, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_dot.	1
+np --> adjp, n, np.	1
+np --> num, n, adjp, punct_comma, pp, punct_comma.	1
+fcl --> adjp, punct_comma, vp, adjp, punct_comma, cu, punct_dot.	1
+icl --> advp, vp, punct_comma, pp, punct_comma, fcl.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, vp, np, pp, pp, punct_comma, icl, punct_dot.	1
+np --> art, n, adjp, pp, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+fcl --> conj_c, pp, vp, np, punct_dot.	1
+fcl --> np, vp, pp, pp, pp, pp, punct_dot.	1
+np --> art, n, pp, punct_comma, pp, punct_comma, icl, punct_comma.	1
+np --> n, np, punct_comma, np.	1
+np --> num, n, adjp, np, punct_comma, acl.	1
+fcl --> np, np, vp, pp, pp, acl.	1
+np --> art, pron_det, n, pp, punct_comma, np, punct_comma, fcl.	1
+np --> prop, punct_open_curly_bracket, punct_ltlt, np, punct_gtgt, punct_comma, pp, punct_close_curly_bracket.	1
+fcl --> conj_s, punct_comma, fcl, punct_comma, vp, pp.	1
+fcl --> pp, punct_comma, pp, np, vp, fcl, punct_dot.	1
+fcl --> cu, vp, advp, pp.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, pp, pp, punct_dot.	1
+icl --> vp, np, punct_comma, pp, punct_comma, np.	1
+np --> n, adjp, adjp, punct_comma, icl.	1
+fcl --> conj_s, np, vp, advp, np.	1
+fcl --> vp, v_pcp, cu, punct_dot.	1
+fcl --> np, advp, vp, v_pcp, pp, punct_dot.	1
+fcl --> conj_s, np, punct_ltlt, vp, advp, punct_comma, pp, punct_gtgt.	1
+advp --> adv, punct_comma, np.	1
+np --> art, num, n, icl, punct_comma, cu, punct_comma.	1
+np --> art, adj, n, icl, pp.	1
+icl --> np, vp, adjp, pp.	1
+fcl --> fcl, punct_comma, np, vp, fcl.	1
+fcl --> np, advp, advp, vp, np, punct_dot.	1
+n --> punct_comma, np.	1
+np --> pron_det, pron_det, cu.	1
+pp --> prp, np, np, pp, np.	1
+np --> punct_ltlt, art, n, pp, punct_gtgt.	1
+fcl --> np, vp, icl, punct_dot, punct_gtgt.	1
+icl --> advp, vp, pp, np.	1
+np --> art, n, pp, punct_open_curly_bracket, np, punct_comma, pp, punct_comma.	1
+np --> n, np, punct_comma, adjp, punct_comma, np, punct_close_curly_bracket.	1
+np --> punct_ltlt, prop, punct_gtgt.	1
+adjp --> adj, punct_open_curly_bracket, pp, advp, punct_close_curly_bracket.	1
+cu --> adjp, punct_comma, adjp, punct_comma, pp, punct_comma.	1
+pp --> prp, np, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+fcl --> advp, vp, np, np, punct_dot.	1
+icl --> np, vp, np, vp.	1
+adjp --> adj, punct_question_mark, punct_exclamation.	1
+fcl --> advp, vp, cu, fcl.	1
+fcl --> np, vp, adjp, pp, punct_semicolon, fcl, punct_dot.	1
+fcl --> np, vp, cu, punct_comma, conj_c, fcl.	1
+pp --> prp, punct_prime, np, punct_exclamation, punct_prime.	1
+np --> n, v_pcp, adjp.	1
+fcl --> np, cu, fcl, punct_dot.	1
+fcl --> pp, np, vp, advp, punct_dot.	1
+fcl --> punct_ltlt, pp, punct_comma, vp, np, fcl, punct_dot.	1
+np --> cu, punct_comma, icl, punct_comma.	1
+fcl --> icl, punct_comma, np, vp, np, advp, punct_dot.	1
+np --> art, adj, n, punct_comma, pp, punct_comma.	1
+np --> art, n, punct_open_curly_bracket, punct_hyphen, adjp, punct_close_curly_bracket.	1
+np --> n, adjp, punct_open_curly_bracket, punct_hyphen, np, punct_close_curly_bracket.	1
+np --> n, punct_gtgt.	1
+pp --> prp, punct_ltlt, np.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, pp, punct_comma, icl, punct_comma.	1
+art --> vp, pp.	1
+fcl --> pp, vp, cu, pp.	1
+icl --> art.	1
+np --> art, prop, punct_comma, pp, punct_comma, x.	1
+fcl --> advp, np, vp, advp, fcl, punct_dot.	1
+fcl --> cu, vp, icl, punct_dot.	1
+fcl --> punct_ltlt, pp, punct_comma, icl, vp, adjp, punct_gtgt.	1
+fcl --> np, vp, np, punct_gtgt.	1
+np --> art, n, pp, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+cu --> advp, fcl, advp, fcl, punct_dot.	1
+fcl --> np, vp, pp, fcl, punct_comma.	1
+pp --> prp, np, vp, icl.	1
+fcl --> np, vp, np, pp, advp, pp, punct_dot.	1
+np --> prop, punct_double_dash, cu, punct_dot.	1
+fcl --> advp, vp, adjp, icl, punct_comma, pp, punct_dot.	1
+np --> pron_det, n, adjp, punct_comma, pp, np, punct_comma.	1
+np --> prop, punct_comma, np, punct_comma, advp, pp, punct_dot.	1
+fcl --> cu, vp, pp, pp, pp, punct_comma, pp, punct_dot.	1
+cu --> fcl, conj_c, fcl, punct_question_mark.	1
+fcl --> advp, advp, vp, fcl.	1
+fcl --> conj_s, np, vp, np, pp, np.	1
+art --> adv, adj.	1
+fcl --> adjp, vp, np, fcl, punct_dot.	1
+fcl --> np, vp, np, punct_comma, acl.	1
+np --> art, n_adj, np, punct_open_curly_bracket, icl, punct_close_curly_bracket, punct_comma.	1
+np --> art, n_adj, pp, punct_comma, fcl, punct_comma.	1
+fcl --> pp, advp, punct_comma, pp, punct_comma, np, np, vp, advp, punct_dot.	1
+icl --> np, punct_open_bracket, vp, punct_close_bracket.	1
+sq --> icl, punct_double_dash, fcl.	1
+np --> n, adjp, punct_comma, adjp.	1
+fcl --> conj_s, punct_prime, np, vp, pp, punct_prime.	1
+np --> pron_det, art, n, cu, icl.	1
+fcl --> punct_ltlt, advp, punct_gtgt.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, cu, punct_semicolon.	1
+fcl --> np, vp, advp, np, acl.	1
+fcl --> np, vp, np, advp, pp, punct_semicolon.	1
+cu --> punct_ltlt, np, punct_comma, np, punct_gtgt, punct_dot.	1
+fcl --> vp, pp, np, pp, punct_dot.	1
+np --> cu, punct_comma, np, punct_comma, adjp, punct_comma.	1
+fcl --> conj_s, np, advp, vp, np, advp.	1
+fcl --> punct_ltlt, vp, fcl, punct_gtgt, punct_dot.	1
+fcl --> pp, punct_comma, vp, np, pp, pp, punct_comma, fcl, punct_dot.	1
+fcl --> np, advp, vp, advp, np, pp, punct_dot.	1
+fcl --> np, vp, advp, np, x, pp.	1
+fcl --> punct_ltlt, vp, v_pcp, punct_gtgt.	1
+np --> art, n, punct_comma, np, punct_comma, np.	1
+fcl --> pp, np, punct_comma, vp, np, pp, punct_comma, pp, punct_dot.	1
+fcl --> fcl, punct_gtgt, punct_comma, vp, adjp, punct_dot.	1
+np --> art, prop, acl.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, np, punct_comma, pp, punct_dot.	1
+fcl --> conj_c, vp, np, vp, np, punct_dot.	1
+np --> art, adj, prop, punct_comma, pp.	1
+x --> vp, punct_comma, advp, punct_comma, pp.	1
+fcl --> np, vp, fcl, vp, np, punct_dot.	1
+fcl --> np, vp, np, punct_comma, pp, pp.	1
+fcl --> vp, pp, punct_comma, icl, punct_dot.	1
+fcl --> conj_c, cu, np, advp, vp, np, punct_dot.	1
+fcl --> np, vp, advp, punct_comma, np, punct_comma.	1
+pp --> prp, cu, punct_comma, pp.	1
+np --> pp, punct_comma, n, adjp, punct_exclamation.	1
+cu --> fcl, punct_semicolon, fcl, punct_semicolon, fcl, punct_semicolon.	1
+fcl --> np, punct_double_dash, np, vp, np.	1
+fcl --> conj_s, np, advp, vp, punct_open_curly_bracket, pp, punct_close_curly_bracket, np.	1
+fcl --> vp, np, vp, punct_comma, cu, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, punct_ltlt, np, vp, pp, punct_comma, pp.	1
+adjp --> adv, adj, np.	1
+fcl --> pp, np, vp, adjp, punct_dot.	1
+cu --> fcl, punct_semicolon, fcl, punct_question_mark.	1
+fcl --> fcl, advp, cu.	1
+np --> art, num, n, punct_comma, fcl, punct_comma.	1
+np --> art, v_pcp, n, pp, pp.	1
+x --> advp, np, vp, advp, adjp.	1
+x --> np, vp, pp, advp.	1
+fcl --> advp, vp, pp, fcl.	1
+fcl --> pp, punct_comma, advp, vp, np, pp, punct_dot.	1
+fcl --> np, vp, punct_comma, pp, punct_comma, cu, punct_comma, advp, punct_dot.	1
+fcl --> advp, cu, punct_ltlt, vp, punct_gtgt, np.	1
+fcl --> advp, punct_comma, fcl, punct_comma, adjp, np, punct_dot.	1
+fcl --> np, advp, vp, np, pp, pp, punct_dot.	1
+np --> pron_det, n, punct_comma, np, punct_comma, np, punct_comma.	1
+fcl --> np, vp, acl.	1
+np --> art, pron_det, n, punct_comma, fcl.	1
+fcl --> np, vp, punct_comma, advp, punct_comma, vp, np, punct_dot.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, advp, vp, np, pp.	1
+np --> num, punct_three_dots, n.	1
+fcl --> np, np, vp, punct_comma, advp, punct_comma, pp, pp, punct_dot.	1
+np --> art, pron_det, pron_det, n, pp.	1
+np --> pron_det, n, punct_comma, icl, punct_comma.	1
+fcl --> np, punct_comma, advp, advp, punct_comma, advp, vp, np, punct_dot.	1
+acl --> conj_s.	1
+fcl --> np, vp, punct_comma, fcl, punct_comma, advp, np, acl, punct_dot.	1
+np --> art, n, punct_open_curly_bracket, advp, punct_close_curly_bracket, punct_comma, np, punct_comma.	1
+pp --> prp, icl, np.	1
+fcl --> advp, np, vp, advp.	1
+np --> art, n, np, punct_comma, adjp, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np.	1
+adjp --> np, adj, pp.	1
+cu --> pp, punct_comma, pp, conj_c, np.	1
+fcl --> punct_ltlt, vp, cu, punct_dot, punct_gtgt.	1
+cu --> np, punct_comma, np, conj_c, pp.	1
+cu --> x, conj_c, x, conj_c, x.	1
+np --> art, punct_ltlt, n, punct_gtgt, np.	1
+fcl --> advp, pp, advp, np, vp, np, punct_dot.	1
+np --> adj, adj, n, pp.	1
+np --> art, num, n, np, punct_comma, np.	1
+fcl --> np, advp, vp, advp, pp.	1
+cu --> adjp, punct_comma, conj_c, pp.	1
+fcl --> pp, punct_comma, pp, punct_comma, vp, np, punct_comma, icl, punct_dot.	1
+pp --> adv, prp, adjp.	1
+fcl --> pron_indp, vp, pp.	1
+np --> art, n, pp, advp.	1
+np --> punct_ltlt, n, punct_gtgt, punct_comma, advp, np.	1
+fcl --> vp, advp, pp, punct_comma, pp, punct_comma, np, punct_dot.	1
+np --> art, ec, n, pp, np.	1
+fcl --> pp, punct_comma, punct_ltlt, np, vp, np, punct_gtgt, punct_dot.	1
+np --> n, cu, punct_comma, pp.	1
+np --> adv, art, n, punct_comma, fcl.	1
+fcl --> np, vp, punct_ltlt, icl.	1
+icl --> vp, adv.	1
+icl --> vp, pp, punct_gtgt, punct_comma, pp.	1
+fcl --> vp, punct_comma, np, advp, vp, adjp, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, adjp, pp, punct_comma, fcl, punct_dot.	1
+icl --> np, cu.	1
+x --> vp, np, pp, pp.	1
+x --> vp, pp, advp, punct_comma, fcl.	1
+fcl --> conj_s, np, vp, punct_ltlt, x, punct_gtgt.	1
+fcl --> acl, punct_comma, advp, np, vp, advp, cu, punct_dot.	1
+fcl --> np, vp, advp, np, punct_comma, pp, punct_comma, x, punct_comma, pp, punct_dot.	1
+np --> art, adj, n, n, pp.	1
+fcl --> np, pp, punct_comma, vp, pp.	1
+np --> n, adjp, pp, punct_comma, fcl.	1
+np --> pron_det, pron_det, n, punct_comma, pp.	1
+np --> prop, np, vp, np, vp, pp, punct_question_mark.	1
+fcl --> np, punct_prime, vp, punct_prime, pp.	1
+fcl --> conj_s, cu, vp, np, vp.	1
+fcl --> fcl, advp, vp, fcl, punct_dot.	1
+np --> cu, punct_comma, pp, punct_comma.	1
+fcl --> conj_s, np, advp, vp, pp, pp.	1
+fcl --> np, vp, np, punct_comma, advp, advp.	1
+fcl --> pp, vp, fcl, punct_comma, fcl, punct_question_mark.	1
+fcl --> np, advp, vp, pp, np, punct_dot.	1
+vp --> v_fin, punct_prime, v_inf, punct_prime.	1
+fcl --> np, punct_comma, pp, punct_comma, np, punct_comma, vp, np.	1
+fcl --> conj_c, advp, pp, advp, advp, np, vp, punct_comma, icl, punct_dot.	1
+fcl --> conj_s, vp, cu, pp.	1
+fcl --> np, vp, punct_ltlt, fcl, punct_gtgt, punct_dot.	1
+np --> art, n, pp, pp, adv.	1
+fcl --> adjp, vp, np, punct_exclamation.	1
+fcl --> conj_s, vp, advp, np, pp.	1
+fcl --> conj_s, vp, pp, fcl.	1
+np --> art, n, punct_double_dash, icl, punct_double_dash.	1
+fcl --> punct_ltlt, np, vp, np, punct_comma, pp, punct_dot.	1
+np --> art, adjp, cu.	1
+np --> art, pron_det, n, punct_comma, fcl, punct_comma.	1
+fcl --> np, vp, pp, pp, punct_comma, icl, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, punct_comma, advp, punct_comma, icl, punct_dot.	1
+fcl --> pp, np, advp, vp, adjp, punct_dot.	1
+np --> art, prop, pp, punct_dot.	1
+cu --> fcl, punct_comma, fcl, punct_comma, fcl, punct_dot.	1
+fcl --> np, punct_comma, np.	1
+fcl --> np, np, punct_question_mark.	1
+fcl --> vp, pp, punct_comma, pp, punct_comma, pp, punct_comma, np, punct_dot.	1
+fcl --> conj_c, pp, punct_comma, fcl, punct_comma, advp, vp, adjp, np, punct_question_mark.	1
+fcl --> advp, punct_comma, pp, np, cu, punct_dot.	1
+x --> punct_comma, advp, punct_comma, pp, punct_comma, vp, pp.	1
+cu --> np, punct_comma, fcl, punct_comma, fcl, punct_comma, np.	1
+cu --> x, punct_comma, x, punct_comma, x, punct_comma, x.	1
+np --> art, n, punct_double_dash, cu.	1
+vp --> punct_ltlt, v_fin, v_inf, punct_gtgt, conj_s, v_inf, prp, v_inf.	1
+fcl --> vp, np, pp, pp, pp, punct_dot.	1
+fcl --> advp, punct_comma, advp, vp, icl, punct_dot.	1
+fcl --> conj_s, vp, advp, np.	1
+fcl --> pp, punct_comma, np, advp, vp, np.	1
+fcl --> np, punct_comma, pp, punct_comma, np, vp, np, pp, punct_dot.	1
+fcl --> np, advp, vp, pp, icl, punct_dot.	1
+icl --> cu, cu.	1
+cu --> conj_c, fcl, punct_comma, conj_c, fcl.	1
+fcl --> cu, punct_comma, vp, np, pp, punct_dot.	1
+np --> art, n, np, v_pcp.	1
+np --> art, n, punct_open_curly_bracket, icl, punct_close_curly_bracket.	1
+np --> n, np, fcl.	1
+fcl --> pp, punct_comma, vp, advp, pp, punct_dot.	1
+acl --> advp, np, prp, v_inf, punct_comma, fcl, punct_dot.	1
+fcl --> advp, punct_comma, fcl, punct_comma, vp, np, adjp, icl, punct_dot.	1
+fcl --> conj_s, np, vp, pp, pp, np.	1
+icl --> pp, cu, pp.	1
+np --> art, n, vp, pp.	1
+fcl --> np, vp, np, punct_comma, pp, punct_comma.	1
+acl --> adv, cu, punct_comma.	1
+np --> art, cu, n, acl.	1
+np --> n_adj, pp, acl.	1
+pp --> prp, cu, punct_comma.	1
+np --> art, adv, n, n, adjp.	1
+fcl --> adjp, punct_double_dash, np, vp, np, punct_dot.	1
+fcl --> advp, np, vp, punct_comma, pp.	1
+np --> adj, n, punct_gtgt.	1
+np --> adv, art, punct_ltlt, n, np.	1
+fcl --> punct_ltlt, advp, vp, np, pp, punct_gtgt.	1
+np --> art, n, adjp, punct_open_curly_bracket, pp, punct_close_curly_bracket, punct_comma, fcl.	1
+np --> num, punct_ltlt, n, np, punct_gtgt.	1
+fcl --> advp, np, advp, vp, np, punct_comma, cu, punct_dot.	1
+icl --> vp, punct_comma, advp, punct_comma, np.	1
+x --> punct_comma, advp, punct_comma, v_inf.	1
+x --> v_inf, conj_c.	1
+fcl --> np, vp, x, advp.	1
+cu --> np, punct_comma, np, conj_c, np, punct_comma, advp.	1
+np --> pron_det, n, punct_comma, cu.	1
+fcl --> pron_indp, np, advp, vp, np.	1
+fcl --> conj_c, np, vp, advp, adjp.	1
+fcl --> icl, punct_comma, vp, punct_semicolon.	1
+np --> n, np, punct_comma, pp, punct_comma.	1
+fcl --> conj_s, adjp, vp, icl.	1
+fcl --> np, cu, punct_comma, pp, punct_dot.	1
+fcl --> fcl, punct_comma, np, np, vp, pp, punct_semicolon.	1
+fcl --> vp, np, punct_gtgt, punct_dot.	1
+fcl --> advp, punct_comma, np, advp, vp, np, punct_dot.	1
+np --> n, vp, adjp, np, pp, punct_dot.	1
+np --> n, punct_ltlt, np, punct_gtgt, punct_comma, pp, punct_comma.	1
+fcl --> pron_indp, cu, vp, np.	1
+np --> art, adj, n, fcl, punct_comma, pp.	1
+np --> n, fcl, acl.	1
+x --> punct_ltlt, vp, punct_gtgt, np.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np, punct_comma.	1
+fcl --> advp, vp, advp, np, pp, punct_dot.	1
+cu --> conj_c, fcl, punct_semicolon, fcl, conj_c, fcl, punct_dot.	1
+fcl --> conj_s, punct_ltlt, advp, np, vp, advp, punct_gtgt.	1
+fcl --> punct_comma, fcl, punct_comma, vp, advp, fcl.	1
+np --> art, adj, n, pp, punct_comma, adjp.	1
+fcl --> np, advp, vp, adjp, advp, punct_dot.	1
+np --> art, adj, n, punct_comma, np, punct_comma, adjp, punct_comma, np, punct_comma.	1
+fcl --> punct_three_dots, np, vp, advp, pp, punct_dot.	1
+fcl --> conj_s, np, vp, np, punct_ltlt, pp, punct_gtgt.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, punct_comma, adjp, punct_comma, np.	1
+np --> num, n, adjp, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+fcl --> advp, punct_comma, pp, punct_comma, np, vp, np, punct_comma, icl, punct_dot.	1
+np --> art, num, n, n, pp.	1
+adjp --> adj, punct_semicolon, cu.	1
+cu --> fcl, punct_semicolon, fcl, conj_c, fcl.	1
+fcl --> advp, punct_comma, vp, np, fcl.	1
+fcl --> fcl, vp, fcl, punct_dot.	1
+fcl --> vp, np, np, np.	1
+fcl --> pp, punct_comma, np, advp, vp, pp, pp, punct_dot.	1
+np --> num, n, advp.	1
+np --> n, adjp, punct_comma, icl.	1
+fcl --> icl, vp, adjp, fcl, punct_dot.	1
+fcl --> conj_c, punct_comma, np, punct_comma, advp, np, advp, vp, np, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_dot.	1
+fcl --> vp, np, punct_comma, np, advp, pp.	1
+fcl --> advp, vp, np, punct_comma.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, fcl, np, vp, pp.	1
+np --> adv, pron_indp, pp.	1
+np --> pron_det, n, adjp, punct_ltlt, adjp, punct_gtgt.	1
+fcl --> punct_ltlt, cu, punct_comma, np, vp, fcl, punct_dot, punct_gtgt.	1
+fcl --> conj_s, np, vp, x, pp.	1
+fcl --> fcl, advp, vp, advp, punct_dot.	1
+pp --> num.	1
+np --> conj_c, n, punct_exclamation.	1
+cu --> fcl, punct_comma, fcl, punct_comma, fcl, punct_comma, fcl, conj_c, fcl, punct_dot.	1
+fcl --> np, punct_comma, fcl, punct_comma, vp, np.	1
+np --> art, n, adjp, adjp, pp.	1
+np --> art, prop, punct_comma, cu.	1
+fcl --> pp, punct_comma, np, vp, np, punct_open_curly_bracket, vp, np, pp, punct_close_curly_bracket, punct_dot.	1
+cu --> np, conj_c, np, punct_comma, prp, np.	1
+fcl --> conj_c, np, punct_comma, icl, punct_comma, vp, np, punct_dot.	1
+np --> pron_det, pron_det, n, punct_comma, fcl.	1
+np --> art, ec, n, pp, pp, punct_comma, np.	1
+fcl --> np, punct_double_dash, np, vp, pp, punct_dot.	1
+np --> art, n, adjp, np, punct_comma, pp.	1
+fcl --> icl, cu.	1
+np --> adv, n, pp, punct_comma, acl.	1
+np --> n, pp, fcl, punct_dot.	1
+pp --> prp, punct_ltlt, v_pcp, punct_gtgt.	1
+np --> art, n, adjp, pp, punct_comma, np, punct_comma.	1
+fcl --> np, advp, vp, np, vp, adjp, pp.	1
+fcl --> vp, pp, advp.	1
+icl --> advp, vp, pp, punct_comma, pp.	1
+np --> pron_det, n, cu, np.	1
+cu --> punct_ltlt, acl, punct_comma, conj_c, acl, punct_gtgt.	1
+fcl --> np, vp, cu, icl, punct_dot.	1
+fcl --> np, vp, fcl, punct_semicolon.	1
+fcl --> conj_s, pp, np, vp, np.	1
+fcl --> advp, advp, np, vp.	1
+fcl --> advp, punct_comma, fcl, punct_comma, np, advp, vp, punct_comma, cu, punct_comma, fcl, punct_dot.	1
+fcl --> cu, np, vp, pp, pp, pp, punct_dot.	1
+fcl --> advp, advp, np, vp, fcl, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, np, pp, punct_dot.	1
+np --> n, adjp, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+fcl --> advp, punct_comma, advp, punct_comma, advp, vp, np, punct_dot.	1
+fcl --> np, vp, np, pp, punct_comma, conj_c, advp, np.	1
+fcl --> conj_s, np, vp, np, punct_comma, pp, pp.	1
+np --> art, n, cu, punct_comma, pp, punct_comma.	1
+fcl --> np, vp, pp, pp, punct_comma, pp, pp, punct_dot.	1
+fcl --> np, cu, punct_question_mark.	1
+fcl --> advp, adv.	1
+fcl --> fcl, vp, np, punct_comma, acl, punct_comma, np, vp, pp, punct_dot.	1
+np --> num, n, pp, punct_comma, fcl.	1
+fcl --> pp, punct_comma, np, advp, vp, advp, fcl, punct_dot.	1
+icl --> art, adjp, pp.	1
+np --> conj_c, art, n, punct_semicolon.	1
+fcl --> np, advp, np, vp, adjp.	1
+fcl --> punct_comma, advp, punct_comma, np, vp, fcl.	1
+fcl --> conj_s, punct_ltlt, vp, np, punct_gtgt.	1
+fcl --> vp, np, punct_comma, icl, punct_dot.	1
+acl --> np, punct_comma, np.	1
+cu --> acl, punct_semicolon, cu, punct_dot.	1
+cu --> fcl, conj_c, acl.	1
+fcl --> np, vp, np, pp, punct_comma, icl, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, advp, vp, pp, punct_comma, conj_c, advp, fcl, punct_gtgt.	1
+pp --> advp, np.	1
+acl --> punct_ltlt, advp, punct_question_mark, punct_gtgt.	1
+np --> prop, fcl, punct_comma, fcl, punct_dot.	1
+fcl --> np, vp, pp, np, punct_gtgt.	1
+np --> art, cu, np, np.	1
+np --> art, n, punct_ltlt, np.	1
+np --> n, pp, punct_open_curly_bracket, icl, punct_close_curly_bracket.	1
+fcl --> pp, punct_comma, np, vp, pp, pp, fcl, punct_dot.	1
+fcl --> np, vp, pp, x, punct_comma, x, punct_dot.	1
+fcl --> pp, advp, vp.	1
+np --> n, fcl, punct_question_mark.	1
+fcl --> conj_c, vp, fcl.	1
+icl --> vp, pp, pp, fcl.	1
+icl --> art, vp, np, pp.	1
+acl --> advp, np, vp.	1
+fcl --> acl, punct_comma, np, vp, advp, punct_dot.	1
+fcl --> conj_s, advp, vp, np, punct_comma, pp, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, fcl.	1
+fcl --> advp, vp, np, punct_comma, pp, punct_dot.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	1
+fcl --> pp, punct_comma, vp, np, punct_comma, pp, punct_dot.	1
+fcl --> conj_s, vp, vp, adjp, np.	1
+icl --> punct_ltlt, vp, np, punct_gtgt.	1
+icl --> vp, np, icl, pp, punct_comma, advp, punct_comma, pp.	1
+fcl --> pp, np, vp, advp, pp, punct_comma.	1
+np --> n, punct_semicolon, cu, punct_dot.	1
+fcl --> np, punct_comma, pp, cu, punct_dot.	1
+fcl --> icl, punct_comma, vp, pp, np, punct_dot.	1
+np --> art, adj, punct_ltlt, n, punct_gtgt, pp.	1
+pp --> prp, icl, advp.	1
+fcl --> advp, vp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, cu.	1
+fcl --> vp, punct_comma, pp, punct_comma, icl, punct_dot.	1
+np --> art, adj, punct_ltlt, prop, punct_gtgt, pp, punct_comma, icl.	1
+fcl --> np, punct_comma, pp, punct_comma, np, punct_comma, vp, pp, punct_dot.	1
+np --> art, pron_det, n, pp, fcl.	1
+fcl --> np, vp, pp, np, punct_comma, icl.	1
+fcl --> punct_open_curly_bracket, np, vp, punct_close_curly_bracket, punct_dot.	1
+fcl --> conj_s, np, vp, pp, punct_comma, fcl, punct_dot.	1
+fcl --> np, pp, pp, cu.	1
+adjp --> adv, num, np.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, np, pp.	1
+fcl --> vp, advp, np, adjp, punct_dot.	1
+cu --> punct_ltlt, fcl, punct_semicolon, conj_c, fcl, punct_gtgt.	1
+np --> num, n, adjp, icl.	1
+fcl --> advp, advp, vp, np, pp, punct_dot.	1
+fcl --> conj_s, advp, vp, pp, np.	1
+fcl --> np, vp, np, punct_comma, advp, conj_s, advp.	1
+fcl --> np, vp, punct_comma.	1
+fcl --> icl, punct_comma, np, vp, np, icl.	1
+np --> art, n, adjp, punct_semicolon, fcl.	1
+acl --> punct_ltlt, advp, punct_dot.	1
+fcl --> pp, punct_comma, vp, np, pp, np, punct_dot.	1
+fcl --> fcl, punct_exclamation.	1
+np --> pron_pers, fcl.	1
+np --> art, adj, n_adj, pp.	1
+fcl --> punct_ltlt, np, punct_comma, fcl, punct_comma, advp, vp, pp, punct_dot.	1
+fcl --> np, advp, vp, advp.	1
+fcl --> conj_c, np, advp, vp, punct_dot.	1
+adjp --> num, pp, punct_comma, np.	1
+np --> art, adjp, n, adjp, pp.	1
+np --> art, n, np, punct_comma, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> vp, np, punct_gtgt.	1
+cu --> cu, punct_semicolon, fcl, punct_dot.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, vp, icl.	1
+fcl --> np, advp, np, vp, pp, pp, punct_comma, pp.	1
+np --> art, v_pcp, punct_comma, x.	1
+pp --> adv, cu.	1
+np --> n, cu, punct_comma, fcl.	1
+fcl --> np, advp, vp, np, fcl, punct_dot.	1
+fcl --> pp, advp, vp, icl, punct_dot.	1
+cu --> adjp, punct_comma, adjp, conj_c, np, punct_dot.	1
+fcl --> np, prp, np, vp, pp.	1
+fcl --> conj_s, np, punct_ltlt, vp, pp, punct_gtgt, pp.	1
+fcl --> fcl, punct_comma, vp, punct_comma, icl, punct_dot.	1
+fcl --> punct_ltlt, np, advp, vp, fcl, punct_gtgt.	1
+np --> pron_det, ec, n, punct_comma, np.	1
+cu --> np, pp, pp, conj_c, cu, pp, pp.	1
+fcl --> cu, advp, vp, punct_dot.	1
+fcl --> cu, punct_open_curly_bracket, fcl, punct_close_curly_bracket, vp, np, punct_dot.	1
+fcl --> conj_s, advp, vp, np, punct_comma.	1
+fcl --> fcl, np, vp, np, pp, punct_dot.	1
+np --> n, v_pcp, punct_comma, vp.	1
+fcl --> np, punct_ltlt, vp, punct_gtgt, pp, np, punct_dot.	1
+cu --> x, punct_comma, prp, x.	1
+x --> v_inf, np, advp.	1
+fcl --> cu, cu.	1
+fcl --> np, vp, np, vp, pp, punct_dot.	1
+fcl --> advp, punct_comma, pp, punct_comma, vp, np, punct_dot.	1
+fcl --> conj_s, pp, np, vp, fcl.	1
+fcl --> conj_s, punct_ltlt, vp, advp, np, punct_gtgt.	1
+np --> art, n, cu, fcl.	1
+fcl --> np, vp, punct_comma, advp, punct_comma, cu, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, np, np, pp, punct_dot.	1
+np --> x, x.	1
+fcl --> np, punct_comma, np, punct_comma, pp.	1
+fcl --> np, punct_comma, np, vp, np, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, adjp, punct_dot.	1
+fcl --> pp, advp, vp, np.	1
+icl --> advp, vp, punct_comma, pp, punct_comma, pp.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, pp, fcl, punct_gtgt.	1
+fcl --> advp, punct_comma, vp, np, punct_exclamation.	1
+fcl --> punct_ltlt, np, vp, icl, punct_exclamation, punct_gtgt.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, vp, np, punct_dot.	1
+np --> prop, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+cu --> conj_c, adjp, conj_c, adjp.	1
+cu --> fcl, punct_semicolon, fcl, punct_semicolon, conj_c, fcl, punct_dot.	1
+fcl --> np, advp, vp, cu.	1
+fcl --> pp, np, vp, adjp, pp.	1
+fcl --> punct_comma, pp, punct_comma, np, vp, pp.	1
+fcl --> advp, np, vp, v_pcp.	1
+x --> vp, pp, fcl.	1
+fcl --> advp, np, vp, np, punct_comma.	1
+fcl --> fcl, punct_comma, vp, np, punct_comma, acl, np, punct_dot.	1
+np --> art, n, vp, cu.	1
+fcl --> vp, np, punct_comma, acl, punct_comma, pp, advp, punct_dot.	1
+fcl --> np, vp, pp, pp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, punct_semicolon.	1
+np --> pron_indp, punct_ltlt, icl, punct_gtgt.	1
+pp --> prp, conj_s, vp, np.	1
+np --> adj, n, punct_dot, pp.	1
+fcl --> np, np, vp, fcl, punct_comma, np, punct_dot.	1
+np --> adj, v_pcp, pp.	1
+pp --> prp, pron_indp.	1
+np --> n, v_pcp, fcl.	1
+np --> pron_det, n, adjp, punct_comma, np, punct_semicolon.	1
+np --> pron_det, v_pcp, n.	1
+acl --> advp, punct_comma, fcl, punct_dot.	1
+icl --> conj_s, vp.	1
+fcl --> np, vp, advp, np, punct_three_dots.	1
+np --> n, acl, punct_comma, fcl, punct_comma.	1
+advp --> adjp, acl.	1
+cu --> punct_ltlt, fcl, punct_comma, fcl, punct_gtgt, punct_dot.	1
+fcl --> advp, cu, vp, pp, pp, punct_comma, pp.	1
+fcl --> np, punct_comma, np, vp, np, fcl, punct_dot.	1
+fcl --> np, advp, vp, advp, pp, pp, punct_dot.	1
+advp --> adv, punct_dot.	1
+sq --> np, punct_double_dash, advp.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np, punct_dot.	1
+fcl --> pp, punct_comma, advp, vp, adjp, icl, punct_dot.	1
+icl --> vp, np, advp, pp.	1
+np --> pron_det, num, adj, n.	1
+fcl --> pp, punct_comma, advp, np, vp, fcl, punct_dot.	1
+fcl --> conj_s, np, advp, vp, adjp.	1
+fcl --> np, vp, cu, pp, pp, punct_dot.	1
+pp --> prp, np, conj_c, x.	1
+fcl --> np, vp, np, vp, pp, pp, punct_dot.	1
+v_inf --> pp.	1
+fcl --> conj_c, punct_comma, pp, punct_comma, np, vp, fcl, punct_dot.	1
+np --> art, num, adj, n, pp, punct_semicolon, cu.	1
+cu --> fcl, conj_c, acl, punct_dot.	1
+fcl --> advp, cu, advp, vp, np, punct_dot.	1
+fcl --> fcl, punct_comma, vp, acl, np, punct_dot.	1
+x --> punct_comma, advp, punct_comma, vp, pp.	1
+np --> art, punct_ltlt, n, pp, punct_gtgt, punct_comma, icl, punct_comma.	1
+fcl --> np, advp, np, vp, pp, pp, punct_dot.	1
+fcl --> advp, vp, cu, pp, cu.	1
+np --> art, adj, n, pp, punct_semicolon, np.	1
+pp --> prp, np, conj_c.	1
+fcl --> conj_s, adjp.	1
+fcl --> punct_ltlt, np, vp, adjp, punct_comma, advp, punct_gtgt.	1
+adjp --> v_pcp, adv.	1
+fcl --> np, punct_comma, cu, vp, advp, pp, punct_dot.	1
+fcl --> conj_c, np, vp.	1
+fcl --> np, advp, vp, pp, pp, punct_dot.	1
+np --> adjp, n, pp, punct_dot.	1
+fcl --> fcl, punct_gtgt, punct_comma, np, vp, punct_dot.	1
+fcl --> np, vp, pp, advp, punct_comma, pp, punct_dot.	1
+np --> art, n_adj, pp, punct_comma, pp, punct_comma.	1
+x --> advp, np, vp.	1
+fcl --> advp, punct_comma, pp.	1
+fcl --> conj_s, vp, np, punct_gtgt, pp.	1
+fcl --> pp, punct_comma, advp, punct_comma, vp, adjp, cu, punct_dot.	1
+np --> adv, art, punct_ltlt, n, punct_gtgt, pp, punct_comma, fcl, punct_comma.	1
+vp --> v_fin, prp, punct_ltlt, v_inf.	1
+np --> art, n, adjp, punct_open_curly_bracket, np.	1
+np --> n, pp, punct_close_curly_bracket.	1
+np --> pron_det, art, v_pcp, pp.	1
+fcl --> np, vp, np, pp, punct_open_curly_bracket, punct_close_curly_bracket.	1
+punct_open_curly_bracket --> prp, np.	1
+icl --> vp, advp, punct_comma, pp.	1
+fcl --> conj_s, np, punct_ltlt, cu, punct_gtgt.	1
+x --> np, vp, pp, pp.	1
+fcl --> np, punct_ltlt, vp, np, punct_gtgt.	1
+np --> cu, acl.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, vp.	1
+acl --> advp, v_pcp, pp.	1
+cu --> adjp, punct_comma, adjp, punct_comma, adjp, punct_comma, adjp, punct_comma, adjp.	1
+np --> n, icl, fcl, punct_comma, acl.	1
+fcl --> conj_c, vp, advp, np, punct_question_mark.	1
+cu --> punct_ltlt, np, punct_comma, np, punct_gtgt.	1
+fcl --> np, advp, vp, pp, punct_comma.	1
+np --> art, n, v_pcp, punct_comma, np.	1
+fcl --> np, vp, punct_comma, adjp, punct_comma, np.	1
+np --> pron_det, fcl, punct_comma, cu.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_open_curly_bracket, icl, punct_close_curly_bracket.	1
+fcl --> acl, punct_comma, vp, icl, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+fcl --> advp, punct_dot.	1
+fcl --> conj_s, vp, adjp, icl.	1
+np --> art, v_pcp, punct_comma, pp.	1
+np --> n, adjp, adjp, adjp.	1
+fcl --> np, punct_comma, adjp, punct_comma, vp, icl, punct_dot.	1
+fcl --> np, vp, adjp, icl.	1
+fcl --> punct_ltlt, np, advp, vp, np, pp, punct_gtgt.	1
+fcl --> np, vp, pp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+conj_c --> np.	1
+cu --> np, punct_comma.	1
+fcl --> adjp, np.	1
+icl --> vp, cu, conj_c.	1
+np --> art, n, pp, np, vp, pp, np.	1
+np --> art, n, pp, punct_comma, icl, punct_comma.	1
+pp --> pp, np.	1
+punct_comma --> icl.	1
+np --> art, n, adjp, punct_semicolon, np.	1
+cu --> np, punct_comma, np, punct_comma, np, conj_c, np, punct_dot.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+np --> art, pron_det, adj, n, punct_comma, icl.	1
+fcl --> np, vp, np, punct_comma, np.	1
+fcl --> np, vp, v_pcp, punct_comma, conj_c, fcl.	1
+fcl --> pp, np, advp, vp.	1
+np --> pron_det, n, punct_ltlt, np, punct_gtgt.	1
+fcl --> pp, punct_comma, vp, np, punct_comma, pp, pp, punct_dot.	1
+np --> n, adjp, punct_semicolon.	1
+cu --> fcl, conj_c, fcl, conj_c, fcl, punct_gtgt, punct_dot.	1
+fcl --> advp, punct_comma, np, vp.	1
+fcl --> punct_ltlt, advp, vp, advp, np.	1
+pp --> prp, punct_prime, np.	1
+np --> adv, num, n, v_pcp, pp.	1
+np --> art, n, icl, punct_comma, np, punct_dot.	1
+fcl --> np, punct_comma, fcl, punct_comma, vp, fcl, punct_dot.	1
+np --> prop, punct_comma, np, punct_comma, adjp, punct_comma.	1
+fcl --> fcl, punct_comma, vp, adjp, icl, punct_dot.	1
+fcl --> conj_s, np, vp, x, np, pp.	1
+np --> n, pp, punct_semicolon, cu, punct_dot.	1
+fcl --> advp, pp, vp, pp, punct_dot.	1
+fcl --> pp, punct_comma, pp, np, vp, pp, punct_dot.	1
+np --> art, n, punct_comma, advp, punct_comma.	1
+fcl --> punct_ltlt, icl, punct_comma, vp, np, punct_dot.	1
+icl --> prp, vp.	1
+np --> art, adj, v_pcp, punct_comma, pp.	1
+pp --> prp, np, np, pp.	1
+np --> art, n, punct_double_dash, np, punct_comma, pp, punct_double_dash.	1
+advp --> adv, pron_indp.	1
+advp --> adv, punct_comma, acl.	1
+cu --> advp, punct_open_curly_bracket, conj_c, advp, punct_close_curly_bracket.	1
+np --> adj, n, pp, punct_comma, cu.	1
+np --> n, pp, v_pcp.	1
+cu --> np, conj_c, np, punct_comma, advp.	1
+fcl --> advp, punct_comma, cu, punct_comma, advp, punct_comma, vp, np, punct_dot.	1
+fcl --> cu, vp, punct_dot.	1
+fcl --> pp, np, vp, punct_dot.	1
+fcl --> advp, pp, punct_comma, np, advp, vp, icl, punct_dot.	1
+np --> art, n, adjp, punct_double_dash, np, punct_double_dash, icl, punct_semicolon, icl.	1
+x --> vp, pp, punct_comma, pp, punct_comma, advp.	1
+fcl --> vp, pp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, pp, punct_dot.	1
+np --> adj, n, punct_comma, np.	1
+fcl --> pp, punct_comma, np, vp, advp, fcl, punct_dot.	1
+fcl --> np, np, vp, icl, punct_dot.	1
+icl --> punct_ltlt, vp, punct_gtgt, cu.	1
+fcl --> conj_s, advp, vp, v_pcp.	1
+np --> art, v_pcp, punct_ltlt, prop, punct_gtgt.	1
+np --> pron_det, pron_det, punct_comma, fcl.	1
+np --> prop, advp, vp, np, fcl, punct_dot.	1
+fcl --> conj_c, np, advp, np, vp, punct_dot.	1
+fcl --> np, vp, punct_comma, advp, punct_comma, fcl.	1
+fcl --> punct_ltlt, advp, np, vp, np, fcl, punct_dot, punct_gtgt.	1
+fcl --> punct_ltlt, np, advp, vp, pp, fcl, punct_gtgt, punct_dot.	1
+fcl --> punct_ltlt, np, vp, fcl, punct_dot, punct_gtgt.	1
+fcl --> cu, advp, advp, vp, icl, punct_dot.	1
+np --> art, n, v_pcp, pp, pp, punct_comma, np, punct_comma.	1
+fcl --> advp, punct_comma, np, cu.	1
+fcl --> advp, vp, adjp, icl.	1
+fcl --> punct_ltlt, np, advp, np, vp, punct_gtgt.	1
+fcl --> advp, punct_comma, advp, punct_comma, pp, punct_comma, np, vp, pp, fcl, punct_dot.	1
+fcl --> np, vp, icl, fcl, punct_dot.	1
+np --> art, n, adjp, punct_dot, pp, pp, punct_dot.	1
+fcl --> conj_c, advp, vp, np, punct_dot, punct_gtgt.	1
+fcl --> pp, punct_comma, np, np, vp, punct_comma, icl, punct_dot.	1
+P.vp --> v_fin, v_pcp.	1
+fcl --> np, P.vp, adjp, pp.	1
+fcl --> fcl, punct_comma, np, vp, pp, punct_dot.	1
+np --> adv, n, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	1
+cu --> pp, conj_c, advp.	1
+fcl --> conj_c, vp, fcl, punct_question_mark.	1
+x --> n, punct_semicolon.	1
+np --> prop, punct_semicolon, np, punct_dot.	1
+fcl --> pp, punct_semicolon, np, vp, pp, pp, pp, punct_dot.	1
+fcl --> punct_open_curly_bracket, vp, np, pp, punct_close_curly_bracket.	1
+fcl --> punct_ltlt, np, advp, vp, adjp, punct_dot.	1
+fcl --> np, vp, np, punct_comma, pp, punct_comma, np, punct_dot.	1
+pp --> prp, np, np.	1
+fcl --> advp, punct_comma, np, vp, adjp, punct_dot.	1
+fcl --> conj_c, pp, np, np, vp, pp, punct_dot.	1
+fcl --> np, advp, vp, punct_comma.	1
+fcl --> pp, punct_comma, np, vp, v_pcp, pp, punct_dot.	1
+np --> adjp, n, adjp, pp.	1
+np --> art, n, adjp, punct_comma, x.	1
+pp --> prp, np, punct_comma, cu.	1
+fcl --> conj_s, np, advp, advp, vp, icl.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, fcl, punct_semicolon.	1
+fcl --> pp, np, vp, pp, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, advp, vp, icl, punct_gtgt, punct_dot.	1
+cu --> advp, x, punct_comma, advp, x.	1
+fcl --> cu, vp, np, pp, pp, punct_comma, advp, punct_dot.	1
+np --> art, cu, adjp, pp.	1
+fcl --> pp, punct_comma, vp, np, punct_comma, icl, punct_dot.	1
+np --> pron_det, n_adj, pp.	1
+fcl --> pp, punct_comma, np, vp, punct_semicolon.	1
+np --> art, adj, n, punct_comma, pp.	1
+fcl --> advp, np, pp, vp, icl.	1
+fcl --> np, punct_double_dash, advp, np, vp, pp.	1
+icl --> vp, adjp, punct_comma, cu.	1
+icl --> vp, np, punct_comma, advp, punct_comma, pp.	1
+np --> pron_det, n, adjp, punct_comma, adjp, punct_comma, fcl, punct_three_dots, fcl.	1
+np --> pron_det, prop, pp.	1
+fcl --> pp, punct_comma, cu, advp, vp, np, pp, punct_dot.	1
+fcl --> icl, punct_comma, np, cu, punct_semicolon.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, vp, np.	1
+cu --> x, punct_comma, x, punct_comma, x.	1
+fcl --> vp, advp, pp, np, punct_dot.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_comma, fcl.	1
+icl --> punct_ltlt, advp, vp, pp, punct_gtgt.	1
+np --> art, n, v_pcp, punct_comma, icl.	1
+fcl --> np, vp, advp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, vp, adjp, icl, punct_gtgt.	1
+fcl --> fcl, punct_comma, vp, punct_comma, pp, punct_dot.	1
+fcl --> pron_indp, np, punct_open_curly_bracket, punct_three_dots, punct_close_curly_bracket, vp, advp, np.	1
+fcl --> punct_ltlt, vp, advp, np, punct_comma, pp, punct_gtgt.	1
+np --> n, adjp, pp, fcl.	1
+fcl --> advp, np, vp, adjp, pp, acl.	1
+fcl --> fcl, punct_comma, np, cu, punct_dot.	1
+fcl --> fcl, punct_comma, np, vp, pp, icl, punct_dot.	1
+icl --> punct_ltlt, vp, np, punct_gtgt, pp.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, vp, punct_ltlt, icl, punct_comma, fcl, punct_gtgt.	1
+fcl --> np, vp, adjp, punct_comma, conj_s, np, vp, np.	1
+np --> prop, cu.	1
+fcl --> acl, punct_comma, np, vp, np, punct_dot.	1
+fcl --> conj_c, np, vp, np, punct_comma, advp, punct_dot.	1
+fcl --> fcl, punct_comma, np, np, vp, np, punct_dot.	1
+fcl --> conj_c, advp, vp, pp, fcl, punct_dot.	1
+fcl --> conj_s, advp, vp, np, acl.	1
+np --> art, pron_det, cu, pp.	1
+fcl --> conj_s, np, punct_comma, pp, vp, np, pp.	1
+fcl --> advp, vp, np, punct_comma, icl.	1
+fcl --> np, vp, advp, advp, pp.	1
+vp --> v_ger, v_pcp.	1
+fcl --> np, advp, vp, pp, pp.	1
+icl --> advp, conj_s, vp, pp.	1
+np --> art, pron_det, n, adjp, punct_comma, np.	1
+fcl --> conj_s, np, advp, vp, np, vp, pp.	1
+np --> art, cu, punct_comma, np.	1
+fcl --> np, advp, punct_comma, vp, np, punct_dot.	1
+icl --> vp, pp, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+np --> advp, punct_exclamation.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, vp, x, punct_dot.	1
+np --> adj, num, n.	1
+fcl --> vp, x, punct_comma, pp, punct_dot.	1
+vp --> v_fin, punct_ltlt, v_inf, punct_gtgt.	1
+fcl --> vp, adjp, punct_question_mark.	1
+fcl --> punct_ltlt, np, punct_gtgt, vp, pp, punct_dot.	1
+np --> art, n, np, punct_comma, icl, punct_comma, fcl.	1
+fcl --> punct_ltlt, np, advp, punct_comma, vp, np, pp, punct_gtgt.	1
+fcl --> conj_s, punct_ltlt, np, punct_gtgt, vp, np.	1
+fcl --> np, vp, pp, np, punct_comma, advp, icl.	1
+fcl --> np, vp, pp, np, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, np, advp, np, vp, advp, icl.	1
+fcl --> conj_s, advp, vp, pp, advp.	1
+fcl --> fcl, punct_comma, vp, advp, adjp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+fcl --> pron_indp, np, cu.	1
+fcl --> np, pp, vp, advp, np.	1
+pp --> prp, punct_ltlt, icl, punct_gtgt.	1
+fcl --> pp, punct_comma, np, advp, vp, icl, punct_dot.	1
+fcl --> conj_s, vp, advp, vp.	1
+np --> art, n, punct_open_curly_bracket, pp, punct_close_curly_bracket, pp, punct_comma, cu, punct_comma, fcl.	1
+fcl --> np, advp, vp, pp, punct_comma, icl, punct_dot.	1
+cu --> fcl, punct_comma, conj_c, fcl, punct_dot, punct_gtgt.	1
+fcl --> advp, punct_comma, fcl, np, vp, fcl.	1
+np --> art, n, v_pcp, pp, fcl.	1
+np --> art, n, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+adjp --> adjp, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+adjp --> num, pp, pp.	1
+icl --> art, vp, advp, pp, np, pp.	1
+fcl --> vp, cu, punct_comma, icl, punct_dot.	1
+fcl --> punct_ltlt, advp, pp, advp, np, cu, punct_gtgt.	1
+x --> advp, advp, vp, icl.	1
+fcl --> np, punct_comma, pp, punct_comma, cu, punct_dot.	1
+np --> art, num, n_adj, v_pcp, pp.	1
+fcl --> np, pp, vp, cu.	1
+np --> art, n, np, punct_comma, np, punct_comma, vp, pp.	1
+fcl --> conj_c, advp, vp, np, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, advp, vp, advp, np.	1
+np --> art, n, np, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+np --> pron_pers, punct_comma, cu, punct_comma, np, pp, punct_comma.	1
+np --> art, adj, n, fcl, pp.	1
+np --> pron_det, num, n, adjp, pp.	1
+fcl --> advp, punct_comma, cu, np, vp, pp, punct_dot.	1
+fcl --> advp, advp, vp, icl.	1
+np --> art, prop, punct_comma, punct_open_curly_bracket, punct_ltlt, np, punct_gtgt, punct_close_curly_bracket.	1
+icl --> vp, punct_dot.	1
+np --> art, v_pcp, n, punct_ltlt, np, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np, pp.	1
+adjp --> punct_open_curly_bracket, num, punct_close_curly_bracket, num, pp.	1
+fcl --> pp, punct_comma, vp, adjp, punct_comma, x, punct_dot.	1
+x --> pp, np.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, cu.	1
+fcl --> cu, punct_comma, vp, pp, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, punct_comma, pp, punct_dot.	1
+fcl --> advp, np, vp, np, cu.	1
+fcl --> conj_s, np, vp, np, fcl.	1
+np --> n, adjp, np, punct_comma, adjp.	1
+fcl --> conj_s, pp, punct_comma, advp, np, vp, advp.	1
+fcl --> np, punct_comma, pp, punct_comma, advp, vp, fcl.	1
+fcl --> pp, np, vp, adjp.	1
+pp --> punct_ltlt, prp, np.	1
+cu --> pp, punct_gtgt, conj_c, pp.	1
+fcl --> np, punct_comma, np, vp, np, cu, punct_dot.	1
+np --> art, punct_ltlt, cu, n, pp, punct_gtgt.	1
+np --> art, punct_ltlt, n.	1
+np --> num, n, pp, punct_double_dash, pp, advp.	1
+fcl --> np, cu, punct_dot, punct_gtgt.	1
+np --> art, adj, prop, punct_comma, cu, pp.	1
+fcl --> pp, punct_comma, vp, fcl, punct_dot.	1
+pp --> adv, fcl.	1
+vp --> v_fin, cu.	1
+x --> v_pcp, np, pp.	1
+fcl --> np, vp, adjp, advp, punct_dot.	1
+np --> art, n, punct_open_curly_bracket, pp, punct_close_curly_bracket, punct_comma, np.	1
+np --> art, prop, punct_open_curly_bracket, pp, punct_comma, np, punct_close_curly_bracket.	1
+adjp --> adv, adj, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+fcl --> pp, pp, vp, np, punct_dot.	1
+fcl --> vp, pp, np, punct_exclamation.	1
+np --> prop, punct_comma, adjp, punct_comma, pp, punct_comma, pp, punct_comma.	1
+fcl --> vp, fcl, punct_exclamation.	1
+fcl --> pp, punct_comma, np, vp, punct_ltlt, adjp, pp, punct_gtgt, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, np.	1
+fcl --> pp, punct_comma, cu, vp, acl, punct_dot.	1
+fcl --> conj_s, fcl, advp, vp, cu.	1
+np --> art, prop, advp.	1
+fcl --> punct_ltlt, vp, icl, punct_dot, punct_gtgt.	1
+fcl --> pp, punct_comma, np, vp, pp, punct_semicolon, np, punct_dot.	1
+fcl --> punct_comma, advp, punct_comma, vp, np, icl.	1
+x --> vp, np, adjp.	1
+x --> vp, pp, pp, pp, punct_comma, fcl.	1
+cu --> np, conj_c, np, punct_comma, icl.	1
+np --> pron_det, n, fcl, punct_semicolon, np.	1
+fcl --> np, np, vp, icl.	1
+np --> art, n, np, adjp, fcl.	1
+fcl --> np, punct_comma, fcl, punct_comma, vp, cu.	1
+fcl --> pp, punct_comma, vp, np, vp, np, punct_dot.	1
+np --> advp, art, prop.	1
+fcl --> advp, punct_comma, pp, punct_comma, np, vp, pp, np, punct_comma, icl, punct_dot.	1
+np --> art, adjp, n, pp, pp.	1
+np --> art, prop, pp, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np.	1
+x --> vp, np, fcl.	1
+fcl --> punct_ltlt, np, cu, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+icl --> vp, cu, conj_c, icl.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, np, pp.	1
+fcl --> pp, punct_comma, pp, np, vp, np, punct_dot.	1
+adjp --> x, adv, adj, acl.	1
+np --> art, adj, n, pp, np.	1
+fcl --> conj_c, np, vp, pp, pp, punct_dot.	1
+fcl --> advp, np, vp, cu, punct_dot.	1
+fcl --> punct_ltlt, vp, np, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+np --> n_adj, fcl.	1
+fcl --> np, vp, advp, punct_comma, advp, punct_comma, fcl, punct_dot.	1
+np --> art, n, v_pcp, cu.	1
+fcl --> np, punct_comma, np, vp, acl, pp, pp, punct_dot.	1
+fcl --> vp, adjp, np, pp, punct_dot.	1
+fcl --> vp, punct_comma, fcl, punct_comma, np, punct_dot.	1
+fcl --> np, vp, x, punct_comma, icl, punct_dot.	1
+np --> art, adj, n, pp, punct_comma, np.	1
+fcl --> pp, punct_comma, cu, vp, np, pp, punct_dot.	1
+fcl --> np, vp, fcl, punct_comma, pp, punct_comma.	1
+fcl --> pp, punct_comma, punct_ltlt, fcl, vp, punct_gtgt, punct_dot.	1
+cu --> fcl, conj_c, fcl, conj_c, fcl.	1
+acl --> adjp, punct_double_dash, icl, np, punct_dot.	1
+fcl --> icl, pp, vp, adjp, icl, punct_dot.	1
+fcl --> pp, punct_comma, np, np, vp, pp.	1
+fcl --> icl, punct_comma, np, np, vp, advp, adjp, pp, punct_dot.	1
+np --> punct_ltlt, n, v_pcp, pp, punct_gtgt.	1
+np --> num, pron_det, n.	1
+fcl --> np, punct_comma, pp.	1
+np --> n, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+fcl --> vp, pp, icl.	1
+fcl --> pp, np, np, vp, punct_comma, fcl, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, vp, advp, pp, fcl, punct_dot, punct_gtgt.	1
+np --> conj_c, art, n, pp, punct_question_mark.	1
+fcl --> punct_ltlt, vp, cu, punct_comma, fcl, punct_gtgt, punct_dot.	1
+fcl --> vp, punct_comma, advp, punct_comma, pp, punct_dot.	1
+fcl --> np, vp, x, punct_comma, np, punct_dot.	1
+x --> np, v_ger, np.	1
+x --> np, v_ger.	1
+cu --> punct_ltlt, fcl, conj_c, fcl, punct_gtgt, punct_dot.	1
+fcl --> conj_s, icl, vp, np.	1
+fcl --> pp, punct_comma, cu, advp, vp, fcl, punct_dot.	1
+fcl --> conj_s, vp, cu, icl.	1
+fcl --> np, advp, vp, punct_comma, advp, punct_comma, fcl, punct_dot.	1
+np --> adj, n, advp.	1
+fcl --> vp, np, punct_question_mark, punct_gtgt.	1
+np --> n, punct_dot.	1
+fcl --> advp, punct_comma, np, vp, punct_comma, advp, punct_comma, v_pcp, punct_dot.	1
+fcl --> cu, punct_gtgt, punct_comma, vp, punct_dot.	1
+np --> pron_pers, punct_comma, cu, punct_comma.	1
+fcl --> np, punct_comma, np, advp, vp, advp, np, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, acl, pp, punct_dot.	1
+x --> v_inf, pp, cu.	1
+acl --> pp, pp, punct_comma, conj_s, np, vp, np, punct_exclamation.	1
+np --> art, v_pcp, n, punct_ltlt, np, punct_gtgt, punct_comma, pp.	1
+fcl --> pp, vp, np, punct_gtgt, punct_dot.	1
+np --> art, n, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, fcl.	1
+fcl --> np, vp, advp, punct_comma, icl, punct_dot.	1
+fcl --> np, advp, vp, punct_comma, advp, punct_comma, np, punct_dot.	1
+fcl --> np, vp, np, pp, punct_semicolon, fcl, punct_dot.	1
+np --> art, adj, punct_ltlt, n, punct_gtgt, punct_comma, np.	1
+acl --> adv, punct_comma, pp, punct_comma, punct_ltlt, np, punct_gtgt.	1
+np --> pron_det, adj, n, acl.	1
+fcl --> punct_ltlt, np, cu, punct_dot, punct_gtgt.	1
+x --> vp, np, punct_comma, np.	1
+fcl --> conj_s, vp, punct_comma, advp, punct_comma, np.	1
+fcl --> np, vp, adjp, fcl, punct_dot.	1
+fcl --> advp, np, vp, np, pp, acl.	1
+fcl --> np, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_comma, np, vp, np, adjp, punct_dot.	1
+fcl --> punct_ltlt, vp, adjp, punct_gtgt.	1
+fcl --> np, punct_comma, advp, punct_comma, advp, vp, fcl, punct_dot.	1
+fcl --> cu, advp, vp, np, punct_dot.	1
+fcl --> np, advp, vp, acl, punct_dot.	1
+np --> prop, punct_comma, vp, punct_comma.	1
+fcl --> punct_comma, fcl, punct_comma, vp, icl.	1
+np --> prop, punct_close_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> advp, np, np, vp, v_pcp.	1
+adjp --> art, adv, adj.	1
+fcl --> adjp, punct_comma, advp, punct_comma, vp, np, punct_dot.	1
+fcl --> punct_ltlt, np, vp, advp, fcl, punct_dot, punct_gtgt.	1
+fcl --> punct_ltlt, np, adjp, vp, icl, punct_dot.	1
+fcl --> icl, punct_comma, np, np, vp, adjp, punct_dot.	1
+np --> n, adjp, pp, punct_comma, punct_ltlt, np, punct_gtgt.	1
+fcl --> vp, punct_comma, advp, punct_comma, icl, punct_dot.	1
+adjp --> v_pcp, pp.	1
+np --> art, n, adjp, punct_open_curly_bracket, x, punct_close_curly_bracket.	1
+fcl --> np, vp, punct_semicolon.	1
+fcl --> punct_comma, pp, punct_comma, np, vp, np, pp.	1
+adjp --> adv, cu, acl.	1
+fcl --> np, vp, pp, advp, pp, punct_dot.	1
+adjp --> punct_ltlt, advp, adj, punct_gtgt.	1
+fcl --> np, vp, advp, np, punct_comma.	1
+fcl --> pp, punct_comma, np, vp, np, punct_semicolon.	1
+fcl --> advp, punct_comma, conj_c, vp, punct_dot.	1
+fcl --> punct_ltlt, advp, vp, pp, punct_question_mark, punct_gtgt.	1
+fcl --> advp, punct_ltlt, np, vp, pp, punct_dot.	1
+np --> art, n, punct_gtgt, punct_comma, advp, punct_comma, np.	1
+vp --> v_fin, advp.	1
+fcl --> conj_s, np, vp, punct_comma, advp, punct_comma, np, punct_double_dash, advp.	1
+np --> art, n, pp, punct_comma, np, punct_comma, pp.	1
+fcl --> np, vp, pp, icl.	1
+fcl --> punct_ltlt, np, vp, cu, punct_gtgt, punct_dot.	1
+np --> advp.	1
+prp --> np.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, cu.	1
+fcl --> np, punct_open_curly_bracket, punct_three_dots, punct_close_curly_bracket, vp, adjp, fcl, punct_gtgt, punct_dot.	1
+fcl --> np, advp, np, vp, pp, pp.	1
+adjp --> num, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, np, vp, cu.	1
+fcl --> conj_s, np, punct_ltlt, pp, vp, fcl, punct_gtgt.	1
+fcl --> np, advp, vp, adjp, advp, pp, pp, punct_dot.	1
+fcl --> advp, punct_double_dash, vp, v_pcp, np.	1
+np --> art, n, punct_open_curly_bracket, np, punct_close_curly_bracket, cu.	1
+np --> pron_det, num, n, icl.	1
+fcl --> np, vp, pp, punct_comma, np, punct_comma, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, advp, vp, punct_dot.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, np, advp, vp, pp.	1
+fcl --> np, advp, advp, vp, pp, fcl, punct_dot.	1
+fcl --> np, pp, vp, pp.	1
+vp --> v_fin, adjp.	1
+fcl --> np, vp, pp, acl, punct_dot.	1
+fcl --> punct_comma, advp, punct_comma, vp, np, pp, pp.	1
+fcl --> punct_comma, advp, punct_comma, vp, np, pp.	1
+np --> num, n, n, punct_comma, fcl.	1
+fcl --> np, vp, advp, np, punct_comma, advp, punct_dot.	1
+np --> pron_det, n, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+v_inf --> v_pcp.	1
+fcl --> np, vp, punct_ltlt, np, punct_gtgt.	1
+fcl --> conj_s, vp, np, np.	1
+np --> art, fcl.	1
+fcl --> advp, punct_comma, pp, punct_comma, np, vp, pp, punct_dot.	1
+adjp --> pron_det.	1
+fcl --> advp, punct_comma, advp, vp, v_pcp, np.	1
+np --> adjp.	1
+np --> np, n, np, pp.	1
+np --> pp, pp.	1
+np --> pron_det, n, adjp, punct_comma, acl.	1
+fcl --> pp, vp, np, np, punct_dot.	1
+np --> art, pron_det, prop, punct_comma, np.	1
+np --> n, np, punct_open_curly_bracket, np, punct_close_curly_bracket, fcl.	1
+np --> art, n, np, punct_semicolon, cu.	1
+np --> art, n, np, punct_comma, adjp, punct_comma, icl.	1
+fcl --> punct_ltlt, vp, np, punct_gtgt, punct_dot.	1
+np --> art, pron_det, art, n.	1
+np --> pron_det, pron_det, pron_det, n, pp.	1
+np --> art, prop, punct_semicolon, np.	1
+fcl --> advp, vp, np, pp, punct_question_mark.	1
+np --> punct_ltlt, n, punct_gtgt, punct_comma, fcl.	1
+fcl --> advp, vp, np, fcl, punct_dot.	1
+np --> pron_indp, fcl, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> vp, punct_comma, np, vp, icl, punct_comma, fcl, punct_dot.	1
+icl --> advp, vp, np, punct_comma, pp, punct_comma, pp.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, icl, punct_dot, punct_gtgt.	1
+acl --> np, vp, pp, punct_dot.	1
+fcl --> np, vp, np, punct_comma, icl.	1
+fcl --> np, vp, np, punct_comma, x, punct_dot.	1
+icl --> vp, np, adjp, pp.	1
+np --> art, punct_ltlt, n, punct_gtgt, fcl.	1
+fcl --> np, punct_comma, np, punct_comma, vp, np, pp, pp, punct_dot.	1
+np --> num, n, adv.	1
+np --> pron_det, n, adjp, punct_comma, fcl, punct_comma.	1
+icl --> advp, vp, advp, fcl.	1
+np --> ec, n, adjp, fcl.	1
+fcl --> conj_s, np, advp, vp, pp, np.	1
+icl --> np, vp, np, vp, pp, pp.	1
+vp --> cu.	1
+icl --> punct_ltlt, vp, advp, np, punct_gtgt.	1
+np --> n, pp, punct_semicolon, icl, punct_dot.	1
+np --> art, adjp, n, icl.	1
+fcl --> vp, advp, vp, pp, cu, punct_dot.	1
+np --> art, pron_det, adj, n, punct_comma, fcl.	1
+fcl --> icl, punct_comma, np, vp, cu, punct_dot.	1
+icl --> advp, advp, vp, pp.	1
+np --> art, adjp, n, np.	1
+fcl --> punct_ltlt, fcl, vp, np, punct_gtgt.	1
+np --> art, n, pp, x.	1
+adjp --> adj, punct_close_curly_bracket.	1
+adjp --> adj, punct_open_curly_bracket, adjp.	1
+adjp --> adj, punct_open_curly_bracket, vp, punct_close_curly_bracket.	1
+cu --> conj_c, adjp, conj_c, adjp, punct_comma, conj_c, icl.	1
+fcl --> pp, np, advp, vp, cu.	1
+np --> art, n, fcl, punct_comma, icl.	1
+np --> n, adjp, adjp, advp, punct_comma, fcl.	1
+fcl --> adj, punct_comma, vp, punct_semicolon.	1
+np --> art, n, adjp, pp, icl.	1
+fcl --> advp, advp.	1
+acl --> advp, np, punct_exclamation.	1
+fcl --> pp, punct_comma, np, vp, np, pp, icl, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_comma, np, punct_close_curly_bracket.	1
+fcl --> pron_indp, vp, np, np.	1
+cu --> pp, punct_comma, np, conj_c, np.	1
+np --> prop, punct_open_curly_bracket, np, punct_comma, np, punct_close_curly_bracket.	1
+icl --> np, vp, np, punct_dot.	1
+np --> adv, num, n, icl.	1
+advp --> pron_indp.	1
+fcl --> advp, vp, np, punct_comma, fcl.	1
+fcl --> conj_s, fcl, punct_comma, fcl.	1
+fcl --> conj_s, np, vp, np, advp, advp, pp.	1
+fcl --> pp, punct_comma, vp, pp, punct_comma, fcl.	1
+np --> pron_det, adj, n, adjp, pp.	1
+np --> n, punct_semicolon, pp, punct_comma, cu.	1
+fcl --> np, vp, np, vp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+icl --> vp, np, punct_comma, icl.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, punct_slash, np, punct_comma, conj_c, fcl.	1
+fcl --> np, advp, pp, punct_comma, vp, adjp.	1
+fcl --> punct_ltlt, np, vp, np, punct_three_dots, punct_gtgt.	1
+np --> pron_det, cu, n, punct_slash, pp.	1
+np --> pron_det, prop, punct_slash, fcl.	1
+fcl --> np, punct_comma, pp, np, vp, np, pp, pp, punct_dot.	1
+fcl --> pp, punct_comma, advp, vp, pp, np, punct_dot.	1
+fcl --> np, vp, advp, np, pp.	1
+fcl --> vp, pp, punct_gtgt.	1
+acl --> pp, punct_exclamation.	1
+adjp --> art, n, punct_comma, pp.	1
+np --> prp, cu, n.	1
+icl --> vp, np, pp, punct_comma, advp, punct_comma, pp.	1
+advp --> adv, adv, fcl.	1
+fcl --> conj_s, vp, np, punct_comma, advp.	1
+np --> prop, advp, vp, adjp, np, punct_dot.	1
+fcl --> punct_ltlt, advp, vp, fcl, punct_gtgt, punct_dot.	1
+fcl --> vp, acl, pp, punct_dot.	1
+np --> art, pron_det, adj, n, pp.	1
+adjp --> adj, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> np, vp, v_ger, punct_dot.	1
+np --> art, cu, prop.	1
+cu --> conj_c, pp, conj_c, pp.	1
+fcl --> punct_ltlt, pp, punct_comma, np, vp, np, punct_gtgt.	1
+fcl --> advp, advp, vp, v_fin, icl.	1
+fcl --> pp, punct_comma, vp, pp, punct_dot.	1
+fcl --> np, vp, np, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+fcl --> advp, punct_comma, vp, pp, punct_gtgt, punct_dot.	1
+art --> n, fcl.	1
+fcl --> pp, np, vp, np, pp.	1
+cu --> np, punct_comma, np, punct_comma, np, conj_c, np, conj_c, np.	1
+np --> art, n, pp, v_pcp, np.	1
+fcl --> fcl, punct_comma, vp, np, punct_comma, icl, punct_dot.	1
+adjp --> num, np.	1
+cu --> fcl, punct_comma, conj_c, acl, punct_dot.	1
+np --> art, prop, punct_comma, cu, punct_comma.	1
+cu --> np, punct_comma, prp, np, conj_c, np.	1
+fcl --> pp, punct_comma, np, vp, np, vp, pp, punct_dot.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, np, punct_comma.	1
+cu --> np, conj_c, np, punct_semicolon.	1
+icl --> pp, vp, pp.	1
+fcl --> conj_s, np, punct_ltlt, vp, punct_gtgt, advp, np.	1
+fcl --> np, vp, pp, punct_exclamation.	1
+np --> conj_c, art, prop, punct_question_mark.	1
+adjp --> num, punct_comma, np.	1
+fcl --> conj_s, np, vp, np, np.	1
+fcl --> conj_s, np, np, vp, np.	1
+fcl --> np, vp, punct_ltlt, adjp, punct_gtgt.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_open_curly_bracket, adjp, punct_close_curly_bracket, punct_comma, cu.	1
+x --> vp, np, acl.	1
+np --> prop, punct_open_curly_bracket, icl, punct_close_curly_bracket, punct_comma, fcl.	1
+fcl --> np, vp, pp, pp, punct_comma, pp.	1
+np --> pron_det, n, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> advp, vp, np, advp.	1
+fcl --> np, np, vp, np, pp.	1
+np --> adv, n, np, punct_comma, np.	1
+np --> prop, punct_open_curly_bracket, np, punct_close_curly_bracket, icl.	1
+pp --> prp, cu, conj_c, np.	1
+np --> adj, n, v_pcp.	1
+np --> v_pcp, n, adjp.	1
+fcl --> np, vp, pp, punct_semicolon.	1
+fcl --> punct_ltlt, pp, punct_comma, vp, cu, punct_gtgt.	1
+fcl --> conj_c, punct_comma, pp, punct_comma, vp, adjp, fcl, punct_dot.	1
+fcl --> conj_s, np, vp, advp, vp.	1
+fcl --> conj_s, np, np, vp, icl.	1
+fcl --> np, vp, np, pp, punct_comma, fcl.	1
+fcl --> conj_s, pp, np, vp, pp, np.	1
+icl --> vp, x, punct_comma, np.	1
+fcl --> conj_s, np, punct_comma, advp, punct_comma, vp, np.	1
+fcl --> fcl, punct_comma, vp, np, pp, punct_comma, advp, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, fcl, punct_comma, np, vp, np, punct_gtgt.	1
+np --> prop, np, np, punct_question_mark.	1
+fcl --> punct_ltlt, np, vp, pp, punct_gtgt, punct_dot.	1
+np --> pron_pers, punct_comma, pp, punct_comma.	1
+cu --> fcl, punct_comma, fcl, punct_comma, fcl, punct_comma, fcl, punct_comma, fcl, punct_dot.	1
+np --> v_pcp, pp.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, pp.	1
+fcl --> np, vp, np, pp, punct_comma, acl.	1
+fcl --> cu, punct_comma, vp, np, advp, punct_dot.	1
+np --> cu, punct_comma, fcl.	1
+adjp --> adv, adj, punct_comma, np.	1
+fcl --> np, np, vp, adjp, punct_question_mark.	1
+fcl --> pp, punct_comma, vp, np, icl, punct_dot.	1
+fcl --> pp, punct_comma, np, advp, vp, pp, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, np, pp, pp, punct_question_mark.	1
+np --> art, adj, prop, punct_comma, np.	1
+np --> art, punct_ltlt, n, punct_gtgt, punct_comma, np.	1
+np --> punct_ltlt, n, adjp, pp, punct_gtgt.	1
+fcl --> punct_ltlt, np, vp, advp, cu, punct_gtgt.	1
+fcl --> advp, punct_comma, vp, pp, punct_exclamation, punct_exclamation, punct_exclamation.	1
+fcl --> pp, punct_comma, vp, advp, np, pp, np, punct_dot.	1
+fcl --> pp, vp, advp, cu, v_ger, punct_dot.	1
+np --> art, pron_det, v_pcp.	1
+fcl --> conj_s, vp, pp, pp, pp.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np.	1
+fcl --> fcl, vp, cu, np, punct_three_dots.	1
+fcl --> pp, punct_comma, fcl.	1
+fcl --> vp, icl, punct_comma, pp, punct_comma.	1
+np --> n, punct_semicolon, cu.	1
+fcl --> np, vp, advp, pp, punct_comma, pp, punct_gtgt.	1
+icl --> vp, advp, punct_comma, pp, punct_dot.	1
+fcl --> pp, cu, vp, punct_dot.	1
+np --> art, adj, prop, punct_comma, np, punct_comma.	1
+fcl --> vp, adjp, punct_exclamation.	1
+fcl --> conj_s, fcl, vp, np.	1
+fcl --> fcl, punct_comma, vp, v_pcp, np, punct_dot.	1
+fcl --> np, vp, pp, acl, pp.	1
+fcl --> punct_ltlt, vp, adjp, np, punct_gtgt.	1
+np --> art, prop, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+np --> art, n, np, fcl.	1
+acl --> conj_s, v_pcp.	1
+fcl --> conj_s, punct_comma, acl, punct_comma, vp, np.	1
+np --> pron_det, n, icl, punct_comma, fcl.	1
+icl --> vp, np, pp, np, punct_comma, pp.	1
+fcl --> conj_s, advp, np, vp, pp.	1
+fcl --> vp, np, pp, punct_close_curly_bracket, punct_comma, cu.	1
+np --> prop, punct_open_curly_bracket, fcl.	1
+fcl --> fcl, vp, pp, np, punct_dot.	1
+fcl --> np, vp, np, acl.	1
+np --> adj, n, adv, punct_comma, fcl.	1
+fcl --> np, vp, np, pp, punct_comma, advp, pp.	1
+np --> n_adj, v_pcp, pp.	1
+np --> pp, punct_comma, art, adj, n, pp, punct_dot.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, np, punct_comma, np, punct_comma, adjp.	1
+fcl --> np, fcl, fcl.	1
+acl --> advp, advp, cu, advp, vp, np, punct_dot.	1
+cu --> pp, advp, pp.	1
+fcl --> np, punct_comma, advp, punct_comma, advp, vp, adjp, punct_dot.	1
+fcl --> vp, advp, vp, np, pp, punct_dot.	1
+np --> adj, num, n, punct_comma, pp.	1
+np --> art, n, np, punct_comma, pp, punct_comma, pp.	1
+fcl --> conj_s, np, vp, punct_comma, pp, punct_comma, adjp.	1
+icl --> vp, pp, punct_comma, advp, punct_comma, icl.	1
+np --> art, n, adjp, prp, fcl.	1
+fcl --> vp, np, pp, punct_comma, pp, punct_dot.	1
+adjp --> art, n, adjp, pp.	1
+np --> art, n, pp, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+advp --> adv, pron_det.	1
+fcl --> conj_s, conj_c, cu, punct_comma, vp, pp, np.	1
+np --> art, num, n, adjp, icl.	1
+fcl --> np, vp, pp, advp, pp, pp, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_dot.	1
+icl --> vp, pp, punct_comma, pp, punct_comma, np, pp.	1
+np --> art, adj, punct_ltlt, n, pp, punct_gtgt.	1
+fcl --> punct_ltlt, pp, punct_comma, fcl, punct_comma, vp, np, punct_comma, pp, punct_dot.	1
+vp --> v_fin, conj_s, v_inf, v_ger.	1
+fcl --> conj_c, advp, punct_comma, np, vp, np, pp, punct_dot.	1
+np --> art, punct_prime, n, punct_prime, adjp, adjp.	1
+fcl --> pp, punct_comma, icl, punct_comma, vp, adjp, icl, punct_dot.	1
+icl --> vp, np, pp, v_ger, conj_c, icl.	1
+adjp --> n.	1
+np --> prop, punct_open_curly_bracket, adjp, punct_comma, adjp, punct_close_curly_bracket.	1
+vp --> v_fin, v_inf, icl.	1
+fcl --> np, np, vp, pp, punct_comma, pp, pp, punct_dot.	1
+np --> art, n, adjp, punct_comma, adjp, punct_comma.	1
+x --> adj, punct_exclamation.	1
+fcl --> punct_ltlt, np, advp, vp, icl, punct_gtgt.	1
+fcl --> np, vp, np, advp, punct_comma, pp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+np --> art, punct_prime, n, punct_prime, pp.	1
+fcl --> advp, vp, acl, np.	1
+fcl --> np, vp, adjp, punct_comma, fcl.	1
+np --> adv, pron_det, advp.	1
+fcl --> advp, np, punct_gtgt.	1
+fcl --> conj_s, np, vp, advp, fcl.	1
+np --> pron_det, n, punct_comma, np, punct_comma, punct_ltlt, cu.	1
+np --> art, n, adjp, pp, punct_comma, icl.	1
+fcl --> punct_ltlt, conj_s, vp, np.	1
+adjp --> adv, adjp.	1
+fcl --> conj_s, fcl, punct_comma, np, vp, pp, np.	1
+np --> art, num, n_adj, pp.	1
+cu --> np, conj_c, np, pp.	1
+np --> art, adj, n, pp, punct_comma, icl, punct_comma.	1
+fcl --> pp, punct_comma, np, advp, vp, np, vp, pp, punct_dot.	1
+fcl --> np, vp, advp, vp, np, punct_dot.	1
+fcl --> conj_c, np, np, vp, pp, punct_question_mark.	1
+fcl --> fcl, vp, adjp, punct_dot.	1
+fcl --> punct_ltlt, cu, vp, np, punct_gtgt.	1
+np --> art, n, adjp, pp, punct_comma, fcl.	1
+np --> art, punct_prime, n, punct_prime, adjp.	1
+acl --> cu, punct_dot.	1
+cu --> advp, punct_comma, conj_c, pp.	1
+np --> pron_det, pron_indp.	1
+fcl --> conj_c, punct_comma, acl, punct_comma, np, vp, np, v_pcp, punct_dot.	1
+cu --> fcl, punct_comma, conj_c, np, punct_dot.	1
+fcl --> conj_c, np, vp, np, punct_dot, punct_gtgt.	1
+fcl --> punct_ltlt, np, advp, advp, vp, advp, np, punct_comma, fcl, punct_gtgt.	1
+fcl --> pp, punct_comma, np, advp, vp, np, punct_comma, advp, punct_comma, pp, punct_dot.	1
+np --> adv, pron_det, n, pp, punct_question_mark.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, advp, vp, pp.	1
+fcl --> np, np, vp, pp, pp, pp.	1
+np --> art, n, fcl, pp, icl.	1
+np --> art, n, np, punct_comma.	1
+pp --> adv, adjp.	1
+icl --> vp, pp, pp, punct_comma, fcl.	1
+np --> art, pron_det, acl.	1
+fcl --> pp, punct_comma, vp, acl, np, punct_dot.	1
+fcl --> np, vp, np, pp, np, punct_dot.	1
+fcl --> np, punct_double_dash, vp, pp, punct_dot.	1
+fcl --> conj_s, np, advp, vp, np, adjp.	1
+np --> n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	1
+np --> n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket, x.	1
+x --> vp, np, pp, punct_comma, pp, punct_comma, pp.	1
+np --> n, punct_double_dash, pp, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+fcl --> np, vp, pp, np, pp, punct_comma, pp, pp, punct_dot.	1
+np --> adj, n, punct_comma, acl.	1
+fcl --> advp, pp, punct_comma, np, vp, pp, punct_comma, pp, punct_dot.	1
+np --> pron_det, fcl, punct_semicolon, icl.	1
+np --> num, prop, punct_open_curly_bracket, advp, punct_close_curly_bracket.	1
+cu --> pp, advp.	1
+fcl --> cu, np, vp, cu, pp.	1
+pp --> icl, punct_comma, advp, pp.	1
+fcl --> conj_c, vp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, pp, np, vp, adjp, punct_comma, acl.	1
+fcl --> cu, punct_comma, np, cu, punct_dot.	1
+x --> vp, advp, advp.	1
+x --> vp, np, advp, pp.	1
+fcl --> np, vp, punct_ltlt, v_pcp, punct_gtgt.	1
+np --> pron_det, fcl, punct_comma, advp, punct_comma, fcl.	1
+cu --> fcl, punct_comma, fcl, punct_comma, conj_c, fcl, punct_dot.	1
+icl --> np, advp, vp, np, pp.	1
+icl --> np, vp, cu, np.	1
+icl --> np.	1
+np --> art, v_inf, adjp, pp.	1
+fcl --> np, vp, np, pp, punct_comma, pp, punct_comma, np, punct_comma, pp, punct_dot.	1
+np --> art, pron_det, adj, n, punct_comma, cu, punct_comma.	1
+np --> adj, n_adj, punct_comma, fcl.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket, pp.	1
+fcl --> advp, punct_comma, np, vp, np, pp, np, punct_dot, punct_gtgt.	1
+fcl --> pp, punct_comma, np, vp, adjp, punct_comma, pp, punct_dot.	1
+cu --> np, conj_c, n_adj.	1
+fcl --> np, vp, advp, vp, pp, punct_semicolon.	1
+fcl --> fcl, punct_comma, advp, vp, pp, pp, punct_dot.	1
+fcl --> cu, np, vp, punct_comma, pp, punct_comma, cu, punct_dot.	1
+fcl --> np, advp, vp, advp, punct_dot.	1
+icl --> vp, pp, acl, punct_comma, pp, pp.	1
+np --> art, punct_ltlt, n, punct_gtgt, cu.	1
+fcl --> punct_ltlt, np, vp, advp, punct_dot.	1
+np --> art, prop, pp, pp.	1
+fcl --> conj_c, fcl, punct_comma, np, vp, np, punct_dot.	1
+fcl --> np, np, vp, pp, pp, punct_question_mark.	1
+pp --> prp, np, punct_comma, acl.	1
+fcl --> advp, np, vp, np, punct_question_mark.	1
+fcl --> pron_indp, vp.	1
+cu --> np, punct_comma, np, conj_c, adjp.	1
+fcl --> cu, punct_comma, np, vp, acl, np, punct_dot.	1
+fcl --> np, vp, cu, punct_semicolon.	1
+np --> pron_det, pron_det, n, adjp.	1
+fcl --> vp, np, punct_double_dash, advp, punct_comma, np, punct_dot.	1
+adjp --> num, punct_comma, fcl.	1
+fcl --> icl, np, vp, np, pp, punct_comma, pp, punct_dot.	1
+icl --> vp, pp, punct_comma, pp, punct_comma.	1
+fcl --> pp, punct_comma, np, vp, advp, punct_semicolon, fcl, punct_dot.	1
+fcl --> advp, punct_ltlt, vp, punct_gtgt, np, pp.	1
+np --> n, adjp, punct_comma, x, punct_comma.	1
+cu --> cu, punct_semicolon, conj_c, cu, punct_dot.	1
+cu --> fcl, fcl.	1
+cu --> icl, conj_c, icl, punct_comma, icl, punct_comma, icl, punct_comma, icl.	1
+fcl --> advp, punct_comma, np, vp, pp, np, punct_dot.	1
+np --> n, fcl, punct_semicolon, cu.	1
+fcl --> np, vp, v_pcp, pp, punct_dot.	1
+np --> prp, art, n, pp.	1
+icl --> pp, punct_question_mark.	1
+adjp --> advp, adj, acl.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, adjp, punct_dot.	1
+np --> art, num, n, adjp, pp.	1
+fcl --> advp, punct_comma, np, vp, np, pp.	1
+fcl --> pp, punct_comma, np, vp, pp, pp.	1
+cu --> fcl, punct_open_curly_bracket, fcl, punct_question_mark, punct_close_curly_bracket, punct_comma, fcl, punct_dot.	1
+fcl --> vp, np, np, vp.	1
+fcl --> pp, punct_comma, np, vp, np, vp, pp, pp, punct_dot.	1
+fcl --> conj_c, np, vp, np, punct_semicolon.	1
+fcl --> vp, punct_comma, advp, punct_comma, np, pp, punct_dot.	1
+np --> art, punct_prime, n, adjp, punct_prime.	1
+icl --> np, advp, vp, pp, advp.	1
+fcl --> punct_ltlt, vp, np, punct_gtgt, punct_comma, pp, punct_dot.	1
+fcl --> advp, pp, punct_comma, conj_c, icl.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, vp, pp, punct_dot.	1
+fcl --> conj_c, vp, icl, punct_dot.	1
+fcl --> conj_s, punct_comma, icl, punct_comma, np, vp, pp.	1
+fcl --> conj_s, fcl, punct_comma, np, vp.	1
+fcl --> icl, punct_comma, np, vp, advp.	1
+fcl --> punct_ltlt, vp, pp, punct_gtgt.	1
+fcl --> acl, punct_comma, np, vp, pp, punct_dot.	1
+pp --> prp, punct_semicolon, cu.	1
+fcl --> punct_ltlt, np, advp, vp, pp, punct_gtgt.	1
+np --> art, n, pp, punct_comma, np, pp.	1
+acl --> fcl, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, fcl, punct_dot.	1
+fcl --> acl.	1
+fcl --> pp, punct_comma, np, vp, pp, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, adjp, pp, punct_dot.	1
+fcl --> pp, punct_comma, vp, np, np, pp, punct_dot.	1
+fcl --> np, advp, vp, punct_comma, advp, punct_question_mark.	1
+np --> pron_det, n, adjp, punct_comma, pp.	1
+np --> pron_pers, cu.	1
+fcl --> np, advp, vp, punct_exclamation.	1
+np --> art, n, np, cu, punct_comma, adjp.	1
+fcl --> icl, punct_comma, np, vp, pp.	1
+fcl --> conj_s, np, vp, punct_semicolon, cu.	1
+fcl --> pp, punct_comma, np, punct_prime, vp, v_pcp, punct_prime, punct_dot.	1
+acl --> conj_c, np, vp, icl, punct_dot.	1
+fcl --> np, vp, advp, adjp, pp, punct_dot.	1
+x --> vp, np, vp.	1
+np --> art, punct_ltlt, n, punct_gtgt, adjp, pp, punct_comma, np, punct_comma.	1
+fcl --> icl, punct_comma, np, vp, np, pp, pp, punct_dot.	1
+np --> art, pron_det, fcl.	1
+fcl --> advp, punct_comma, np, vp, np, cu, punct_dot, punct_gtgt.	1
+adjp --> advp, adj, pp.	1
+cu --> adjp, punct_comma, adjp, conj_c, adjp, punct_comma.	1
+fcl --> vp, punct_comma, advp, punct_comma, np, punct_dot.	1
+fcl --> pp, punct_comma, vp, adjp, cu.	1
+fcl --> cu, vp, advp.	1
+cu --> advp, punct_comma, conj_c, pp, punct_question_mark.	1
+fcl --> advp, punct_comma, pp, punct_comma, np, advp, vp, acl, punct_dot.	1
+fcl --> conj_s, np, punct_ltlt, vp, np, punct_gtgt.	1
+fcl --> adv, np, advp, vp, np.	1
+np --> art, pron_indp, pp.	1
+pp --> prp, np, cu.	1
+fcl --> np, vp, punct_comma, pp, punct_comma, icl.	1
+np --> art, ec, adj, fcl.	1
+fcl --> vp, np, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+np --> prop, punct_comma, np, adjp.	1
+icl --> vp, pp, acl, pp.	1
+fcl --> vp, np, punct_question_mark, punct_exclamation.	1
+fcl --> advp, vp, punct_comma, np.	1
+fcl --> pp, punct_comma, pp, punct_ltlt, cu, punct_gtgt, punct_dot.	1
+fcl --> np, vp, np, pp, icl, punct_dot.	1
+np --> punct_ltlt, n, punct_semicolon, fcl, punct_dot.	1
+pp --> prp, fcl, punct_dot.	1
+adjp --> num, adjp.	1
+fcl --> conj_c, vp, adjp, punct_comma, advp, pp, punct_comma, np, vp, x, punct_dot.	1
+np --> v_pcp, n, adjp, punct_comma.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, cu, punct_dot.	1
+fcl --> np, vp, pp, acl, punct_comma, fcl, punct_dot.	1
+np --> punct_ltlt, art, n, pp, pp, punct_gtgt.	1
+np --> prop, np, advp, vp, np, punct_dot.	1
+np --> num, prop, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> acl, punct_comma, np, vp, np, punct_comma.	1
+fcl --> cu, vp, advp, pp, pp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+np --> num, n, np, acl.	1
+fcl --> pp, adjp, vp, punct_dot.	1
+fcl --> np, vp, np, v_pcp, punct_dot.	1
+fcl --> np, vp, advp, np, advp.	1
+np --> ec, n_adj, pp.	1
+fcl --> np, advp, vp, np, pp, pp, punct_comma, pp, punct_dot.	1
+np --> n, icl, punct_dot.	1
+fcl --> vp, pp, cu, punct_dot.	1
+np --> n, punct_hyphen, np.	1
+cu --> np, punct_semicolon, conj_c, np.	1
+cu --> v_pcp, conj_c, adjp, conj_c, advp.	1
+icl --> vp, adjp, pp, fcl.	1
+np --> art, n, pp, punct_comma, pp, punct_comma, icl.	1
+np --> num, punct_comma, np, punct_comma, cu, conj_c, x.	1
+x --> vp, acl, cu.	1
+fcl --> cu, punct_comma, vp, np, pp, np, punct_dot.	1
+fcl --> conj_s, np, punct_ltlt, vp, v_pcp, punct_gtgt.	1
+np --> art, n, np, punct_open_curly_bracket, np, punct_close_curly_bracket, np.	1
+np --> adv, art, n, adjp.	1
+np --> n, adjp, punct_close_curly_bracket.	1
+np --> n, punct_open_curly_bracket, np.	1
+np --> pron_det, art, n, punct_comma, fcl.	1
+fcl --> fcl, punct_comma, fcl, punct_comma, vp, punct_dot.	1
+cu --> adjp, punct_comma, pp, punct_comma, pp, punct_comma, pp, conj_c, pp.	1
+np --> art, prop, punct_double_dash, np, punct_double_dash.	1
+fcl --> punct_ltlt, vp, pp, punct_dot, punct_gtgt.	1
+cu --> adjp, conj_c, adjp, punct_comma, pp, punct_comma, pp.	1
+fcl --> conj_s, punct_comma, pp, vp, punct_comma, cu, punct_comma, np.	1
+np --> art, n, adjp, np, adjp, punct_comma, pp.	1
+np --> n, vp, np, punct_comma, fcl, punct_dot.	1
+np --> art, n, fcl, punct_comma, np.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, np, pp, punct_comma, pp, punct_dot.	1
+cu --> fcl, punct_ltlt, fcl, punct_gtgt, punct_dot.	1
+fcl --> vp, cu, pp, pp, punct_dot.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, pp, punct_comma, fcl, punct_dot.	1
+np --> art, n, adjp, adjp, adjp.	1
+np --> art, num, prop, pp.	1
+fcl --> np, np, vp, advp, pp.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, fcl, punct_comma.	1
+np --> n, punct_semicolon, advp, punct_dot.	1
+fcl --> conj_s, np, vp, vp, pp, pp.	1
+fcl --> np, vp, pp, cu, advp, punct_dot.	1
+fcl --> np, punct_comma, advp, punct_comma, advp, vp, pp, pp.	1
+fcl --> conj_c, np, vp, pp, punct_gtgt, punct_dot.	1
+cu --> adjp, punct_comma, conj_c, np.	1
+fcl --> np, advp, cu.	1
+fcl --> pp, punct_comma, np, punct_dot.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_comma, np, punct_comma, advp, adjp.	1
+vp --> v_fin, v_inf, adjp.	1
+x --> vp, cu, pp.	1
+np --> adv, art, ec, n, np.	1
+fcl --> conj_c, advp, np, np, vp, acl, punct_question_mark.	1
+fcl --> pp, punct_comma, np, vp, advp, advp, punct_dot.	1
+np --> num, n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> np, advp, vp, advp, pp, punct_dot.	1
+np --> art, n, punct_gtgt, adjp, pp.	1
+np --> punct_ltlt, n, adjp, pp.	1
+fcl --> np, vp, pp, advp.	1
+adjp --> adv, n, pp.	1
+fcl --> conj_c, np, np, vp, fcl, punct_semicolon, np, cu, punct_dot.	1
+np --> n, pp, punct_comma, adjp, punct_comma.	1
+fcl --> np, np, vp, punct_dot.	1
+cu --> np, conj_c, punct_ltlt, np, punct_gtgt.	1
+cu --> acl, punct_comma, acl, punct_comma, np.	1
+fcl --> punct_ltlt, np, vp, cu, punct_comma, pp, punct_dot, punct_gtgt.	1
+np --> art, n_adj, punct_comma, np, punct_comma.	1
+fcl --> np, punct_comma, np, cu, punct_dot.	1
+fcl --> advp, np, vp, icl.	1
+fcl --> advp, np, vp, np, advp, punct_comma, fcl.	1
+fcl --> np, punct_comma, advp, punct_comma, advp, vp, pp.	1
+fcl --> advp, punct_comma, pp, punct_comma, np, np, vp, np, punct_dot.	1
+fcl --> pp, vp, cu.	1
+np --> n, pp, punct_semicolon, fcl.	1
+np --> pron_det, adj, n, icl.	1
+np --> pron_det, art, n, punct_comma, np.	1
+fcl --> punct_ltlt, np, vp, advp, pp, punct_comma, advp, punct_question_mark, punct_gtgt.	1
+np --> prop, punct_comma, adjp, punct_comma, np, punct_close_curly_bracket.	1
+fcl --> icl, vp, adjp, icl, punct_dot.	1
+acl --> x, x, punct_dot.	1
+fcl --> fcl, punct_comma, vp, advp, advp, punct_dot.	1
+np --> art, pron_det, num, n, fcl.	1
+np --> pron_det, adj, n, punct_semicolon, fcl.	1
+np --> art, punct_ltlt, n, pp, punct_gtgt, punct_comma, np, punct_comma.	1
+np --> art, adv, n, np.	1
+acl --> np, np, punct_exclamation.	1
+fcl --> np, np, vp, prp, pp.	1
+fcl --> vp, adjp, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, advp, advp, pp, punct_dot.	1
+fcl --> vp, np, pp, punct_comma, pp.	1
+np --> art, cu, pp, punct_comma, np, punct_comma.	1
+np --> adj, n, pp, pp, punct_dot.	1
+advp --> np, adv, adv, acl.	1
+fcl --> vp, np, advp, punct_comma, advp.	1
+fcl --> punct_ltlt, np, vp, adjp, fcl, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, pp, np, punct_dot.	1
+fcl --> pp, punct_comma, punct_ltlt, np, punct_gtgt, vp, advp, adjp, punct_dot.	1
+fcl --> pp, punct_open_curly_bracket, fcl, punct_close_curly_bracket, advp, vp, np, punct_dot.	1
+np --> pron_indp, adjp, pp.	1
+np --> adj, v_pcp, cu.	1
+np --> adjp, art, n, pp, punct_semicolon.	1
+np --> art, n, icl, punct_double_dash, cu.	1
+np --> art, pron_det, punct_ltlt, n, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+np --> prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, pp, punct_comma.	1
+fcl --> conj_s, advp, vp, adjp, pp.	1
+fcl --> pp, pp, punct_comma, advp, punct_comma, np, vp, np, pp, punct_dot.	1
+fcl --> advp, vp, np, vp, pp, punct_dot.	1
+np --> pron_det, n, advp.	1
+fcl --> np, vp, np, vp, np, punct_dot.	1
+fcl --> np, np, vp, pp, punct_question_mark.	1
+acl --> advp, punct_comma, np, punct_exclamation.	1
+np --> art, n, pp, pp, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+fcl --> pp, punct_comma, cu, vp, pp, pp, pp, punct_dot.	1
+fcl --> np, vp, np, pp, punct_question_mark.	1
+fcl --> advp, vp, v_pcp, np, punct_dot.	1
+cu --> np, punct_comma, np, punct_dot.	1
+np --> pp, punct_comma, n, np.	1
+cu --> pp, punct_close_curly_bracket, conj_c, pp.	1
+fcl --> np, vp, adjp, punct_open_curly_bracket, cu, punct_dot.	1
+np --> punct_ltlt, n, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, fcl.	1
+fcl --> punct_ltlt, advp, vp, np, punct_comma, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, advp, vp, fcl, punct_dot.	1
+fcl --> fcl, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_comma, vp, np, fcl, punct_dot.	1
+np --> n, pp, punct_semicolon, adjp.	1
+fcl --> vp, pp, np, punct_comma, pp, advp, punct_comma, advp, pp, punct_comma, pp, punct_semicolon.	1
+fcl --> np, advp, np, vp, np, punct_dot.	1
+np --> art, adj, prop, pp.	1
+cu --> advp, punct_comma, conj_c, acl.	1
+np --> art, punct_ltlt, n, pp, punct_gtgt, punct_comma, fcl.	1
+fcl --> conj_s, np, advp, np, vp.	1
+icl --> advp, advp, vp, icl, punct_question_mark.	1
+icl --> conj_s, advp, vp, fcl.	1
+fcl --> conj_s, pp, vp, np.	1
+fcl --> pp, punct_comma, np, vp, pp, advp, pp, punct_dot.	1
+icl --> pp, np, vp, pp.	1
+np --> cu, punct_comma, np, punct_comma.	1
+fcl --> np, punct_comma, pp, punct_comma, advp, vp, advp, pp, punct_dot.	1
+np --> prop, punct_comma, np, punct_semicolon.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, np, pp, punct_dot.	1
+fcl --> conj_s, np, advp, vp, punct_ltlt, adjp, punct_gtgt.	1
+fcl --> conj_s, punct_comma, conj_s, vp, np, punct_comma, cu.	1
+fcl --> np, np, vp, advp, pp, punct_dot.	1
+x --> vp, np, vp, np.	1
+np --> pron_indp, adjp.	1
+fcl --> punct_ltlt, pp, advp, punct_dot.	1
+np --> art, prop, punct_comma, advp.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, np, punct_dot.	1
+cu --> fcl, punct_comma, fcl, punct_comma, fcl.	1
+acl --> pp, pp, punct_semicolon.	1
+pp --> prp, np, punct_comma, pp, punct_comma.	1
+fcl --> np, punct_comma, icl, punct_comma, vp, np, pp, punct_comma, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, np, acl, punct_comma, icl, punct_dot.	1
+np --> adv, art, n, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> vp, acl.	1
+np --> num, n, pp, punct_comma, cu.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np, punct_semicolon, np, punct_comma, np, conj_c, np, punct_semicolon, np, punct_comma, np, conj_c, np.	1
+fcl --> vp, pp, punct_comma, acl, punct_dot.	1
+np --> pron_det, n, np, punct_comma, adjp, punct_comma, icl.	1
+fcl --> advp, vp, adjp, cu, punct_dot.	1
+np --> conj_c, n, pp, pp, punct_dot.	1
+np --> art, ec, n, icl.	1
+fcl --> np, vp, advp, pp, np, pp, punct_dot.	1
+fcl --> np, np, vp, advp, punct_comma, pp, punct_question_mark.	1
+fcl --> np, np, vp, advp, punct_dot.	1
+fcl --> advp, np, vp, adjp, np.	1
+np --> prop, conj_c, prp, fcl, punct_dot.	1
+np --> art, n, adjp, acl.	1
+cu --> fcl, fcl, fcl, punct_dot.	1
+cu --> icl, conj_c.	1
+fcl --> icl, punct_comma, vp, advp, pp.	1
+pp --> cu.	1
+fcl --> np, pp, np, vp, pp.	1
+np --> art, n, np, pp, punct_comma, fcl.	1
+np --> punct_prime, n, punct_prime, pp.	1
+fcl --> pp, punct_comma, vp, np, vp, np, pp, punct_dot.	1
+fcl --> conj_c, np, advp, vp, icl, punct_dot.	1
+fcl --> pp, vp, adjp.	1
+np --> art, n, punct_comma, fcl, punct_double_dash, pp, np.	1
+fcl --> np, vp, np, pp, advp, punct_comma, pp, punct_dot.	1
+np --> n, punct_ltlt, np, punct_gtgt.	1
+fcl --> fcl, vp, pp, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, vp, np, punct_comma, icl, punct_dot.	1
+fcl --> conj_s, np, vp, adjp, icl.	1
+fcl --> advp, vp, pp, punct_comma, pp, punct_dot.	1
+acl --> np, np, pp.	1
+icl --> vp, punct_comma, advp, punct_comma, pp, punct_comma, acl.	1
+fcl --> np, advp, vp, np, pp, punct_question_mark.	1
+fcl --> advp, vp, np, cu, punct_dot.	1
+fcl --> advp, np, punct_comma, advp, acl, punct_comma, vp, np.	1
+np --> pron_det, adj, n, adjp, punct_comma, cu.	1
+fcl --> conj_c, punct_comma, fcl, punct_comma, np, vp, punct_dot.	1
+np --> num, pron_det, n, pp.	1
+fcl --> punct_ltlt, np, punct_gtgt, vp, pp, punct_comma, pp, punct_dot.	1
+fcl --> fcl, punct_comma, pp, vp, np, punct_dot.	1
+fcl --> pp, np, pp.	1
+fcl --> advp, np, vp, acl.	1
+fcl --> fcl, punct_comma, vp, pp, icl, punct_dot.	1
+fcl --> np, advp, vp, adjp, punct_open_curly_bracket, fcl, punct_three_dots, punct_close_curly_bracket.	1
+fcl --> cu, vp, pp, cu, punct_dot.	1
+fcl --> conj_c, np, punct_comma, advp, punct_comma, vp, np, advp, punct_dot.	1
+fcl --> fcl, punct_comma, np, vp, pp, pp.	1
+fcl --> conj_c, vp, advp, punct_dot.	1
+cu --> x, punct_comma, x, punct_comma, conj_c, x.	1
+fcl --> pp, vp, np, pp, pp.	1
+np --> n_adj, adjp, pp.	1
+fcl --> np, np, vp, np, vp, pp.	1
+fcl --> np, punct_double_dash, np, vp, pp, advp, punct_comma, icl, punct_dot.	1
+fcl --> conj_s, advp, advp, np, vp.	1
+fcl --> punct_ltlt, np, vp, cu, punct_question_mark, punct_gtgt.	1
+x --> v_inf, pp, punct_semicolon, fcl, vp.	1
+fcl --> punct_ltlt, vp, adjp, punct_dot.	1
+np --> art, n, pp, punct_comma, punct_ltlt, np, punct_gtgt.	1
+fcl --> conj_c, punct_comma, advp, punct_comma, vp, np, np, punct_dot.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, vp, np.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, fcl, punct_dot.	1
+np --> pron_det, n, punct_comma, pp.	1
+fcl --> conj_c, vp, advp, punct_exclamation.	1
+fcl --> np, punct_comma, vp, np, pp, pp, punct_dot.	1
+fcl --> pp, punct_comma, vp, cu, punct_gtgt, punct_dot.	1
+fcl --> conj_s, pp, np, vp, np, fcl.	1
+fcl --> advp, punct_comma, np, punct_comma, vp, pp, pp, punct_dot.	1
+fcl --> np, vp, np, advp, punct_comma, fcl, punct_dot.	1
+np --> adj, n, cu, pp.	1
+np --> art, n, icl, np, punct_comma, fcl.	1
+np --> art, prop, icl, fcl.	1
+fcl --> np, vp, pp, advp, pp, pp, punct_dot.	1
+fcl --> punct_ltlt, np, punct_gtgt, punct_comma, advp, vp, advp, punct_question_mark.	1
+cu --> fcl, punct_semicolon, fcl, punct_gtgt, punct_dot.	1
+fcl --> fcl, punct_comma, vp, np, punct_comma, acl.	1
+np --> adv, pron_det, n.	1
+fcl --> np, vp, pp, punct_semicolon, punct_ltlt, fcl, punct_dot.	1
+x --> advp, vp, advp, punct_comma, vp, np.	1
+fcl --> advp, vp, pp, punct_gtgt, punct_dot.	1
+fcl --> advp, punct_comma, fcl, punct_comma, np, vp, advp, vp, pp, pp, punct_dot.	1
+x --> icl.	1
+fcl --> advp, pp, punct_comma, np, vp, np, punct_comma, x, punct_dot.	1
+np --> pp, n.	1
+fcl --> vp, advp, pp, np.	1
+fcl --> adv, advp, vp, np.	1
+icl --> vp, punct_gtgt, pp.	1
+np --> punct_ltlt, n, adjp, icl.	1
+x --> advp, advp, vp, cu.	1
+x --> fcl.	1
+fcl --> advp, np, vp, np, pp, punct_dot.	1
+np --> n, punct_ltlt, adjp, punct_gtgt, punct_comma, fcl.	1
+acl --> conj_s, advp.	1
+fcl --> conj_s, np, punct_comma, icl, punct_comma, vp, advp, punct_comma, icl, pp.	1
+cu --> np, np.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, fcl, punct_dot.	1
+np --> art, n, vp, np, acl.	1
+cu --> n_adj, punct_comma, n_adj, conj_c, n_adj.	1
+fcl --> np, advp, np, vp, v_pcp, pp.	1
+fcl --> advp, np, vp, advp, punct_dot.	1
+acl --> conj_s, pp, punct_comma, pp.	1
+cu --> acl, punct_semicolon, conj_c, fcl.	1
+fcl --> conj_s, pp, advp, vp.	1
+fcl --> conj_s, punct_semicolon, cu.	1
+np --> adj, n, adv, pp, punct_comma, icl.	1
+np --> n, adjp, np, np.	1
+vp --> v_fin, v_inf, v_pcp, pp.	1
+np --> adj, punct_prime, n, punct_prime, pp.	1
+np --> adv, pron_det, art, cu, pp.	1
+fcl --> pp, punct_comma, np, vp, np, pp, punct_semicolon.	1
+acl --> adv, np, np.	1
+cu --> pp, punct_comma, conj_c, advp, pp.	1
+fcl --> vp, fcl, punct_comma, advp, conj_s, np.	1
+fcl --> vp, punct_comma, pp, punct_comma, np.	1
+fcl --> vp, icl, np, punct_dot.	1
+np --> n, adjp, punct_exclamation.	1
+fcl --> pp, punct_comma, np, vp, np, punct_comma, pp, punct_comma, pp, punct_dot.	1
+np --> num, punct_ltlt, n, punct_gtgt.	1
+adjp --> ec, num.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, icl.	1
+np --> pron_det, n, punct_comma, adjp, punct_comma.	1
+fcl --> np, np, vp, np, punct_comma, pp.	1
+np --> adv, n, adjp, punct_comma, fcl.	1
+fcl --> vp, np, acl.	1
+fcl --> adjp, conj_s, np, vp, np, pp, punct_dot.	1
+fcl --> conj_s, advp, cu.	1
+np --> prop, advp, vp, np, punct_comma, fcl, punct_dot.	1
+fcl --> conj_c, advp, pp, advp, np, vp, np, punct_dot.	1
+fcl --> conj_s, punct_comma, fcl, punct_comma, np, punct_comma, vp, np.	1
+fcl --> vp, advp, fcl, punct_dot.	1
+fcl --> cu, advp, vp, advp, np, punct_dot.	1
+icl --> punct_comma, advp, punct_comma, vp, np.	1
+np --> art, n, adjp, punct_open_curly_bracket, acl, punct_close_curly_bracket.	1
+fcl --> punct_ltlt, np, cu, punct_gtgt, punct_dot.	1
+fcl --> np, vp, advp, pp, pp, punct_comma, cu, punct_dot.	1
+np --> art, n, punct_open_curly_bracket, np, pp, punct_close_curly_bracket.	1
+fcl --> conj_s, advp, vp, cu, punct_comma, fcl.	1
+np --> adv, art, num, n.	1
+np --> art, ec, n, adjp, np, punct_comma, np, punct_comma, icl.	1
+fcl --> adv.	1
+fcl --> vp, advp, np, advp, fcl, punct_comma, fcl.	1
+punct_comma --> fcl, punct_comma.	1
+fcl --> np, punct_open_curly_bracket, cu, punct_close_curly_bracket, punct_comma, np, punct_question_mark.	1
+fcl --> punct_ltlt, vp, pp, vp, np, punct_gtgt.	1
+fcl --> conj_s, pp, cu.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, np, pp, punct_comma, fcl, punct_dot, punct_gtgt.	1
+x --> np, vp, cu.	1
+fcl --> np, vp, vp, prp, punct_semicolon.	1
+np --> adj, n, punct_comma, pp.	1
+np --> pron_det, adj.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, vp, punct_dot.	1
+fcl --> np, punct_comma, vp, np, punct_exclamation.	1
+fcl --> conj_s, np, punct_comma, fcl, punct_comma, vp, np, pp.	1
+np --> punct_ltlt, art, n.	1
+fcl --> np, np, advp, vp, advp.	1
+acl --> advp, punct_open_curly_bracket, pp, punct_close_curly_bracket, np, vp, pp.	1
+fcl --> cu, vp, pp, np, punct_comma, acl, punct_dot.	1
+np --> art, n, icl, punct_comma, pp.	1
+fcl --> advp, np, np, vp, np, punct_dot.	1
+fcl --> np, punct_comma, advp, vp, pp, punct_dot.	1
+fcl --> adv, vp, np, punct_question_mark.	1
+fcl --> punct_ltlt, advp, punct_comma, np, vp, punct_gtgt, punct_dot.	1
+fcl --> advp, punct_comma, np, vp, np, pp, punct_comma, icl, punct_dot.	1
+vp --> v_inf, punct_ltlt, v_pcp, punct_gtgt.	1
+fcl --> punct_ltlt, np, vp, np, vp, icl, punct_gtgt.	1
+fcl --> np, vp, pp, pp, pp, punct_comma, pp, punct_dot.	1
+np --> v_inf, adjp, pp.	1
+fcl --> pp, punct_comma, cu, vp, np, punct_dot.	1
+np --> ec, ec, n.	1
+fcl --> pp, punct_comma, pp, punct_comma, vp, np, np, pp, punct_dot.	1
+cu --> punct_comma, conj_c, pp.	1
+fcl --> np, v_fin, x.	1
+np --> art, n, adjp, pp, cu, pp, punct_comma, fcl.	1
+x --> cu, pp.	1
+x --> v_pcp, cu.	1
+fcl --> conj_s, np, vp, advp, advp.	1
+fcl --> icl, punct_comma, vp, pp, punct_dot.	1
+fcl --> vp, np, punct_dot, punct_gtgt.	1
+np --> art, n, adjp, punct_comma, pp, punct_comma, adjp.	1
+fcl --> pp, np, advp, vp, np, vp, punct_dot.	1
+x --> vp, acl, pp.	1
+fcl --> punct_ltlt, advp, punct_comma, np, vp, np, punct_dot.	1
+adjp --> adv, adj, punct_comma, fcl.	1
+advp --> prp, adv, pp.	1
+fcl --> pp, punct_comma, np, punct_comma, advp, punct_comma, vp, np, punct_dot.	1
+np --> num, n, x.	1
+fcl --> cu, np, vp, punct_dot.	1
+fcl --> np, advp, vp, advp, np.	1
+np --> art, adj, punct_ltlt, n, adjp, punct_gtgt, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+cu --> v_pcp, punct_comma, v_pcp, punct_comma, np, conj_c, np.	1
+fcl --> np, vp, x, pp.	1
+fcl --> conj_s, np, vp, fcl, icl.	1
+fcl --> advp, np, vp, np, pp, punct_comma, icl.	1
+fcl --> np, vp, acl, cu, punct_dot.	1
+fcl --> conj_s, np, vp, pp, icl.	1
+icl --> vp, pp, np, punct_comma, fcl.	1
+np --> art, punct_ltlt, n, adjp, pp, punct_gtgt.	1
+cu --> adjp, np, conj_c, np.	1
+fcl --> vp, adjp, cu, punct_dot.	1
+fcl --> advp, conj_s, vp, np, pp.	1
+np --> art, adj, n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> np, vp, np, punct_comma, pp, punct_comma, pp.	1
+fcl --> advp, vp, fcl, punct_comma, icl, punct_dot.	1
+fcl --> conj_s, pp, np, vp, pp.	1
+cu --> adjp, punct_comma, adjp, punct_comma, pp.	1
+icl --> vp, cu, pp, pp.	1
+np --> n, punct_prime, v_pcp, punct_prime.	1
+cu --> fcl, conj_c, cu, punct_question_mark, punct_gtgt.	1
+fcl --> vp, pp, icl, punct_dot.	1
+fcl --> np, vp, x, pp, advp, pp, punct_comma, pp, punct_dot.	1
+fcl --> np, punct_comma, pp, vp, pp.	1
+pp --> prp, adjp, punct_comma.	1
+fcl --> punct_ltlt, vp, np, adjp, punct_dot.	1
+fcl --> conj_s, vp, pp, np, punct_comma, pp.	1
+fcl --> advp, punct_comma, advp, punct_comma, cu.	1
+fcl --> np, vp, adjp, np, pp, pp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+fcl --> vp, np, pp, advp.	1
+acl --> adv, fcl, punct_dot.	1
+np --> adv, num, v_pcp, adjp.	1
+pp --> prp, v_inf, punct_semicolon.	1
+fcl --> pp, np, advp, vp, punct_dot.	1
+np --> art, n, cu, adjp.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, np, vp, pp, pp.	1
+icl --> advp, vp, fcl, punct_question_mark.	1
+fcl --> conj_c, np, advp, vp, cu.	1
+fcl --> advp, punct_comma, np, advp, vp, fcl, punct_dot.	1
+fcl --> conj_s, np, vp, np, pp, punct_comma, icl.	1
+np --> n, np, np, punct_question_mark.	1
+fcl --> advp, punct_comma, pp, punct_comma, cu, vp, np, punct_dot.	1
+np --> art, pron_det, n, pp, punct_comma, fcl, punct_comma.	1
+fcl --> punct_ltlt, np, vp, pp, pp, punct_dot.	1
+np --> pron_indp, punct_comma, pp, punct_comma.	1
+fcl --> conj_s, pp.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, np, cu.	1
+x --> vp, punct_comma, pp, punct_comma, np, pp.	1
+fcl --> np, vp, adjp, punct_semicolon, cu, punct_dot.	1
+fcl --> conj_s, np, vp, v_pcp, pp.	1
+fcl --> pp, punct_comma, fcl, punct_comma, np, vp, advp, punct_dot.	1
+fcl --> acl, punct_comma, np, vp, advp, pp, punct_dot.	1
+np --> art, adj, n, fcl, cu.	1
+np --> prop, punct_comma, pp, punct_comma, icl.	1
+adjp --> adv, n_adj.	1
+fcl --> np, vp, pp, punct_comma, pp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+np --> cu, punct_comma, vp, punct_comma.	1
+fcl --> vp, fcl, punct_question_mark.	1
+fcl --> np, np, vp, punct_comma, icl.	1
+icl --> vp, cu, advp, punct_comma, advp, punct_comma, np.	1
+fcl --> advp, punct_comma, advp, np, advp, vp, np, punct_comma, pp, punct_dot.	1
+fcl --> pp, advp, vp, np, pp, pp, punct_dot.	1
+fcl --> np, vp, pp, np, fcl, punct_dot.	1
+fcl --> advp, punct_comma, pp, punct_comma, pp, punct_comma, np, vp, pp, punct_dot.	1
+fcl --> cu, advp, vp, punct_comma, pp, punct_comma, cu, punct_dot.	1
+x --> punct_ltlt, prop, punct_gtgt, punct_dot.	1
+np --> n, adv, punct_open_curly_bracket, pp, punct_comma, pp, punct_close_curly_bracket.	1
+fcl --> np, vp, np, punct_semicolon, vp, advp, np.	1
+cu --> punct_ltlt, fcl, punct_comma, conj_c, fcl, punct_dot.	1
+fcl --> advp, punct_comma, np, np, vp, advp, pp, punct_dot.	1
+np --> art, ec, n, adjp, pp.	1
+fcl --> fcl, punct_comma, vp, punct_comma, v_ger, punct_dot.	1
+fcl --> punct_ltlt, np, vp, np, pp, punct_gtgt.	1
+fcl --> cu, vp, pp, advp, pp, pp, punct_dot.	1
+np --> art, n_adj, np, punct_comma, pp, punct_comma.	1
+fcl --> np, vp, pp, np, icl, punct_dot.	1
+np --> art, n, cu, punct_comma, adjp.	1
+np --> prop, pp, punct_comma, np, vp, acl, punct_dot.	1
+np --> art, adj, n, adjp, pp, punct_comma, icl.	1
+np --> adv, n, np, punct_question_mark.	1
+fcl --> conj_s, pp, punct_comma, np, advp, vp, np.	1
+fcl --> np, advp, vp, adjp, pp, punct_comma, fcl, punct_dot.	1
+icl --> vp, conj_c, icl.	1
+np --> art, n, adjp, prp, cu.	1
+cu --> fcl, punct_semicolon, fcl, punct_semicolon.	1
+fcl --> advp, punct_comma, np, vp, pp, pp.	1
+fcl --> np, punct_double_dash, np, vp.	1
+fcl --> advp, punct_comma, vp, adjp, np, pp, punct_dot.	1
+adjp --> adv, np.	1
+fcl --> np, vp, np, pp, pp, punct_comma, pp, punct_dot.	1
+fcl --> conj_s, np, vp, advp, v_pcp.	1
+np --> n, punct_comma, adjp, punct_comma.	1
+icl --> vp, np, punct_ltlt, advp, punct_gtgt.	1
+x --> np, vp, adjp, pp.	1
+fcl --> punct_ltlt, np, vp, advp, vp, punct_gtgt.	1
+fcl --> cu, vp, adjp, punct_dot.	1
+np --> art, pron_det, ec, n, punct_comma, np.	1
+fcl --> conj_s, pp, np, vp, np, pp.	1
+fcl --> punct_ltlt, np, vp, adjp, fcl, punct_dot, punct_gtgt.	1
+x --> np, vp, v_pcp, pp.	1
+cu --> acl, punct_comma, conj_c, acl.	1
+fcl --> advp, punct_comma, vp, np, pp, punct_dot.	1
+fcl --> icl, punct_comma, np, np, vp, icl, punct_dot.	1
+np --> n, punct_question_mark.	1
+adjp --> art, pron_det, num.	1
+fcl --> vp, advp, punct_comma, pp, punct_comma, cu, punct_dot.	1
+icl --> advp, vp, adjp, punct_comma, icl.	1
+fcl --> advp, punct_comma, np, punct_comma, fcl, punct_comma, vp, pp, punct_dot.	1
+acl --> advp, punct_comma, pp, pp, punct_semicolon.	1
+fcl --> np, vp, cu, pp, punct_comma, pp, pp, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, np, advp, cu, punct_dot.	1
+np --> pron_det, n, pp, adjp.	1
+fcl --> advp, np, vp, pp, pp.	1
+icl --> vp, np, prp, icl.	1
+icl --> vp, punct_ltlt, np, fcl.	1
+np --> n, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> np, vp, pp, punct_comma, pp, punct_comma, np, pp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, fcl, punct_gtgt, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, np, punct_comma, acl, punct_dot.	1
+cu --> vp, punct_semicolon, np, punct_dot.	1
+fcl --> np, vp, punct_three_dots, np, punct_dot.	1
+np --> n, np, punct_comma, np, punct_semicolon.	1
+fcl --> punct_ltlt, np, vp, np, punct_gtgt, punct_comma, vp, punct_comma, pp, punct_dot.	1
+np --> pron_indp, pron_indp, fcl.	1
+icl --> advp, vp, punct_comma, advp, punct_comma, np.	1
+fcl --> conj_c, punct_comma, advp, punct_comma, np, advp, vp, pp, punct_dot.	1
+np --> n, adjp, pp, punct_semicolon, cu.	1
+fcl --> punct_ltlt, np, vp, np, punct_gtgt, punct_comma, vp, punct_dot.	1
+fcl --> conj_c, np, vp, adjp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, advp, np, punct_comma, fcl, punct_dot.	1
+fcl --> icl, punct_comma, advp, vp, np, punct_dot.	1
+np --> cu, n, adv.	1
+fcl --> pp, punct_comma, np, advp, np, vp, pp, punct_dot.	1
+np --> num, adj.	1
+np --> art, prop, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+np --> art, punct_ltlt, prop, punct_gtgt, punct_comma, icl.	1
+fcl --> pp, punct_comma, np, cu.	1
+np --> pron_det, n, pp, punct_semicolon, fcl.	1
+np --> art, pron_det, ec, n.	1
+x --> punct_comma, pp, punct_comma, vp, np, punct_comma, icl.	1
+adjp --> art, adj.	1
+n --> pp.	1
+fcl --> pp, vp, acl, pp, punct_dot.	1
+fcl --> advp, punct_comma, np, advp, vp, icl, punct_dot.	1
+fcl --> np, punct_comma, advp, punct_comma, advp, vp, cu, punct_dot.	1
+np --> pron_det, num, n, adjp.	1
+fcl --> pron_indp, vp, np, pp.	1
+np --> art, adj, cu, fcl.	1
+np --> art, n, fcl, cu.	1
+x --> advp, np, vp, acl.	1
+fcl --> np, punct_comma, np, vp, icl, punct_dot.	1
+fcl --> conj_s, np, pp, vp, adjp.	1
+fcl --> punct_ltlt, vp, np, fcl, punct_dot.	1
+fcl --> conj_s, advp, vp, advp.	1
+fcl --> np, advp, advp, vp, fcl, punct_dot.	1
+cu --> x, punct_comma, conj_c, icl.	1
+fcl --> np, v_fin, cu.	1
+icl --> v_pcp, pp, punct_comma, pp, pp.	1
+icl --> vp, pp, pp, punct_comma, pp, punct_comma.	1
+np --> art, n, adjp, punct_comma, np, punct_comma, pp, punct_comma.	1
+np --> art, n, np, adjp, punct_comma, pp.	1
+x --> v_pcp, advp, pp, pp, pp.	1
+fcl --> advp, punct_comma, np, np, vp, pp, punct_dot.	1
+np --> art, n, adjp, adjp, cu.	1
+np --> art, n, adjp, cu, punct_open_curly_bracket, np, punct_comma, advp, punct_close_curly_bracket.	1
+np --> ec, n, pp, pp.	1
+np --> art, adj, n, adjp, pp, punct_comma, np.	1
+np --> pron_det, n, adjp, v_pcp.	1
+fcl --> vp, fcl, punct_gtgt, punct_dot.	1
+np --> art, punct_prime, n, punct_prime.	1
+np --> art, adv, num, n, adjp, punct_open_curly_bracket, fcl, punct_close_curly_bracket, pp.	1
+fcl --> icl, advp, punct_comma, np, vp, fcl, punct_dot.	1
+cu --> adjp, punct_comma, adjp, punct_comma, adjp, advp.	1
+np --> art, n, pp, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+np --> n, adjp, pp, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+np --> art, adj, n, adjp, punct_comma, np, punct_comma.	1
+fcl --> pp, punct_comma, vp, icl, punct_dot.	1
+fcl --> conj_s, np, vp, np, vp, pp.	1
+fcl --> np, advp, np, vp, pp.	1
+np --> pron_det, n, pp, punct_semicolon, fcl, punct_dot.	1
+np --> n, adjp, np, icl.	1
+np --> num, n, pp, punct_comma, np.	1
+np --> art, n, punct_semicolon, punct_ltlt, fcl, vp, icl, punct_question_mark, punct_gtgt.	1
+fcl --> np, punct_comma, np, vp, np, pp, punct_dot.	1
+fcl --> conj_c, vp, np, punct_comma, acl, punct_dot.	1
+adjp --> adv, adj, pp, np, punct_semicolon, np, punct_semicolon, np.	1
+fcl --> pp, punct_comma, np, advp, vp, adjp, punct_dot.	1
+icl --> np, vp, np, fcl.	1
+pp --> prp, np, punct_semicolon.	1
+fcl --> vp, np, advp, vp, np, pp, punct_gtgt.	1
+fcl --> np, vp, adjp, pp, punct_comma, pp, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, punct_ltlt, np, punct_gtgt, punct_close_curly_bracket.	1
+pp --> prp, icl, acl.	1
+acl --> adv, advp, adjp.	1
+fcl --> icl, punct_comma, punct_ltlt, np, vp, pp, punct_gtgt, punct_dot.	1
+fcl --> conj_s, vp, np, vp, punct_comma, np, punct_comma, pp.	1
+np --> adv, art, n_adj.	1
+fcl --> vp, advp, np.	1
+np --> n, pp, adjp.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, advp, vp, np, punct_dot.	1
+np --> num, n, adjp, fcl, punct_comma, cu.	1
+np --> art, adj, n, punct_comma, np.	1
+fcl --> vp, np, punct_comma, fcl, punct_dot.	1
+np --> n, adv, pp, punct_dot.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, adjp, punct_dot.	1
+icl --> advp, vp, pp, np, punct_question_mark.	1
+np --> n, cu, fcl.	1
+fcl --> pp, punct_comma, fcl, punct_comma, pp, vp, np, punct_dot.	1
+fcl --> advp, advp, np, vp, np.	1
+np --> art, v_pcp, n, v_pcp, pp.	1
+fcl --> np, advp, vp, pp, punct_comma, pp, np, pp, punct_dot.	1
+np --> adjp, n, icl, fcl.	1
+np --> art, punct_ltlt, n, np, punct_gtgt.	1
+pp --> prp, np, punct_double_dash, np, punct_double_dash, np.	1
+pp --> prp, punct_comma, cu.	1
+np --> adj, adj, n, adjp.	1
+adjp --> art, adjp.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, np, punct_dot.	1
+fcl --> vp, np, adjp, pp.	1
+fcl --> advp, cu, vp, advp, punct_dot.	1
+fcl --> conj_s, np, advp, vp, advp, punct_comma, pp, punct_comma, fcl.	1
+cu --> punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt, punct_prime, conj_c, punct_ltlt, np, punct_gtgt, punct_prime.	1
+np --> adv, pron_det, fcl.	1
+np --> art, adj, n, punct_comma, adjp, punct_comma.	1
+fcl --> conj_s, np, punct_comma, pp, punct_comma, vp, pp.	1
+fcl --> conj_s, pp, punct_comma, vp, pp.	1
+pp --> punct_ltlt, prp, cu, punct_gtgt.	1
+fcl --> advp, punct_comma, advp, punct_comma, np, vp, np, punct_dot.	1
+fcl --> np, advp, advp, vp, icl, punct_dot.	1
+fcl --> punct_ltlt, pp, conj_s, np, vp, adjp, punct_dot.	1
+fcl --> conj_s, np, advp, vp, pp, fcl.	1
+np --> art, n, punct_ltlt, adjp, punct_gtgt, pp.	1
+np --> pron_det, punct_double_dash, pp, punct_comma, np, punct_double_dash, np.	1
+cu --> x, punct_comma, advp, x.	1
+x --> v_inf, np, v_pcp, pp.	1
+x --> advp, vp, advp.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, punct_comma, pp.	1
+pp --> prp, np, vp, adjp, cu.	1
+fcl --> advp, punct_comma, np, vp, pp, icl, punct_comma, fcl, punct_dot, punct_gtgt.	1
+icl --> vp, np, pp, punct_comma, icl.	1
+cu --> x, punct_comma, conj_c, x, punct_semicolon, icl.	1
+fcl --> np, vp, pp, vp, fcl, punct_dot.	1
+np --> prop, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_comma, adjp, punct_comma.	1
+np --> n, np, punct_comma, adjp, punct_comma.	1
+fcl --> conj_s, advp, np, vp, np, punct_comma.	1
+np --> n, pp, punct_open_curly_bracket, advp, punct_close_curly_bracket.	1
+np --> n, v_pcp, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> advp, vp, advp, pp.	1
+fcl --> conj_s, advp, vp, pp, pp.	1
+fcl --> vp, fcl, punct_semicolon.	1
+fcl --> np, vp, punct_comma, icl, punct_dot.	1
+fcl --> pron_indp, np, vp, np.	1
+np --> art, adj, punct_ltlt, prop, punct_gtgt, punct_comma, pp.	1
+fcl --> cu, vp, np, pp.	1
+fcl --> conj_s, punct_ltlt, np, vp, cu, punct_gtgt.	1
+np --> prop, punct_open_curly_bracket, np, pp, punct_close_curly_bracket.	1
+cu --> punct_ltlt, fcl, punct_comma, fcl, punct_dot.	1
+np --> cu, punct_comma, cu, punct_comma.	1
+icl --> np, np, vp, pp, pp.	1
+fcl --> np, vp, advp, pp, punct_comma, pp, punct_comma, pp, punct_comma, np, punct_dot.	1
+cu --> pp, conj_c, adjp.	1
+fcl --> fcl, punct_comma, vp, np, punct_comma, pp, punct_comma, pp, punct_dot.	1
+fcl --> np, vp, pp, pp, pp.	1
+pp --> pp.	1
+fcl --> icl, vp, pp, pp, punct_dot.	1
+np --> art, punct_prime, prop, punct_prime.	1
+fcl --> advp, advp, icl.	1
+fcl --> pp, advp, vp, np, punct_question_mark.	1
+fcl --> np, advp, vp, adjp, np, punct_dot.	1
+fcl --> np, vp, x, np, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, advp, fcl.	1
+fcl --> cu, vp, advp, vp, punct_dot.	1
+fcl --> fcl, punct_comma, np, vp, advp, advp, np, punct_dot.	1
+np --> pron_det, adjp, punct_comma, fcl.	1
+fcl --> vp, np, punct_comma, acl, punct_dot.	1
+acl --> punct_ltlt, np, advp, np, punct_gtgt, punct_dot.	1
+fcl --> vp, fcl, punct_dot, punct_gtgt.	1
+fcl --> conj_s, np, vp, advp, punct_gtgt, np.	1
+vp --> v_fin, punct_ltlt, v_ger.	1
+fcl --> vp, pp, advp, punct_comma, advp.	1
+np --> art, n, punct_ltlt, v_pcp, punct_gtgt.	1
+fcl --> conj_s, pp, advp, vp, np.	1
+fcl --> fcl, punct_comma, advp, np, advp, vp, np, punct_dot.	1
+np --> art, n, adjp, np, punct_comma, adjp, punct_comma.	1
+fcl --> advp, vp, punct_comma, np, punct_comma, fcl, punct_dot.	1
+fcl --> conj_s, punct_comma, icl, punct_comma, np, advp, vp, np.	1
+np --> adv, punct_comma, adj, n, punct_comma, pp.	1
+fcl --> pp, punct_comma, np, advp, vp, np, fcl, punct_dot.	1
+np --> n, adjp, punct_open_curly_bracket, cu, punct_close_curly_bracket.	1
+fcl --> icl, punct_comma, np, vp, adjp, np, punct_dot.	1
+np --> art, pron_det, n, adjp, punct_comma, fcl.	1
+vp --> punct_ltlt, v_fin, prp, v_inf, punct_gtgt.	1
+np --> adv, cu, punct_question_mark.	1
+advp --> prp, pp.	1
+acl --> x, punct_comma, np, punct_dot.	1
+x --> pp, pp, pp, pp.	1
+fcl --> vp, np, punct_comma, advp, punct_comma, cu.	1
+np --> prop, punct_comma, np, punct_comma, adjp.	1
+np --> punct_ltlt, n, pp, punct_gtgt, punct_comma, np.	1
+icl --> art, vp, np, x, punct_comma, pp.	1
+fcl --> pp, punct_comma, punct_ltlt, advp, vp, adjp, np, punct_gtgt, punct_dot.	1
+np --> adj, n_adj, pp.	1
+np --> art, pron_det, n, v_pcp.	1
+fcl --> pp, punct_comma, np, vp, fcl, punct_gtgt, punct_dot.	1
+fcl --> np, vp, np, pp, advp, punct_dot.	1
+np --> n, v_pcp, pp, pp.	1
+fcl --> advp, pp, np, vp, pp, punct_dot.	1
+np --> art, n, cu, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> advp, vp, advp, np, pp.	1
+fcl --> punct_ltlt, np, vp, v_pcp, punct_gtgt.	1
+fcl --> pp, punct_comma, vp, adjp, punct_dot.	1
+fcl --> conj_s, pp, advp, np, vp, np, pp.	1
+fcl --> vp, conj_s, np, punct_gtgt.	1
+fcl --> fcl, punct_comma, np, vp, advp, np, pp, punct_dot.	1
+cu --> np, punct_comma, np, conj_c, np, punct_comma, np, punct_comma, prp, np.	1
+np --> art, n, pp, adjp, punct_semicolon, cu.	1
+cu --> icl, punct_comma, icl, punct_dot.	1
+icl --> advp, np, vp, advp, pp.	1
+icl --> advp, np, vp, pp.	1
+fcl --> punct_ltlt, np, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+np --> pp, art, n, pp, pp.	1
+fcl --> pp, punct_comma, pp, np, np, vp, np, punct_dot.	1
+adv --> np.	1
+fcl --> advp, punct_comma, np, vp, pp.	1
+np --> art, n, adjp, pp, cu, pp.	1
+np --> punct_ltlt, n, punct_gtgt, adv.	1
+icl --> np, vp, punct_dot.	1
+np --> art, n, adjp, punct_comma, adjp, punct_comma, icl.	1
+fcl --> pp, punct_comma, np, vp, x, punct_comma, pp, punct_dot.	1
+fcl --> conj_s, np, vp, np, punct_comma, cu.	1
+np --> n_adj, pp, fcl.	1
+fcl --> icl, punct_comma, np, advp, np, vp, pp, punct_dot.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_dot.	1
+np --> art, punct_ltlt, prop, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket, adjp.	1
+fcl --> conj_s, np, vp, pp, fcl.	1
+fcl --> conj_s, vp, adjp, np.	1
+fcl --> punct_ltlt, vp, np, pp, punct_gtgt, punct_comma, np, vp, punct_dot.	1
+np --> art, cu, n, pp, punct_comma, fcl.	1
+fcl --> conj_s, np, vp, np, acl.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, icl, punct_comma.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, advp, pp, punct_dot.	1
+fcl --> cu.	1
+fcl --> np, pp.	1
+np --> art, adj, n, fcl, punct_semicolon, fcl.	1
+np --> prop, punct_double_dash, np, punct_dot.	1
+fcl --> np, vp, pp, punct_comma, cu, punct_dot.	1
+fcl --> punct_ltlt, advp, punct_comma, vp, cu, punct_dot.	1
+adjp --> adv, num, pp.	1
+fcl --> advp, punct_comma, np, advp, vp, np, punct_comma, pp, punct_dot.	1
+np --> n, pp, punct_comma, pp, punct_comma.	1
+cu --> adjp, conj_c, icl.	1
+fcl --> icl, np, vp, np, punct_dot.	1
+np --> art, n, np, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np.	1
+fcl --> np, vp, adjp, icl, punct_dot.	1
+icl --> vp, np, punct_comma, icl, punct_dot.	1
+fcl --> np, vp, np, punct_gtgt, punct_close_curly_bracket.	1
+fcl --> np, vp, pp, conj_c, pp, advp, punct_comma, icl.	1
+np --> art, n, punct_gtgt.	1
+np --> n, punct_comma, adv, punct_dot.	1
+np --> art, n, pp, punct_comma, np, punct_comma, adjp.	1
+np --> num, n, punct_comma, pp.	1
+fcl --> np, vp, x, punct_comma, advp, punct_dot.	1
+np --> art, n, adjp, adjp, punct_comma, icl.	1
+np --> art, adj, n, pp, punct_ltlt, np, punct_gtgt.	1
+fcl --> cu, advp, np, vp, punct_dot.	1
+fcl --> adjp, punct_double_dash, np, vp, pp, punct_dot.	1
+np --> art, n_adj, icl.	1
+cu --> fcl, punct_comma, conj_c, fcl, punct_exclamation.	1
+fcl --> fcl, np, vp.	1
+fcl --> np, vp, np, np, fcl, punct_dot.	1
+fcl --> advp, punct_comma, vp, icl, punct_dot.	1
+fcl --> conj_s, punct_ltlt, advp, np, vp, pp, punct_gtgt.	1
+fcl --> punct_ltlt, conj_s, np, vp, np, punct_gtgt.	1
+icl --> advp, vp, cu.	1
+fcl --> vp, advp, np, punct_exclamation.	1
+np --> art, n, np, punct_comma, cu, punct_comma, cu.	1
+np --> num, n, punct_semicolon, fcl, punct_comma, fcl.	1
+fcl --> np, vp, adjp, fcl.	1
+np --> punct_ltlt, n, adjp, punct_gtgt, punct_comma, pp.	1
+np --> art, adv, num, n, pp.	1
+fcl --> np, vp, pp, punct_comma, np, punct_three_dots.	1
+icl --> vp, punct_exclamation.	1
+np --> art, n, punct_ltlt, np, adjp, punct_gtgt, punct_comma, advp, punct_comma, np.	1
+np --> art, n_adj, icl, pp.	1
+fcl --> advp, vp, punct_dot.	1
+fcl --> np, punct_comma, icl, punct_comma.	1
+fcl --> np, vp, pp, vp, np, punct_dot.	1
+vp --> v_ger, conj_s, v_fin.	1
+fcl --> fcl, punct_comma, np, vp, pp, punct_comma, pp, punct_dot.	1
+fcl --> conj_s, vp, np, acl.	1
+fcl --> fcl, punct_comma, vp, advp, fcl, punct_dot.	1
+np --> prop, punct_double_dash, cu, punct_open_curly_bracket, adjp, punct_close_curly_bracket, punct_comma.	1
+cu --> x, punct_open_curly_bracket, conj_c, np, punct_close_curly_bracket.	1
+fcl --> conj_c, vp, np, punct_question_mark.	1
+acl --> punct_ltlt, advp, np, punct_comma, fcl, punct_dot, punct_gtgt.	1
+fcl --> punct_ltlt, fcl, vp, adjp, punct_gtgt, punct_dot.	1
+fcl --> advp, punct_comma, vp, pp, pp, punct_dot.	1
+np --> punct_ltlt, n, acl, punct_gtgt.	1
+fcl --> vp, adjp, icl, punct_comma, fcl.	1
+cu --> punct_ltlt, np, punct_ltlt, punct_comma, punct_ltlt, np, punct_gtgt, punct_comma, punct_ltlt, np, punct_gtgt.	1
+fcl --> advp, adjp, vp, adjp.	1
+fcl --> fcl, punct_open_curly_bracket, cu, punct_close_curly_bracket, punct_comma, vp, np, punct_dot.	1
+np --> n, adjp, v_pcp, punct_comma, np, punct_comma, pp.	1
+fcl --> cu, vp, v_pcp, punct_dot.	1
+fcl --> advp, np, vp, advp, np.	1
+fcl --> vp, fcl, punct_comma, np, punct_question_mark.	1
+fcl --> pp, punct_comma, advp, punct_comma, fcl, vp, np, pp, punct_dot.	1
+fcl --> adjp, punct_comma, np, cu, punct_dot.	1
+np --> adv, num, n, adv.	1
+fcl --> advp, np, vp, pp, np, pp, np, punct_dot.	1
+fcl --> vp, pp, punct_dot, punct_gtgt.	1
+fcl --> punct_ltlt, vp, advp, pp, pp, punct_dot, punct_gtgt.	1
+np --> art, pron_det, n, pp, punct_comma, icl.	1
+np --> art, n, v_pcp, pp, pp.	1
+fcl --> np, vp, pp, punct_comma, pp, punct_comma, np, punct_comma, pp, punct_dot.	1
+fcl --> np, vp, np, vp, pp, punct_comma, pp, punct_comma, fcl, punct_dot.	1
+cu --> punct_ltlt, np, punct_comma, np, punct_comma, adjp, punct_gtgt.	1
+np --> n, np, cu.	1
+pp --> prp, prp.	1
+np --> art, prop, punct_comma, np, pp.	1
+np --> art, n, cu, punct_comma, pp, punct_comma, advp.	1
+fcl --> conj_s, vp, adjp, icl, pp.	1
+icl --> conj_s, np, vp, np, pp.	1
+np --> ec, n_adj.	1
+fcl --> advp, punct_comma, np, vp, np, advp, punct_dot.	1
+icl --> vp, np, advp, punct_comma, pp.	1
+np --> art, punct_ltlt, prop, punct_gtgt, punct_comma, pp, punct_comma.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	1
+x --> punct_ltlt, v_inf, np, punct_gtgt, pp.	1
+np --> art, n, adjp, punct_comma, np, punct_comma, fcl.	1
+np --> pron_det, n, punct_semicolon, icl.	1
+fcl --> adjp, punct_comma, np, advp, vp, np, pp, punct_dot.	1
+np --> cu, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> conj_c, punct_comma, pp, punct_comma, vp, np, pp, punct_dot.	1
+fcl --> pp, punct_comma, vp, advp, vp, np, icl, punct_dot.	1
+fcl --> advp, advp, vp, pp.	1
+fcl --> conj_s, punct_comma, fcl.	1
+fcl --> np, punct_double_dash, fcl, punct_comma, punct_dot.	1
+np --> pron_det, art, n, pp, icl.	1
+punct_comma --> vp, fcl, punct_comma, vp, np.	1
+fcl --> np, vp, pp, punct_comma.	1
+np --> art, n, pp, fcl, np.	1
+fcl --> np, punct_comma, np, vp, np, icl, punct_dot.	1
+fcl --> conj_c, vp, adjp, np, pp, punct_dot.	1
+np --> n, np, punct_comma, pp, pp.	1
+pp --> prp, icl, punct_comma, icl.	1
+np --> art, num, adj, n, adjp, cu.	1
+fcl --> np, vp, np, pp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+fcl --> conj_c, np, vp, np, vp, pp, punct_dot.	1
+fcl --> advp, np, punct_exclamation.	1
+fcl --> vp, punct_ltlt, np, punct_gtgt, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_dot.	1
+fcl --> np, np, vp, pp, fcl.	1
+np --> prop, np, vp, np, punct_dot.	1
+fcl --> pp, punct_comma, pp, punct_comma, np, punct_ltlt, vp, punct_gtgt, np, punct_dot.	1
+np --> pron_det, n, punct_comma, acl.	1
+x --> np, vp, advp, pp.	1
+fcl --> pp, punct_comma, advp, punct_comma, vp, np, advp, pp.	1
+np --> n, punct_exclamation.	1
+fcl --> conj_s, np, advp, vp, punct_comma, pp.	1
+adjp --> punct_open_curly_bracket, adv, punct_close_curly_bracket, adj.	1
+fcl --> np, cu, punct_comma, fcl, punct_dot.	1
+fcl --> punct_ltlt, vp, punct_comma, vp, punct_exclamation, punct_gtgt.	1
+np --> art, n, punct_comma, adjp, punct_comma, advp, vp, np.	1
+fcl --> advp, punct_comma, adjp, vp, adjp, vp, np, punct_dot.	1
+np --> n, adjp, punct_semicolon, cu.	1
+fcl --> advp, punct_semicolon, np, vp, pp, punct_dot.	1
+np --> n, punct_comma, icl, punct_comma.	1
+icl --> vp, punct_ltlt, advp, punct_gtgt, acl.	1
+fcl --> punct_comma, pp, punct_comma, vp, np.	1
+fcl --> advp, punct_comma, np, vp, punct_semicolon, punct_ltlt, punct_three_dots, icl, punct_three_dots, punct_gtgt.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, pp, punct_comma, fcl.	1
+fcl --> adjp, icl, punct_comma, icl, punct_dot.	1
+fcl --> conj_s, vp, adjp, punct_ltlt, icl, punct_gtgt.	1
+fcl --> np, vp, advp, punct_comma, pp, punct_comma, np, acl, punct_dot.	1
+fcl --> pp, punct_comma, v_fin, adjp, np, punct_dot.	1
+np --> n, v_pcp, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+np --> art, prop, punct_open_curly_bracket, np.	1
+np --> num, n, punct_dot, punct_close_curly_bracket.	1
+vp --> v_ger, prp, v_inf.	1
+fcl --> np, vp, adjp, punct_exclamation.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, cu, punct_dot.	1
+np --> art, adj, adj, n.	1
+np --> pron_det, n, adjp, punct_comma, fcl.	1
+fcl --> advp, advp, advp, np, vp, icl.	1
+fcl --> pp, punct_comma, advp, np, vp, cu, punct_dot.	1
+fcl --> punct_ltlt, advp, vp, fcl, punct_gtgt.	1
+fcl --> punct_ltlt, np, punct_gtgt, advp, vp, pp, punct_dot.	1
+fcl --> vp, np, vp, punct_comma, pp, punct_comma, pp, punct_dot.	1
+np --> n, adjp, adjp, punct_comma, fcl.	1
+fcl --> punct_ltlt, np, vp, adjp, fcl, punct_gtgt.	1
+fcl --> advp, vp, np, fcl, fcl, punct_dot.	1
+icl --> vp, np, punct_comma, pp, punct_comma.	1
+fcl --> conj_c, pp, punct_comma, np, vp, cu, punct_dot.	1
+x --> advp, advp, vp, adjp.	1
+fcl --> np, vp, np, np, np, punct_dot.	1
+np --> punct_comma, cu.	1
+fcl --> conj_s, np, vp, punct_comma, advp, punct_comma, np, punct_comma, advp, fcl, punct_dot.	1
+fcl --> np, punct_prime, vp, punct_prime, np.	1
+cu --> adjp, punct_comma, adjp, conj_c, np.	1
+np --> cu, punct_comma, pp, punct_dot.	1
+fcl --> pp, np, np, vp, pp.	1
+np --> n, v_pcp, punct_comma, adjp.	1
+fcl --> conj_s, np, punct_open_curly_bracket, cu, punct_close_curly_bracket, vp, np.	1
+fcl --> cu, vp, fcl, punct_comma, fcl, punct_dot.	1
+np --> prop, punct_comma, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> punct_ltlt, pp, vp, np, punct_gtgt.	1
+fcl --> np, vp, np, advp, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+fcl --> advp, punct_comma, vp, np, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+cu --> v_ger, conj_c, v_ger.	1
+fcl --> conj_s, punct_ltlt, vp, np, cu, punct_gtgt.	1
+fcl --> np, advp, vp, fcl, fcl.	1
+fcl --> punct_ltlt, np, vp, adjp, punct_gtgt, punct_comma, vp, punct_dot.	1
+fcl --> advp, vp, adjp, punct_dot.	1
+np --> n, adv, np.	1
+fcl --> np, np, vp, np, pp, pp.	1
+fcl --> fcl, punct_comma, np, vp, np, np, punct_dot.	1
+np --> art, pron_det, n, acl.	1
+fcl --> conj_s, advp, vp, advp, vp.	1
+fcl --> fcl, punct_comma, np, vp, np, advp, adjp, punct_comma, icl, punct_dot.	1
+fcl --> conj_s, punct_comma, advp, punct_comma, np, vp, np.	1
+fcl --> np, punct_comma, vp, advp, fcl, punct_dot.	1
+fcl --> cu, punct_comma, vp, np, punct_comma, cu, punct_dot.	1
+fcl --> np, pp, np, vp.	1
+fcl --> np, np, vp, advp, punct_question_mark.	1
+fcl --> pp, vp, pp, pp, punct_dot.	1
+fcl --> pp, punct_comma, advp, vp, pp, pp.	1
+fcl --> icl, punct_comma, vp, advp, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, advp, icl, punct_dot.	1
+np --> adj, np.	1
+np --> art, v_pcp, punct_ltlt, n, adjp, pp, punct_gtgt.	1
+np --> pron_det, adj, n, adjp.	1
+np --> art, n, np, punct_comma, adjp, punct_comma, np.	1
+fcl --> conj_s, vp, adv, pp.	1
+fcl --> np, vp, advp, adjp, fcl.	1
+fcl --> conj_s, np, advp, vp, advp, punct_ltlt, vp, icl, punct_gtgt.	1
+np --> ec, n, fcl.	1
+fcl --> advp, punct_comma, advp, vp, fcl.	1
+icl --> vp, adjp, icl.	1
+fcl --> punct_ltlt, advp, vp, icl, punct_dot, punct_gtgt.	1
+np --> n, adjp, punct_open_curly_bracket, np, punct_comma, np, punct_close_curly_bracket.	1
+fcl --> fcl, punct_comma, vp, advp, np, punct_dot.	1
+fcl --> pp, np, vp, pp, pp.	1
+np --> art, n, pp, punct_ltlt, np, punct_gtgt.	1
+fcl --> advp, np, vp, adjp, pp, pp, punct_dot.	1
+adjp --> adv, pron_det.	1
+fcl --> np, punct_comma, pp, punct_comma, punct_ltlt, vp, np, punct_gtgt, punct_dot.	1
+np --> adjp, pp.	1
+np --> pron_det, num, n, punct_dot.	1
+fcl --> pp, punct_comma, np, advp, vp, punct_comma, pp, punct_dot.	1
+np --> pron_det, punct_comma, cu, punct_comma.	1
+fcl --> conj_s, np, vp, np, vp.	1
+np --> n, np, pp, punct_comma, fcl.	1
+fcl --> punct_ltlt, fcl, punct_comma, vp, adjp, punct_comma, pp, advp, vp, advp, punct_gtgt.	1
+fcl --> punct_ltlt, np, vp, pp.	1
+np --> art, pron_det, pp.	1
+fcl --> advp, np, vp, np, punct_comma, pp.	1
+np --> art, n, adjp, pp, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+np --> n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket, fcl.	1
+fcl --> punct_ltlt, fcl, punct_comma, np, vp, advp, punct_dot.	1
+np --> art, adj, n, pp, punct_comma, np, punct_comma.	1
+fcl --> vp, adjp, np, advp, punct_dot.	1
+fcl --> pron_indp.	1
+fcl --> np, vp, pp, np, punct_comma, icl, punct_dot.	1
+fcl --> fcl, punct_comma, vp, fcl, punct_dot.	1
+icl --> vp, np, punct_comma, fcl.	1
+np --> adj, cu.	1
+fcl --> advp, vp, np, punct_comma, advp.	1
+np --> adv, num.	1
+np --> n, adjp, punct_comma, pp, punct_comma.	1
+fcl --> pp, punct_comma, vp, adjp, icl.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, pp, punct_dot.	1
+fcl --> conj_c, np, vp, advp, pp, punct_dot.	1
+fcl --> np, vp, cu, fcl.	1
+cu --> punct_ltlt, fcl, punct_comma, fcl, conj_c, fcl, punct_gtgt.	1
+fcl --> cu, punct_comma, vp, advp, np, punct_dot.	1
+fcl --> vp, np, prp, v_inf.	1
+fcl --> vp, np, punct_comma.	1
+cu --> x, conj_c, x, punct_dot.	1
+x --> np, vp, advp, punct_comma, pp.	1
+np --> n, pp, punct_comma, fcl, punct_comma.	1
+fcl --> punct_comma, pp, punct_comma, advp, vp, np.	1
+np --> art, n, adjp, punct_comma, adjp, pp.	1
+fcl --> advp, punct_semicolon, np, vp, fcl, punct_dot.	1
+fcl --> conj_s, punct_comma, pp, punct_comma, advp, np, vp, np.	1
+fcl --> advp, pp, punct_comma, np, vp, np.	1
+np --> art, v_pcp, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> pp, advp, np, vp, np, punct_dot.	1
+np --> art, n, punct_comma, advp.	1
+np --> art, adj, n, adjp, np.	1
+advp --> adv, cu, fcl.	1
+fcl --> adv, np, vp.	1
+icl --> np, vp, np, advp.	1
+pp --> punct_ltlt, prp, adjp, punct_gtgt.	1
+fcl --> np, vp, np, np, punct_comma, icl, punct_dot.	1
+cu --> v_pcp, punct_comma, v_pcp, conj_c, pp.	1
+fcl --> icl, punct_comma, fcl, punct_gtgt, punct_comma, vp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, adjp, punct_dot.	1
+np --> num, num, n.	1
+fcl --> advp, vp, np, adjp, punct_comma, pp, punct_comma, icl, punct_dot.	1
+fcl --> punct_ltlt, cu, punct_gtgt, punct_comma, vp, advp, np, punct_comma, pp, pp, punct_comma, pp, punct_dot.	1
+fcl --> np, np, np, vp.	1
+icl --> vp, cu, conj_c, np.	1
+x --> advp, vp, fcl.	1
+x --> vp, np, pp, pp, punct_comma, advp, punct_comma, pp.	1
+fcl --> vp, advp, np, punct_comma, advp, punct_dot.	1
+fcl --> np, vp, adjp, v_ger, punct_dot.	1
+x --> vp, punct_comma, pp, punct_comma, icl.	1
+np --> art, punct_prime, n, np, punct_prime.	1
+fcl --> punct_ltlt, vp, adjp, icl, punct_dot.	1
+fcl --> punct_ltlt, advp, advp, np, vp, fcl, punct_dot.	1
+icl --> advp.	1
+np --> art, n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> cu, vp, advp, punct_dot.	1
+fcl --> np, vp, cu, np, punct_dot.	1
+cu --> np, punct_comma, conj_c, np, conj_c, np.	1
+fcl --> conj_s, pp, np, vp, cu.	1
+np --> pron_det, n, np, pp, pp.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, pp, punct_comma.	1
+fcl --> fcl, np, vp, icl.	1
+cu --> pp, punct_comma, np, conj_c, pp.	1
+fcl --> conj_s, punct_comma, fcl, punct_comma, vp, adjp, np.	1
+np --> art, n, np, punct_open_curly_bracket, pp, prp, np, punct_close_curly_bracket.	1
+fcl --> pp, punct_comma, np, vp, advp, vp, punct_dot.	1
+fcl --> punct_ltlt, fcl, punct_gtgt, punct_comma, vp, np, pp, punct_dot.	1
+np --> art, n, punct_dot.	1
+sq --> np, punct_double_dash, np.	1
+np --> punct_ltlt, prop, punct_gtgt, punct_comma, adjp, punct_comma.	1
+fcl --> np, vp, advp, icl.	1
+fcl --> advp, vp, np, punct_comma, advp, punct_comma, icl, punct_question_mark.	1
+icl --> vp, np, np, punct_comma, fcl.	1
+fcl --> fcl, punct_comma, np, advp, vp, fcl, punct_dot.	1
+cu --> conj_c, adjp, punct_comma, conj_c, adjp.	1
+fcl --> advp, vp, punct_comma, pp, punct_comma, np, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, punct_dot.	1
+np --> art, adjp, n, adjp, v_pcp, pp.	1
+fcl --> conj_s, punct_comma, icl, punct_comma, vp, np.	1
+np --> art, n, pp, punct_comma, np, punct_comma, fcl.	1
+fcl --> punct_ltlt, advp, vp, icl, punct_dot.	1
+icl --> np, np, vp.	1
+adjp --> conj_s, adj.	1
+advp --> adv, adv, adjp.	1
+icl --> vp, cu, punct_comma, pp, punct_comma.	1
+pp --> adv, n, pp.	1
+np --> art, num, n, cu.	1
+fcl --> np, punct_comma, advp, punct_comma, advp, vp, pp, punct_dot.	1
+fcl --> conj_s, punct_ltlt, vp, np, punct_gtgt, pp, pp, pp.	1
+x --> punct_comma, pp, punct_comma, vp, np.	1
+fcl --> punct_ltlt, conj_c, vp, np, punct_dot, punct_gtgt.	1
+fcl --> punct_ltlt, fcl, advp, punct_gtgt, punct_comma, vp, np, punct_dot.	1
+fcl --> conj_s, np, advp, vp, adjp, fcl.	1
+fcl --> conj_s, np, vp, pp, punct_comma, pp, punct_comma, advp, punct_comma, pp.	1
+fcl --> conj_s, advp, vp, adjp, np, pp.	1
+fcl --> np, vp, punct_ltlt, fcl, punct_gtgt.	1
+fcl --> vp, adjp, punct_dot, punct_gtgt.	1
+np --> n, adjp, punct_comma, icl, punct_comma.	1
+x --> pp, punct_comma, pp.	1
+cu --> v_pcp, conj_c, icl.	1
+np --> art, n, N<ARGOpp.	1
+np --> art, n, cu, punct_comma, fcl.	1
+np --> art, n, np, adjp, pp.	1
+np --> n, N<ARGOpp, cu.	1
+np --> n, punct_comma, icl.	1
+x --> punct_comma, adv, punct_comma, pp.	1
+cu --> adjp, conj_c, np.	1
+fcl --> fcl, np, vp, pp.	1
+x --> v_pcp, advp.	1
+fcl --> np, np, vp, adjp, punct_dot.	1
+fcl --> vp, advp, icl, punct_dot.	1
+np --> art, n, v_pcp, punct_comma, icl, punct_comma.	1
+fcl --> vp, np, punct_comma, advp, punct_comma, np, punct_dot.	1
+fcl --> vp, advp, advp, pp, np, punct_dot.	1
+fcl --> np, np, vp, cu, pp, pp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, advp, fcl, punct_dot.	1
+fcl --> conj_s, punct_comma, acl, punct_comma, np, vp, np.	1
+fcl --> np, np, punct_comma, fcl.	1
+np --> adv, pron_det, punct_ltlt, prop, punct_gtgt, pp, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+np --> art, punct_ltlt, prop, punct_gtgt, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> pp, punct_ltlt, advp, np, vp, np, punct_gtgt, punct_dot.	1
+fcl --> np, np, vp, pp, punct_comma, pp.	1
+np --> pron_det, num, n, fcl.	1
+fcl --> pp, punct_comma, np, vp, np, pp, cu, punct_dot.	1
+np --> art, n, adjp, adjp, punct_comma, pp.	1
+np --> art, n, np, punct_comma, adjp, pp.	1
+cu --> v_pcp, conj_c, pp.	1
+fcl --> acl, punct_comma, np, vp, np, punct_comma, pp, punct_dot.	1
+np --> num, n, adjp, punct_comma, cu.	1
+fcl --> conj_s, np, np, vp, pp, pp.	1
+fcl --> fcl, punct_comma, vp, np, punct_comma, fcl.	1
+fcl --> np, np, advp, vp, punct_comma, pp.	1
+fcl --> vp, np, pp, pp.	1
+np --> art, n, cu, punct_comma, np.	1
+adjp --> adv, pron_det, num.	1
+x --> pp, np, vp, punct_comma, cu, punct_comma.	1
+fcl --> conj_s, np, vp, adjp, punct_comma.	1
+fcl --> fcl, np, vp, pp, np.	1
+fcl --> np, vp, advp, acl, punct_dot.	1
+fcl --> pp, np, vp, icl.	1
+fcl --> np, vp, np, pp, pp, np, punct_dot.	1
+fcl --> np, punct_comma, np, vp, pp, punct_comma, pp, punct_dot.	1
+fcl --> np, np, vp, advp, pp, punct_comma, pp.	1
+np --> adv, num, n, pp, pp, pp.	1
+fcl --> advp, advp, punct_comma, np, punct_comma, vp, pp, pp, punct_dot.	1
+fcl --> advp, vp, acl.	1
+fcl --> np, punct_comma, pp, vp, icl, pp.	1
+fcl --> punct_ltlt, fcl, vp, advp, pp, punct_gtgt.	1
+np --> np, advp, np, vp, punct_comma, icl.	1
+np --> prop, fcl, fcl, punct_dot.	1
+np --> art, punct_ltlt, n, adjp, punct_gtgt, icl.	1
+fcl --> np, vp, np, advp, punct_comma, advp, punct_open_curly_bracket, fcl, punct_close_curly_bracket, punct_dot.	1
+fcl --> np, vp, pp, pp, pp, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, pp, pp, punct_dot.	1
+fcl --> conj_c, advp, punct_ltlt, np, punct_gtgt, vp, pp, punct_dot.	1
+cu --> np, punct_comma, np, conj_c, np, punct_comma.	1
+fcl --> conj_s, punct_ltlt, np, vp, icl, punct_gtgt.	1
+np --> art, n, cu, pp, punct_comma.	1
+pp --> prp, icl, punct_comma, prp, np.	1
+fcl --> np, vp, pp, x.	1
+fcl --> pp, pp, advp.	1
+fcl --> conj_c, punct_comma, np.	1
+np --> pron_indp, adv.	1
+np --> art, prop, punct_comma, np, punct_comma, np.	1
+np --> num, n, pp, punct_dot.	1
+fcl --> conj_s, vp, np, vp, pp.	1
+fcl --> fcl, punct_comma, advp, vp, np, pp, punct_dot.	1
+icl --> advp, vp, advp, pp.	1
+fcl --> np, advp, vp, np, pp, punct_comma, pp, punct_dot.	1
+fcl --> x, punct_comma, np, cu, punct_dot.	1
+prp --> n, cu.	1
+fcl --> advp, punct_comma, vp, pp, punct_exclamation.	1
+fcl --> punct_prime, np, punct_prime, vp, np, pp.	1
+cu --> fcl, conj_c, fcl, punct_comma, np.	1
+fcl --> advp, vp, adjp, pp.	1
+fcl --> pp, punct_comma, cu, vp, advp, punct_dot.	1
+np --> pron_pers, adv, punct_dot.	1
+np --> pron_indp, np, punct_exclamation.	1
+fcl --> np, punct_comma, pp, punct_comma, vp, icl, punct_dot.	1
+advp --> fcl.	1
+icl --> advp, vp, pp, advp.	1
+fcl --> np, advp, vp, v_ger, punct_comma, fcl, punct_dot.	1
+np --> pron_det, n, punct_open_curly_bracket, cu, advp, punct_close_curly_bracket.	1
+np --> art, adj, n, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+np --> pron_det, pp, punct_comma, np, punct_dot.	1
+cu --> adjp, punct_comma, conj_c, pp, punct_comma.	1
+fcl --> np, advp, np, punct_ltlt, vp, punct_gtgt, pp.	1
+fcl --> np, punct_comma, pp, vp, pp, punct_dot.	1
+np --> adj, n, fcl, punct_comma, acl, punct_comma.	1
+fcl --> pp, cu, vp.	1
+fcl --> punct_ltlt, advp, vp, np, pp, punct_dot, punct_gtgt.	1
+fcl --> pp, punct_comma, np, advp, vp, advp, punct_comma, fcl, punct_dot.	1
+np --> prop, punct_comma, np, punct_comma, np.	1
+fcl --> np, v_fin, np, pp.	1
+fcl --> np, advp, vp, np, vp, punct_comma, fcl, punct_dot.	1
+np --> n, adv, punct_comma, icl.	1
+np --> pron_det, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> punct_ltlt, np, punct_gtgt, vp, pp.	1
+np --> n, pp, punct_semicolon, cu, punct_comma, advp.	1
+np --> pron_det, n, np, icl.	1
+fcl --> advp, vp, icl, fcl, punct_dot.	1
+fcl --> conj_s, advp, np, vp, np, pp.	1
+icl --> vp, advp, pp, pp.	1
+fcl --> pp, punct_comma, punct_ltlt, np, vp, icl, punct_gtgt, punct_dot.	1
+np --> adv, art, adj, n.	1
+fcl --> conj_s, fcl, np, vp, np, pp.	1
+np --> art, n, adjp, pp, pp, punct_comma, np.	1
+icl --> punct_ltlt, vp, punct_gtgt, np.	1
+icl --> vp, cu, pp, punct_comma, icl.	1
+adv --> acl.	1
+fcl --> np, punct_comma, vp, np, punct_semicolon, fcl, punct_dot.	1
+np --> art, n, v_pcp, pp, punct_comma, np, punct_comma.	1
+adjp --> punct_ltlt, adj, pp, punct_gtgt.	1
+fcl --> np, punct_comma, fcl, punct_comma, vp, adjp.	1
+fcl --> vp, cu, punct_comma, pp, pp.	1
+fcl --> np, vp, pp, punct_comma, cu, punct_comma, pp, punct_dot.	1
+np --> art, n, punct_comma, adjp, punct_comma.	1
+fcl --> fcl, advp, vp, pp, punct_dot.	1
+np --> art, n, pp, punct_comma, advp.	1
+np --> pron_det, n, pp, punct_comma, pp.	1
+fcl --> conj_c, punct_comma, vp, np, punct_ltlt, fcl, punct_gtgt, punct_dot.	1
+fcl --> np, vp, advp, advp, punct_dot.	1
+np --> prop, punct_comma, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma.	1
+fcl --> advp, punct_comma, cu, vp, advp, np, punct_dot.	1
+np --> pron_indp, punct_comma, cu.	1
+np --> pron_det, art, prop.	1
+fcl --> punct_ltlt, vp, pp, fcl, punct_gtgt.	1
+np --> art, ec, n, punct_comma, np, punct_comma, pp.	1
+adjp --> n, pp.	1
+fcl --> pp, vp, pp, np, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, np, adjp, punct_close_curly_bracket.	1
+adjp --> adj, np.	1
+fcl --> conj_c, advp, vp, fcl, punct_question_mark, punct_gtgt.	1
+fcl --> pp, punct_comma, np, np, vp, pp, pp, punct_dot.	1
+fcl --> pp, punct_comma, vp, adjp, pp, punct_semicolon.	1
+icl --> vp, np, punct_comma, advp.	1
+fcl --> pp, punct_comma, vp, np, punct_semicolon.	1
+fcl --> pp, punct_comma, advp, vp, adjp, cu, punct_dot.	1
+np --> art, n, pp, punct_comma, np, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+fcl --> cu, np, vp, np, punct_dot.	1
+acl --> np, punct_question_mark.	1
+np --> prop, punct_comma, adjp, punct_comma, icl, punct_comma, np, punct_semicolon.	1
+fcl --> np, np, vp, pp, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+cu --> np, conj_c, np, punct_comma, np, conj_c, np.	1
+np --> art, n, pp, punct_open_curly_bracket, x, punct_close_curly_bracket.	1
+np --> num, adv.	1
+np --> num, n, pp, punct_semicolon, cu.	1
+np --> punct_ltlt, art, n, adjp, punct_gtgt.	1
+fcl --> np, np, vp, punct_comma, pp.	1
+fcl --> pp, punct_comma, punct_ltlt, vp, np, punct_gtgt, punct_dot.	1
+fcl --> vp, np, punct_comma, fcl.	1
+np --> pron_det, n, punct_open_curly_bracket, advp, punct_close_curly_bracket.	1
+cu --> punct_ltlt, fcl, conj_c, fcl, conj_c, fcl, conj_c, pp, punct_dot, punct_gtgt.	1
+fcl --> vp, adjp, icl, punct_semicolon.	1
+np --> art, punct_ltlt, v_pcp, punct_gtgt.	1
+np --> prop, advp, vp, np, pp, punct_exclamation.	1
+cu --> pp, punct_open_curly_bracket, conj_c, punct_comma, pp, punct_comma, pp, punct_close_curly_bracket.	1
+icl --> vp, pp, np, fcl.	1
+x --> vp, np, icl.	1
+np --> n_adj, x.	1
+fcl --> punct_open_curly_bracket, vp, np, pp, punct_dot.	1
+cu --> np, punct_double_dash, fcl, vp, np, punct_dot.	1
+fcl --> np, punct_comma.	1
+np --> pron_det, punct_ltlt, n, punct_gtgt, x.	1
+fcl --> advp, advp, advp, punct_ltlt, np, punct_gtgt, vp, punct_dot.	1
+fcl --> fcl, punct_comma, np, vp, x, pp.	1
+fcl --> vp, np, pp, punct_exclamation.	1
+fcl --> advp, punct_comma, np, vp, icl, punct_comma, icl, punct_dot.	1
+np --> art, prop, punct_open_curly_bracket, np, pp, punct_close_curly_bracket.	1
+acl --> advp, advp, punct_question_mark.	1
+fcl --> np, advp, vp, cu, punct_comma, conj_c, np.	1
+np --> adv, n, adjp.	1
+np --> pron_det, art, n_adj, pp, punct_comma, fcl.	1
+fcl --> advp, advp, vp, fcl, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, icl.	1
+fcl --> conj_s, punct_comma, fcl, punct_comma, np, cu.	1
+x --> punct_comma, pp, punct_comma, vp, np, fcl.	1
+fcl --> adjp, punct_comma, vp, np, punct_dot, punct_gtgt.	1
+cu --> fcl, conj_c, fcl, punct_exclamation.	1
+fcl --> pp, np, np, vp, pp, punct_comma, fcl, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, adjp, punct_comma, acl, punct_dot.	1
+fcl --> adjp, np, vp, acl, np, punct_dot.	1
+np --> n, pp, acl.	1
+fcl --> np, punct_comma, pp, punct_comma, np, vp, np, pp.	1
+cu --> icl, punct_comma, np, punct_comma, np.	1
+cu --> pp, punct_comma, pp, punct_comma, pp, punct_comma, pp, punct_comma, pp, punct_comma, pp.	1
+np --> art, prop, punct_comma, pp, punct_comma, icl.	1
+fcl --> np, vp, icl, punct_comma, pp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, pp, punct_comma, pp, punct_comma, pp.	1
+np --> num, n, punct_dot, pp.	1
+fcl --> vp, advp, vp, pp.	1
+np --> num, n, v_pcp, fcl.	1
+fcl --> advp, punct_comma, np, pp, punct_comma, np, vp, np, pp, punct_dot.	1
+np --> adv, art, cu, adjp, np.	1
+np --> art, n, np, np.	1
+np --> art, n_adj, punct_comma, icl.	1
+fcl --> np, punct_comma, fcl, punct_comma, vp, pp, np.	1
+fcl --> prp, vp, np.	1
+np --> art, prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, pp, punct_comma.	1
+fcl --> np, cu, punct_comma, vp, np, punct_dot.	1
+fcl --> conj_s, vp, advp.	1
+cu --> fcl, punct_comma, punct_ltlt, conj_c, fcl, punct_gtgt, punct_dot.	1
+fcl --> advp, vp, icl, punct_comma, fcl.	1
+x --> punct_comma, pp, punct_comma, vp, pp.	1
+fcl --> punct_ltlt, np, punct_comma, advp, punct_comma, vp, advp, punct_gtgt.	1
+fcl --> np, np, vp, pp, fcl, punct_dot.	1
+np --> n, np, adjp.	1
+np --> n, pp, punct_semicolon, x, punct_dot.	1
+fcl --> conj_s, np, punct_ltlt, advp, vp, np, punct_gtgt.	1
+fcl --> advp, pp, punct_comma, pp, punct_comma, advp, punct_ltlt, np, punct_gtgt, vp, np, punct_dot.	1
+fcl --> np, np, vp, punct_ltlt, np, punct_gtgt.	1
+np --> art, n, pp, punct_semicolon, fcl.	1
+acl --> conj_c, pp, pp, punct_dot.	1
+fcl --> np, punct_comma, advp, punct_comma, vp, icl, fcl, punct_dot.	1
+np --> pron_det, pron_det, n, cu.	1
+fcl --> np, np, advp, vp, icl.	1
+cu --> fcl, conj_c, fcl, punct_semicolon, fcl, punct_dot.	1
+fcl --> punct_comma, advp, punct_comma, advp, vp, pp.	1
+icl --> vp, v_ger.	1
+fcl --> conj_s, np, advp, vp, advp, icl.	1
+fcl --> fcl, punct_dot, punct_gtgt.	1
+np --> art, adj, n, punct_open_curly_bracket, punct_ltlt, icl, punct_gtgt, punct_close_curly_bracket.	1
+np --> art, n, adjp, punct_open_curly_bracket, np, punct_close_curly_bracket, icl.	1
+fcl --> np, vp, np, np, punct_comma, pp.	1
+icl --> advp, vp, punct_comma.	1
+np --> n, icl, acl.	1
+fcl --> np, np, vp, advp, pp, advp, pp, punct_comma, pp, punct_dot.	1
+icl --> vp, fcl, fcl.	1
+np --> art, punct_open_curly_bracket, n, punct_close_curly_bracket, adjp, fcl.	1
+fcl --> np, vp, advp, np, punct_comma, advp, pp, punct_comma, pp, punct_dot.	1
+cu --> fcl, punct_comma, conj_c, fcl, punct_three_dots.	1
+fcl --> conj_s, advp, vp, cu, pp.	1
+fcl --> np, vp, pp, pp, advp, punct_dot.	1
+fcl --> pp, punct_comma, np, vp, punct_prime, adjp, punct_prime, punct_dot.	1
+fcl --> np, np, advp, vp, advp, acl.	1
+icl --> vp, np, advp, punct_comma, pp, punct_comma, pp.	1
+np --> prop, icl.	1
+fcl --> conj_s, adjp, pp.	1
+fcl --> cu, vp, pp, fcl, punct_dot.	1
+np --> punct_open_curly_bracket, np, acl, punct_close_curly_bracket.	1
+cu --> punct_ltlt, np, punct_comma, np, punct_comma, np, punct_gtgt.	1
+fcl --> advp, punct_comma, np, advp, advp, vp, pp, punct_dot.	1
+np --> art, n, punct_comma, fcl, punct_open_curly_bracket, fcl, punct_close_curly_bracket.	1
+fcl --> conj_s, np, advp, vp, advp, np, np.	1
+np --> pron_indp, fcl, punct_dot.	1
+fcl --> conj_s, pp, np, cu.	1
+icl --> icl, vp, pp, punct_semicolon.	1
+pp --> prp, np, conj_c, pp.	1
+cu --> advp, pp, punct_comma, advp, pp.	1
+cu --> punct_ltlt, adjp, punct_gtgt, punct_comma, adjp, conj_c, adjp.	1
+fcl --> adjp, vp, adjp, cu, punct_dot.	1
+fcl --> conj_c, vp, np.	1
+cu --> np, conj_c, advp, np.	1
+cu --> pp, punct_comma, conj_c, pp, punct_comma, conj_c, pp.	1
+fcl --> np, vp, pp, punct_comma, acl, punct_comma.	1
+np --> pron_det, punct_comma, advp, punct_comma, np.	1
+cu --> fcl, punct_comma, fcl, punct_comma, fcl, conj_c, fcl, punct_dot.	1
+fcl --> conj_c, advp, vp, pp.	1
+fcl --> conj_s, np, vp, advp, np, pp.	1
+np --> art, n, punct_double_dash, fcl, punct_double_dash.	1
+np --> n, adjp, pp, punct_comma, acl.	1
+fcl --> pp, np, vp, cu, pp, punct_dot.	1
+fcl --> punct_ltlt, pp, punct_gtgt, punct_comma, vp, pp.	1
+fcl --> vp, pp, punct_comma, icl.	1
+fcl --> pp, punct_comma, np, vp, pp, np, punct_dot.	1
+icl --> vp, pp, punct_comma, pp, punct_comma, pp, punct_comma.	1
+icl --> np, advp, vp, advp, np.	1
+fcl --> pp, punct_comma, np, vp, advp, vp, np, punct_dot.	1
+fcl --> conj_c, punct_comma, pp, punct_comma, np, vp, advp, punct_dot.	1
+x --> advp, advp, vp, advp, vp, pp.	1
+np --> n, np, punct_comma, pp.	1
+fcl --> advp, vp, pp, pp, punct_dot.	1
+fcl --> fcl, vp, cu, punct_dot.	1
+np --> adv, art, cu, n, pp.	1
+np --> pron_det, n, adjp, punct_comma, pp, cu.	1
+np --> adj, pp.	1
+np --> n, adjp, punct_open_curly_bracket, icl, punct_close_curly_bracket.	1
+np --> cu, pp, pp.	1
+fcl --> np, advp, vp, np, pp, punct_semicolon.	1
+cu --> punct_ltlt, fcl, punct_comma, conj_c, fcl, punct_gtgt, punct_dot.	1
+fcl --> advp, np, vp, adjp.	1
+fcl --> advp, punct_comma, np, vp, adjp, np, fcl, punct_dot.	1
+fcl --> np, vp, advp, advp, pp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, np, pp, punct_dot.	1
+fcl --> np, vp, pp, punct_comma, pp, punct_comma, np, punct_dot.	1
+adjp --> adv, n.	1
+cu --> adjp, punct_comma, adjp.	1
+cu --> adjp.	1
+fcl --> punct_ltlt, np, vp, cu, punct_comma, vp, np, punct_dot.	1
+fcl --> punct_ltlt, np, vp, pp, punct_dot.	1
+fcl --> np, vp, advp, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+icl --> advp, punct_ltlt, vp, punct_gtgt, np, punct_comma, pp.	1
+advp --> adv, icl.	1
+icl --> v_ger, pp, np.	1
+np --> art, n, pp, punct_comma, np, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, fcl.	1
+icl --> vp, punct_ltlt, np, punct_gtgt.	1
+np --> conj_c, np, punct_comma, pp, punct_comma, np, punct_dot.	1
+np --> pp, punct_comma, pp.	1
+cu --> np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, punct_comma, np, conj_c, np.	1
+fcl --> np, vp, np, advp, punct_comma, pp, punct_dot.	1
+np --> art, n, punct_ltlt, np, punct_gtgt, cu.	1
+icl --> vp, advp, adjp, np.	1
+fcl --> np, vp, np, pp, acl, punct_dot.	1
+np --> art, n, pp, cu, np.	1
+fcl --> np, vp, np, pp, punct_comma, np, pp, punct_comma, pp, punct_dot.	1
+fcl --> np, pp, vp, pp, punct_dot.	1
+np --> art, n, adjp, np, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np.	1
+fcl --> advp, np, advp, vp, icl.	1
+fcl --> np, vp, fcl, pp, punct_comma, fcl, punct_dot.	1
+np --> art, n, fcl, acl.	1
+fcl --> fcl, punct_comma, np, advp, np, vp, pp, punct_dot.	1
+fcl --> advp, punct_comma, adjp, vp, advp, np, punct_comma, fcl, punct_dot.	1
+icl --> np, pp.	1
+np --> art, v_inf, pp.	1
+fcl --> punct_ltlt, np, vp, cu, punct_gtgt.	1
+fcl --> advp, np, vp, np, punct_exclamation.	1
+fcl --> np, vp, pp, punct_comma, advp, punct_comma, pp, punct_dot.	1
+fcl --> punct_ltlt, np, vp, np, advp, punct_gtgt.	1
+fcl --> advp, vp, np, cu.	1
+fcl --> np, np, vp, fcl, punct_dot.	1
+np --> art, punct_ltlt, n_adj, punct_gtgt, punct_comma, np.	1
+fcl --> pp, punct_ltlt, advp, np, vp, advp, np, punct_gtgt, punct_dot.	1
+np --> art, ec, n, np, fcl.	1
+fcl --> np, vp, np, vp, advp.	1
+np --> art, n, adjp, pp, np.	1
+np --> art, n, punct_comma, punct_ltlt, np, punct_gtgt, punct_comma.	1
+fcl --> pp, punct_comma, np, vp, pp, icl, punct_dot.	1
+np --> art, n, pp, np.	1
+fcl --> np, punct_ltlt, advp, vp, pp, punct_gtgt, punct_comma, pp, punct_dot.	1
+acl --> conj_c, advp, punct_three_dots.	1
+fcl --> pp, punct_comma, advp, punct_comma, np, vp, fcl, punct_dot.	1
+fcl --> pp, cu, vp, np, punct_gtgt, punct_dot.	1
+fcl --> vp, np, pp, punct_semicolon.	1
+fcl --> fcl, vp, np, pp, punct_dot.	1
+acl --> advp, np, pp.	1
+fcl --> advp, vp, pp, np, punct_comma, pp, punct_dot.	1
+fcl --> conj_s, np, np, vp, advp, pp.	1
+fcl --> vp, advp, np, pp.	1
+fcl --> conj_c, vp, np, icl, punct_dot.	1
+icl --> vp, np, v_pcp, pp.	1
+np --> prop, punct_open_curly_bracket, np, punct_close_curly_bracket, punct_comma, np.	1
+fcl --> vp, np, np, pp, punct_dot.	1
+fcl --> icl, punct_comma, np, vp, advp, pp, pp, punct_dot.	1
+np --> art, n, adjp, punct_open_curly_bracket, adjp, punct_close_curly_bracket.	1
+fcl --> conj_s, vp, np, fcl.	1
+np --> art, punct_ltlt, n, punct_comma, fcl, punct_gtgt.	1
+np --> n, pp, punct_semicolon.	1
+np --> art, n, adjp, punct_ltlt, v_pcp, punct_gtgt, punct_comma, fcl, punct_comma.	1
+np --> art, n_adj, punct_semicolon, fcl.	1
+fcl --> advp, pp, punct_comma, icl, punct_comma, np, vp, pp, punct_comma, advp, punct_dot.	1
+np --> pron_det, prop, punct_open_curly_bracket, np, punct_close_curly_bracket.	1
+pp --> prp, np, advp.	1
+fcl --> fcl, vp, adjp, fcl, punct_dot, punct_gtgt.	1
+fcl --> conj_c, vp, icl.	1
+fcl --> conj_s, cu, np, vp, pp.	1
+fcl --> fcl, punct_gtgt, punct_comma, vp, np, pp, pp, punct_dot.	1
+np --> art, num, n, pp, punct_comma, icl, punct_comma.	1
+fcl --> pp, punct_ltlt, advp, vp, np, punct_comma, advp, vp, np, punct_gtgt, punct_dot.	1
+fcl --> fcl, punct_comma, vp, np, vp, np, punct_dot.	1
+np --> art, n, adv, np.	1
+pron_det --> n, pp.	1
+np --> art, prop, punct_open_curly_bracket, pp, punct_close_curly_bracket.	1
+cu --> pp, conj_c, pp, punct_comma, conj_c, pp.	1
+adjp --> adj, punct_comma, adjp.	1
+fcl --> np, vp, advp, adjp, punct_dot.	1
+np --> punct_ltlt, n, v_pcp, punct_gtgt.	1
+fcl --> np, vp, punct_comma, acl, punct_comma, np, punct_dot.	1
+fcl --> np, vp, np, punct_comma, pp, punct_comma, punct_ltlt, fcl, punct_gtgt.	1
+fcl --> pp, punct_comma, vp, adjp, cu, punct_dot.	1
+np --> pron_det, num, v_pcp, n, punct_semicolon, icl.	1
+fcl --> adv, cu, punct_comma, np, vp, v_pcp, acl, punct_dot.	1
+np --> art, adj, n, np, punct_comma, pp, punct_comma.	1
+cu --> conj_c, np, punct_comma, conj_c, np.	1
+fcl --> advp, np, vp, np, punct_comma, pp, fcl, punct_comma, np, vp, pp.	1
+fcl --> np, punct_comma, pp, punct_comma, advp, vp, cu.	1
+fcl --> vp, np, punct_semicolon, fcl, punct_dot.	1
+np --> cu, n, icl.	1
+np --> art, n, adjp, punct_open_curly_bracket, cu, advp, punct_close_curly_bracket.	1

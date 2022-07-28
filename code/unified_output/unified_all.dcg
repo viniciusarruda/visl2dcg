@@ -1,0 +1,51 @@
+acl --> np, pp.
+adj --> [federal] | [intelectuais] | [jovens].
+adjp --> adj.
+adjp --> num.
+adv --> [alias] | [mais] | [nao] | [so] | [tarde].
+advp --> adv.
+advp --> np, adv, adv.
+art --> [a] | [o] | [os].
+fcl --> icl, punct_comma, np, pp, advp, vp, advp, punct_dot.
+fcl --> np, vp, np, pp, punct_open_curly_bracket, punct_close_curly_bracket.
+fcl --> vp, np, punct_double_dash, advp, punct_comma, np, punct_dot.
+icl --> advp, vp, np.
+icl --> vp, pp.
+n --> [anos] | [entrada] | [estado] | [estrangeiros] | [estudo] | [governador] | [governo] | [sentido] | [usp].
+n_adj --> [intelectuais] | [jovens].
+np --> adj, n_adj, pp.
+np --> art, n, pp.
+np --> art, n.
+np --> art, prop.
+np --> n, adjp, pp.
+np --> n, pp.
+np --> n.
+np --> n_adj, adjp, pp.
+np --> np.
+np --> num, n.
+np --> pron_det, n.
+np --> prop.
+num --> [cinco] | [n1958].
+pp --> prp, adjp.
+pp --> prp, icl.
+pp --> prp, np.
+pp --> prp, punct_ltlt, np, punct_gtgt.
+pron_det --> [muitissimo].
+prop --> [eua] | [o_capital] | [pt] | [washington].
+prp --> [de] | [em] | [por].
+punct_close_curly_bracket --> [close_curly_bracket].
+punct_comma --> [comma].
+punct_dot --> [dot].
+punct_double_dash --> [double_dash].
+punct_gtgt --> [gtgt].
+punct_ltlt --> [ltlt].
+punct_open_curly_bracket --> [open_curly_bracket].
+punct_open_curly_bracket --> prp, np.
+s --> acl.
+s --> fcl.
+v_fin --> [acusa] | [tem] | [terminaria].
+v_inf --> [impedir].
+v_pcp --> [iniciado].
+vp --> v_fin.
+vp --> v_inf.
+vp --> v_pcp.

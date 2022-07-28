@@ -1,0 +1,109 @@
+#1 CF1-1 PT no governo
+(FRASE CF1-1 (UTT:acl (SUBJ:np (H:prop:PT:M_S: PT))
+                      (SA:pp (H:prp:em:::: em+)
+                             (P<:np (>N:art:o:M_S::artd: o)
+                                    (H:n:governo:M_S::: governo)))))
+
+#3 CF1-4 Tem sentido -- aliás, muitíssimo sentido.
+(FRASE CF1-4 (STA:fcl (P:vp (MV:v-fin:ter:PR_3S_IND::nosubj: Tem))
+                      (ACC:np- (H:n:sentido:M_S::anr_np-idf: sentido))
+                      (--)
+                      (ADVL:advp (H:adv:aliás:kc: aliás))
+                      (,)
+                      (-ACC:np (N<PRED:np 
+                                 (>N:pron-det:muitíssimo:M_S::SUP:quant: muitíssimo)
+                                 (H:n:sentido:M_S::anr_np-idf: sentido)))
+                      (.)))
+
+#474 CF121-2 Governador do Estado acusa governo federal dos EUA de não impedir entrada de estrangeiros (De Washington)
+(FRASE CF121-2 (STA:fcl (SUBJ:np (H:n:governador:M_S::np-idf: Governador)
+                                 (N<:pp (H:prp:de:: de+)
+                                        (P<:np 
+                                          (>N:art:o:M_S::artd: o)
+                                          (H:n:estado:M_S::np-def:prop: Estado))))
+                        (P:vp (MV:v-fin:acusar:PR_3S_IND::: acusa))
+                        (ACC:np (H:n:governo:M_S::np-idf: governo)
+                                (N<:adjp 
+                                  (H:adj:federal:M_S::: federal))
+                                (N<:pp (H:prp:de:::: de+)
+                                       (P<:np 
+                                         (>N:art:o:M_P::artd: os)
+                                         (H:prop:EUA:M_P::: EUA))))
+                        (PIV:pp (H:prp:de:::: de)
+                                (P<:icl (ADVL:advp 
+                                          (H:adv:não:::: não))
+                                        (P:vp 
+                                          (MV:v-inf:impedir:::: impedir))
+                                        (ACC:np 
+                                          (H:n:entrada:F_S::np-idf: entrada)
+                                          (N<ARGS:pp 
+                                            (H:prp:de:::: de)
+                                            (P<:np 
+                                              (H:n:estrangeiro:M_P::np-idf: estrangeiros))))))
+                        ({ (H:prp:de:::: De)
+                           (P<:np (H:prop:Washington:M_S::: Washington)))
+                        (})))
+
+#836 CF197-1 Iniciado em 1958, o estudo de «O Capital» por jovens intelectuais da USP só terminaria cinco anos mais tarde.
+(FRASE CF197-1 (STA:fcl (SA:icl (P:vp (MV:v-pcp:iniciar:M_S: Iniciado))
+                                (ADVL:pp 
+                                  (H:prp:em:::: em)
+                                  (P<:adjp 
+                                    (H:num:1958:M_P::card: 1958))))
+                        (,)
+                        (SUBJ:np (>N:art:o:M_S::artd: o)
+                                 (H:n:estudo:M_S::np-def: estudo)
+                                 (N<:pp (H:prp:de:::: de)
+                                        («)
+                                        (P<:np 
+                                          (H:prop:O_Capital:M_S::: O_Capital))
+                                        (»)))
+                        (PASS:pp (H:prp:por:::: por)
+                                 (P<:np (H:n-adj:jovem:M_P::: jovens)
+                                        (N<:adjp 
+                                          (H:adj:intelectual:M_P::anr_np-idf: intelectuais))
+                                        (N<:pp 
+                                          (H:prp:de:::: de+)
+                                          (P<:np 
+                                            (>N:art:o:F_S::artd: a)
+                                            (H:n:USP:F_S::np-def:prop: USP)))))
+                        (ADVL:advp (H:adv:só:::: só))
+                        (P:vp (MV:v-fin:terminar:PR_3S_COND::: terminaria))
+                        (ADVL:advp (>A:np 
+                                     (>N:num:cinco:M_P::card: cinco)
+                                     (H:n:ano:M_P::anr_np-count:anr_np-def: anos))
+                                   (>A:adv:mais:_::KOMP:quant: mais)
+                                   (H:adv:tarde:::: tarde))
+                        (.)))
+
+(FRASE CF197-1a (STA:fcl (SA:icl (P:vp (MV:v-pcp:iniciar:M_S: Iniciado))
+                                 (ADVL:pp 
+                                   (H:prp:em:::: em)
+                                   (P<:adjp 
+                                     (H:num:1958:M_P::card: 1958))))
+                         (,)
+                         (SUBJ:np (>N:art:o:M_S::artd: o)
+                                  (H:n:estudo:M_S::: estudo)
+                                  (N<:pp 
+                                    (H:prp:de:::: de)
+                                    («)
+                                    (P<:np 
+                                      (H:prop:O_Capital:M_S::: O_Capital))
+                                    (»)))
+                         (PASS:pp (H:prp:por:::: por)
+                                  (P<:np 
+                                    (>N:adj:jovem:M_P::: jovens)
+                                    (H:n-adj:intelectual:M_P::: intelectuais)
+                                    (N<:pp 
+                                      (H:prp:de:::: de+)
+                                      (P<:np 
+                                        (>N:art:o:F_S::artd: a)
+                                        (H:n:USP:F_S::prop: USP)))))
+                         (ADVL:advp (H:adv:só:::: só))
+                         (P:vp (MV:v-fin:terminar:PR_3S_COND::: terminaria))
+                         (ADVL:advp (>A:np 
+                                      (>N:num:cinco:M_P::card: cinco)
+                                      (H:n:ano:M_P::: anos))
+                                    (>A:adv:mais:_::KOMP:quant: mais)
+                                    (H:adv:tarde:::: tarde))
+                         (.)))
