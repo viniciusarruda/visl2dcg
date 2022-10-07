@@ -395,7 +395,7 @@ if __name__ == '__main__':
 
 # REUNIAO
 # TODO checar se esta no https://www.linguateca.pt/Floresta/doc/VISLsymbolset-Floresta.html 
-# as formas que estou estraindo
+# as formas que estou extraindo
 
 # s(X, []) prolog
 # resultar a proabilidade da arvore final
