@@ -293,9 +293,7 @@ def join_dcgs(file_path: str, output_file_path: str):
     for right, grouped_rules in grouped_left.items():
         rules += grouped_rules
     rules.sort(key=lambda x: x[1], reverse=True)
-    longest_rule_lenght = len(max(rules, key=lambda x: len(x[0]))[0])
-    
-    non_terminals_output = [f'{r.ljust(longest_rule_lenght)}    %    freq: {c:<6}    sentence_freq: {s:<6}    prob: {p:.6f}' 
+    non_terminals_output = [f"{r}\t\t%freq: {c}; sentence_freq: {s}; prob: {f'{p:.6f}'.replace('.', ',')}" 
                             for r, c, s, p in rules]
     # sorting to group the rules by its initials (SWI-Prolog warns about this)
     # non_terminals_output.sort(key=lambda x: x.split(' --> ')[0])
@@ -378,3 +376,11 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# todo:
+# tentar colocar o comentario com as estatisticas mais proximo
+# escrever readme
+# adiantar o maximo do relatorio
+# avisar ao thiago que o codigo ta ajeitado e no git
+# enviar o relatorio parcial ao thiago
