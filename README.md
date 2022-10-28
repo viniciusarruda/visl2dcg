@@ -117,3 +117,18 @@ v(correu) --> [correu].
 
 s(X,Frase,[]).
 
+
+
+# TODO
+- gerar arquivos com os nomes das regras não terminais, extraindo as sentenças anotadas
+- listar as árvores com problemas de estruturação em um arquivo
+- fazer o mesmo com CETEMPúblico
+
+- *mapear as inconsistencias (apenas listar) que o script n foi capaz de interpretar
+
+
+# TODO
+- fix the counting of frequencies in sentences... 
+- double check if this is counting wrong.. because there are cases which we have two trees for a same sentence..
+- example #1040
+- in total there are 4213 sentences, but we have 4216 trees

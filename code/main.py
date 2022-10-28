@@ -5,6 +5,7 @@ import string
 import graphviz
 from tqdm import tqdm
 from unidecode import unidecode
+from typing import List, Dict, Tuple
 
 map_puncts = {
     '?': 'question_mark',
@@ -72,7 +73,7 @@ def render_graphviz(caption: str, formatted_tree: defaultdict, terminals: defaul
             g.edge(parent, child)
     g.save()
                 
-    graphviz.render('dot', 'png', os.path.join(output_folder, 'graphviz', f'{filename}.gv'))
+    graphviz.render('dot', 'jpg', os.path.join(output_folder, 'graphviz', f'{filename}.gv'))
     os.remove(os.path.join(output_folder, 'graphviz', f'{filename}.gv')) # removes graphviz graph file
 
 
@@ -150,7 +151,15 @@ def format_tree(tree):
     return formatted_tree
 
 
-def save_dcg(formatted_tree: defaultdict, terminals: defaultdict, output_folder: str, filename: str):
+def format_save_dcg(formatted_tree: defaultdict, terminals: defaultdict, rule2sentence_tracker: defaultdict, output_folder: str, identifier: str):
+    """
+    TOFIX Tracks the sentences where each rule occurs.
+    Parameters:
+      rule2sentence_tracker - A dictionary (defaultdict(set)) mapping the rule to a list of sentence code (number followed by an id, e.g, #4213 CF999-1).
+                     This will be used later to save the original annotation to a file separated by rules.
+      header - Header of the annotated sentence.
+    """
+
 
     def process_non_terminal(non_terminal: str, terminals_to_add: dict = None):
 
@@ -174,7 +183,9 @@ def save_dcg(formatted_tree: defaultdict, terminals: defaultdict, output_folder:
     for left, right in formatted_tree.items():
         left = process_non_terminal(remove_id(left))
         right = [process_non_terminal(remove_id(r), terminals_to_add) for r in right]
-        dcg.append(f"{left} --> {', '.join(right)}.")
+        dcg_rule = f"{left} --> {', '.join(right)}."
+        dcg.append(dcg_rule)
+        rule2sentence_tracker[dcg_rule].add(identifier.split('_')[0]) # Only the number part, without the #
 
     dcg.sort()
 
@@ -193,9 +204,46 @@ def save_dcg(formatted_tree: defaultdict, terminals: defaultdict, output_folder:
         right = [f'[{r}]' for r in set(right)]
         dcg.append(f"{left} --> {' | '.join(right)}.")
 
-    with open(os.path.join(output_folder, 'dcgs', f'{filename}.dcg'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(output_folder, 'dcgs', f"{identifier}.dcg"), 'w', encoding='utf-8') as f:
         f.write('\n'.join(dcg))
 
+def save_rule2sentence_tracker(file_path: str, rule2sentence_tracker: defaultdict, output_folder: str) -> None:
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = f.read()
+
+    lines = lines.split('#')
+    lines = [line for line in lines if len(line) > 0] # remove some empty lines
+    lines = {line.split(' ')[0]: line for line in lines} # make a hash to access in O(1)
+    
+
+    # Due to long rules, handle filenames that can be longer than the allowed by the OS
+    max_filename_length = 64 # considering only the dcg_rule length
+
+    # Counts the truncated filenames frequency
+    filename_counter = defaultdict(int)
+    for dcg_rule in rule2sentence_tracker:
+        shortened_dcg_rule = dcg_rule[:max_filename_length]
+        filename_counter[shortened_dcg_rule] += 1
+    
+    duplicated_filenames_ids = defaultdict(int)
+    filename_mapping = {}
+    for dcg_rule in rule2sentence_tracker:
+        shortened_dcg_rule = dcg_rule[:max_filename_length]
+        if filename_counter[shortened_dcg_rule] == 1:
+            if len(dcg_rule) > max_filename_length:
+                filename_mapping[dcg_rule] = f"{dcg_rule}_truncated.ptb"
+            else:
+                filename_mapping[dcg_rule] = f"{dcg_rule}.ptb"
+        else:
+            # handle conflicts
+            filename_mapping[dcg_rule] = f'{shortened_dcg_rule}_truncated_id_{duplicated_filenames_ids[shortened_dcg_rule]}.ptb'
+            duplicated_filenames_ids[shortened_dcg_rule] += 1
+
+    for dcg_rule, sentences_number in tqdm(rule2sentence_tracker.items()):
+
+        with open(os.path.join(output_folder, 'sentences_by_rule', filename_mapping[dcg_rule]), 'w', encoding='utf-8') as f:
+            f.write(f'{len(sentences_number)} sentence(s) containing the rule: {dcg_rule}\n\n' + ''.join(['#' + lines[sn] for sn in sentences_number]))
 
 def read_PennTreebank(file_path: str, output_folder: str, graphviz: bool):
 
@@ -225,6 +273,7 @@ def read_PennTreebank(file_path: str, output_folder: str, graphviz: bool):
                 header = f'{number} {code} {sentence}'
                 trees.append((header, ' '.join(tree)))
 
+    rule2sentence_tracker = defaultdict(set)
     for header, tree in tqdm(trees):
 
         identifier = '_'.join(header[1:].split(' ')[:2])
@@ -232,10 +281,12 @@ def read_PennTreebank(file_path: str, output_folder: str, graphviz: bool):
         terminals = defaultdict(list)
         parsed_tree = parse_PennTreebank(tree, terminals)
         formatted_tree = format_tree(parsed_tree)
-        save_dcg(formatted_tree, terminals, output_folder, filename=identifier)
+        format_save_dcg(formatted_tree, terminals, rule2sentence_tracker, output_folder, identifier)
         
         if graphviz:
             render_graphviz(header, formatted_tree, terminals, output_folder, filename=identifier)
+
+    save_rule2sentence_tracker(file_path, rule2sentence_tracker, output_folder)
         
 
 def read_format_save(file_format: str, file_path: str, output_folder: str, graphviz: bool):
@@ -292,7 +343,7 @@ def join_dcgs(file_path: str, output_file_path: str):
     rules = []
     for right, grouped_rules in grouped_left.items():
         rules += grouped_rules
-    rules.sort(key=lambda x: x[1], reverse=True)
+    rules.sort(key=lambda x: (x[1], x[3]), reverse=True)
     non_terminals_output = [f"{r}\t\t%freq: {c}; sentence_freq: {s}; prob: {f'{p:.6f}'.replace('.', ',')}" 
                             for r, c, s, p in rules]
     # sorting to group the rules by its initials (SWI-Prolog warns about this)
@@ -366,6 +417,9 @@ def main():
     # To store the DCG of each sentence
     os.makedirs(os.path.join(args.output_folder, 'dcgs'))
 
+    # To store the sentence of each DCG rule
+    os.makedirs(os.path.join(args.output_folder, 'sentences_by_rule'))
+
     # Read the file in the specified format, process each sentence in a DCG format then save it individually.
     read_format_save(args.file_format, args.file_path, args.output_folder, args.graphviz)
 
@@ -378,9 +432,3 @@ if __name__ == '__main__':
     main()
 
 
-# todo:
-# tentar colocar o comentario com as estatisticas mais proximo
-# escrever readme
-# adiantar o maximo do relatorio
-# avisar ao thiago que o codigo ta ajeitado e no git
-# enviar o relatorio parcial ao thiago
