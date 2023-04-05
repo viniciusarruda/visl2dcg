@@ -55,7 +55,7 @@ Example of usage:
 python main.py --file_path ../dataset/Bosque_CF_8.0.PennTreebank_utf8.ptb --file_format PennTreebank --output_folder ../output
 ```
 
-
+<!---
 # visl2dcg
 OLD STUFF, TO INCLUDE LATER
 
@@ -109,11 +109,11 @@ dá um ctrl + f em P.vp -> só tem uma ocorrencia, acho que é bug, acho que dev
 
 
 # EXEMPLO DE DCG e entrada para arvore deitada
-s(sent(sn(X),sv(Y))) --> sn(X), sv(Y).
-sn(pro(X)) --> pro(X).
-sv(v(X)) --> v(X).
-pro(ele) --> [ele].
-v(correu) --> [correu].
+s(sent(sn(X),sv(Y))) -> sn(X), sv(Y).
+sn(pro(X)) -> pro(X).
+sv(v(X)) -> v(X).
+pro(ele) -> [ele].
+v(correu) -> [correu].
 
 s(X,Frase,[]).
 
@@ -132,3 +132,4 @@ s(X,Frase,[]).
 - double check if this is counting wrong.. because there are cases which we have two trees for a same sentence..
 - example #1040
 - in total there are 4213 sentences, but we have 4216 trees
+-->
